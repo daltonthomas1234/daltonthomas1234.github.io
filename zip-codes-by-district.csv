@@ -21855,179 +21855,179 @@ zip,place,state,district,ruling
 45789,Wingett Run,OH,Ohio Southern,No decision yet
 45845,Fort Loramie,OH,Ohio Southern,No decision yet
 45999,Cincinnati,OH,Ohio Southern,No decision yet
-73001,Albert,OK,Oklahoma Western,No decision yet
-73002,Alex,OK,Oklahoma Western,No decision yet
-73003,Edmond,OK,Oklahoma Western,No decision yet
-73004,Amber,OK,Oklahoma Western,No decision yet
-73005,Anadarko,OK,Oklahoma Western,No decision yet
-73006,Apache,OK,Oklahoma Western,No decision yet
-73007,Arcadia,OK,Oklahoma Western,No decision yet
-73008,Bethany,OK,Oklahoma Western,No decision yet
-73009,Binger,OK,Oklahoma Western,No decision yet
-73010,Blanchard,OK,Oklahoma Western,No decision yet
-73011,Bradley,OK,Oklahoma Western,No decision yet
-73012,Edmond,OK,Oklahoma Western,No decision yet
-73013,Edmond,OK,Oklahoma Western,No decision yet
-73014,Calumet,OK,Oklahoma Western,No decision yet
-73015,Carnegie,OK,Oklahoma Western,No decision yet
-73016,Cashion,OK,Oklahoma Western,No decision yet
-73017,Cement,OK,Oklahoma Western,No decision yet
-73018,Chickasha,OK,Oklahoma Western,No decision yet
-73019,Norman,OK,Oklahoma Western,No decision yet
-73020,Choctaw,OK,Oklahoma Western,No decision yet
-73021,Colony,OK,Oklahoma Western,No decision yet
-73022,Concho,OK,Oklahoma Western,No decision yet
-73023,Chickasha,OK,Oklahoma Western,No decision yet
-73024,Corn,OK,Oklahoma Western,No decision yet
-73025,Edmond,OK,Oklahoma Western,No decision yet
-73026,Norman,OK,Oklahoma Western,No decision yet
-73027,Coyle,OK,Oklahoma Western,No decision yet
-73028,Crescent,OK,Oklahoma Western,No decision yet
-73029,Cyril,OK,Oklahoma Western,No decision yet
+73001,Albert,OK,Oklahoma Western,Texts not treated as calls
+73002,Alex,OK,Oklahoma Western,Texts not treated as calls
+73003,Edmond,OK,Oklahoma Western,Texts not treated as calls
+73004,Amber,OK,Oklahoma Western,Texts not treated as calls
+73005,Anadarko,OK,Oklahoma Western,Texts not treated as calls
+73006,Apache,OK,Oklahoma Western,Texts not treated as calls
+73007,Arcadia,OK,Oklahoma Western,Texts not treated as calls
+73008,Bethany,OK,Oklahoma Western,Texts not treated as calls
+73009,Binger,OK,Oklahoma Western,Texts not treated as calls
+73010,Blanchard,OK,Oklahoma Western,Texts not treated as calls
+73011,Bradley,OK,Oklahoma Western,Texts not treated as calls
+73012,Edmond,OK,Oklahoma Western,Texts not treated as calls
+73013,Edmond,OK,Oklahoma Western,Texts not treated as calls
+73014,Calumet,OK,Oklahoma Western,Texts not treated as calls
+73015,Carnegie,OK,Oklahoma Western,Texts not treated as calls
+73016,Cashion,OK,Oklahoma Western,Texts not treated as calls
+73017,Cement,OK,Oklahoma Western,Texts not treated as calls
+73018,Chickasha,OK,Oklahoma Western,Texts not treated as calls
+73019,Norman,OK,Oklahoma Western,Texts not treated as calls
+73020,Choctaw,OK,Oklahoma Western,Texts not treated as calls
+73021,Colony,OK,Oklahoma Western,Texts not treated as calls
+73022,Concho,OK,Oklahoma Western,Texts not treated as calls
+73023,Chickasha,OK,Oklahoma Western,Texts not treated as calls
+73024,Corn,OK,Oklahoma Western,Texts not treated as calls
+73025,Edmond,OK,Oklahoma Western,Texts not treated as calls
+73026,Norman,OK,Oklahoma Western,Texts not treated as calls
+73027,Coyle,OK,Oklahoma Western,Texts not treated as calls
+73028,Crescent,OK,Oklahoma Western,Texts not treated as calls
+73029,Cyril,OK,Oklahoma Western,Texts not treated as calls
 73030,Davis,OK,Oklahoma Eastern,No decision yet
-73031,Dibble,OK,Oklahoma Western,No decision yet
+73031,Dibble,OK,Oklahoma Western,Texts not treated as calls
 73032,Dougherty,OK,Oklahoma Eastern,No decision yet
-73033,Eakly,OK,Oklahoma Western,No decision yet
-73034,Edmond,OK,Oklahoma Western,No decision yet
-73036,El Reno,OK,Oklahoma Western,No decision yet
-73038,Fort Cobb,OK,Oklahoma Western,No decision yet
+73033,Eakly,OK,Oklahoma Western,Texts not treated as calls
+73034,Edmond,OK,Oklahoma Western,Texts not treated as calls
+73036,El Reno,OK,Oklahoma Western,Texts not treated as calls
+73038,Fort Cobb,OK,Oklahoma Western,Texts not treated as calls
 73039,Davis,OK,Oklahoma Eastern,No decision yet
-73040,Geary,OK,Oklahoma Western,No decision yet
-73041,Gotebo,OK,Oklahoma Western,No decision yet
-73042,Gracemont,OK,Oklahoma Western,No decision yet
-73043,Greenfield,OK,Oklahoma Western,No decision yet
-73044,Guthrie,OK,Oklahoma Western,No decision yet
-73045,Harrah,OK,Oklahoma Western,No decision yet
-73047,Hinton,OK,Oklahoma Western,No decision yet
-73048,Hydro,OK,Oklahoma Western,No decision yet
-73049,Jones,OK,Oklahoma Western,No decision yet
-73050,Langston,OK,Oklahoma Western,No decision yet
-73051,Lexington,OK,Oklahoma Western,No decision yet
-73052,Lindsay,OK,Oklahoma Western,No decision yet
-73053,Lookeba,OK,Oklahoma Western,No decision yet
-73054,Luther,OK,Oklahoma Western,No decision yet
-73055,Marlow,OK,Oklahoma Western,No decision yet
-73056,Marshall,OK,Oklahoma Western,No decision yet
-73057,Maysville,OK,Oklahoma Western,No decision yet
-73058,Meridian,OK,Oklahoma Western,No decision yet
-73059,Minco,OK,Oklahoma Western,No decision yet
-73061,Morrison,OK,Oklahoma Western,No decision yet
-73062,Mountain View,OK,Oklahoma Western,No decision yet
-73063,Mulhall,OK,Oklahoma Western,No decision yet
-73064,Mustang,OK,Oklahoma Western,No decision yet
-73065,Newcastle,OK,Oklahoma Western,No decision yet
-73066,Nicoma Park,OK,Oklahoma Western,No decision yet
-73067,Ninnekah,OK,Oklahoma Western,No decision yet
-73068,Noble,OK,Oklahoma Western,No decision yet
-73069,Norman,OK,Oklahoma Western,No decision yet
-73070,Norman,OK,Oklahoma Western,No decision yet
-73071,Norman,OK,Oklahoma Western,No decision yet
-73072,Norman,OK,Oklahoma Western,No decision yet
-73073,Orlando,OK,Oklahoma Western,No decision yet
-73074,Paoli,OK,Oklahoma Western,No decision yet
-73075,Pauls Valley,OK,Oklahoma Western,No decision yet
-73077,Perry,OK,Oklahoma Western,No decision yet
-73078,Piedmont,OK,Oklahoma Western,No decision yet
-73079,Pocasset,OK,Oklahoma Western,No decision yet
-73080,Purcell,OK,Oklahoma Western,No decision yet
-73082,Rush Springs,OK,Oklahoma Western,No decision yet
-73083,Edmond,OK,Oklahoma Western,No decision yet
-73084,Spencer,OK,Oklahoma Western,No decision yet
-73085,Yukon,OK,Oklahoma Western,No decision yet
+73040,Geary,OK,Oklahoma Western,Texts not treated as calls
+73041,Gotebo,OK,Oklahoma Western,Texts not treated as calls
+73042,Gracemont,OK,Oklahoma Western,Texts not treated as calls
+73043,Greenfield,OK,Oklahoma Western,Texts not treated as calls
+73044,Guthrie,OK,Oklahoma Western,Texts not treated as calls
+73045,Harrah,OK,Oklahoma Western,Texts not treated as calls
+73047,Hinton,OK,Oklahoma Western,Texts not treated as calls
+73048,Hydro,OK,Oklahoma Western,Texts not treated as calls
+73049,Jones,OK,Oklahoma Western,Texts not treated as calls
+73050,Langston,OK,Oklahoma Western,Texts not treated as calls
+73051,Lexington,OK,Oklahoma Western,Texts not treated as calls
+73052,Lindsay,OK,Oklahoma Western,Texts not treated as calls
+73053,Lookeba,OK,Oklahoma Western,Texts not treated as calls
+73054,Luther,OK,Oklahoma Western,Texts not treated as calls
+73055,Marlow,OK,Oklahoma Western,Texts not treated as calls
+73056,Marshall,OK,Oklahoma Western,Texts not treated as calls
+73057,Maysville,OK,Oklahoma Western,Texts not treated as calls
+73058,Meridian,OK,Oklahoma Western,Texts not treated as calls
+73059,Minco,OK,Oklahoma Western,Texts not treated as calls
+73061,Morrison,OK,Oklahoma Western,Texts not treated as calls
+73062,Mountain View,OK,Oklahoma Western,Texts not treated as calls
+73063,Mulhall,OK,Oklahoma Western,Texts not treated as calls
+73064,Mustang,OK,Oklahoma Western,Texts not treated as calls
+73065,Newcastle,OK,Oklahoma Western,Texts not treated as calls
+73066,Nicoma Park,OK,Oklahoma Western,Texts not treated as calls
+73067,Ninnekah,OK,Oklahoma Western,Texts not treated as calls
+73068,Noble,OK,Oklahoma Western,Texts not treated as calls
+73069,Norman,OK,Oklahoma Western,Texts not treated as calls
+73070,Norman,OK,Oklahoma Western,Texts not treated as calls
+73071,Norman,OK,Oklahoma Western,Texts not treated as calls
+73072,Norman,OK,Oklahoma Western,Texts not treated as calls
+73073,Orlando,OK,Oklahoma Western,Texts not treated as calls
+73074,Paoli,OK,Oklahoma Western,Texts not treated as calls
+73075,Pauls Valley,OK,Oklahoma Western,Texts not treated as calls
+73077,Perry,OK,Oklahoma Western,Texts not treated as calls
+73078,Piedmont,OK,Oklahoma Western,Texts not treated as calls
+73079,Pocasset,OK,Oklahoma Western,Texts not treated as calls
+73080,Purcell,OK,Oklahoma Western,Texts not treated as calls
+73082,Rush Springs,OK,Oklahoma Western,Texts not treated as calls
+73083,Edmond,OK,Oklahoma Western,Texts not treated as calls
+73084,Spencer,OK,Oklahoma Western,Texts not treated as calls
+73085,Yukon,OK,Oklahoma Western,Texts not treated as calls
 73086,Sulphur,OK,Oklahoma Eastern,No decision yet
-73089,Tuttle,OK,Oklahoma Western,No decision yet
-73090,Union City,OK,Oklahoma Western,No decision yet
-73092,Verden,OK,Oklahoma Western,No decision yet
-73093,Washington,OK,Oklahoma Western,No decision yet
-73095,Wayne,OK,Oklahoma Western,No decision yet
-73096,Weatherford,OK,Oklahoma Western,No decision yet
-73097,Wheatland,OK,Oklahoma Western,No decision yet
-73098,Wynnewood,OK,Oklahoma Western,No decision yet
-73099,Yukon,OK,Oklahoma Western,No decision yet
-73101,Oklahoma City,OK,Oklahoma Western,No decision yet
-73102,Oklahoma City,OK,Oklahoma Western,No decision yet
-73103,Oklahoma City,OK,Oklahoma Western,No decision yet
-73104,Oklahoma City,OK,Oklahoma Western,No decision yet
-73105,Oklahoma City,OK,Oklahoma Western,No decision yet
-73106,Oklahoma City,OK,Oklahoma Western,No decision yet
-73107,Oklahoma City,OK,Oklahoma Western,No decision yet
-73108,Oklahoma City,OK,Oklahoma Western,No decision yet
-73109,Oklahoma City,OK,Oklahoma Western,No decision yet
-73110,Oklahoma City,OK,Oklahoma Western,No decision yet
-73111,Oklahoma City,OK,Oklahoma Western,No decision yet
-73112,Oklahoma City,OK,Oklahoma Western,No decision yet
-73113,Oklahoma City,OK,Oklahoma Western,No decision yet
-73114,Oklahoma City,OK,Oklahoma Western,No decision yet
-73115,Oklahoma City,OK,Oklahoma Western,No decision yet
-73116,Oklahoma City,OK,Oklahoma Western,No decision yet
-73117,Oklahoma City,OK,Oklahoma Western,No decision yet
-73118,Oklahoma City,OK,Oklahoma Western,No decision yet
-73119,Oklahoma City,OK,Oklahoma Western,No decision yet
-73120,Oklahoma City,OK,Oklahoma Western,No decision yet
-73121,Oklahoma City,OK,Oklahoma Western,No decision yet
-73122,Oklahoma City,OK,Oklahoma Western,No decision yet
-73123,Oklahoma City,OK,Oklahoma Western,No decision yet
-73124,Oklahoma City,OK,Oklahoma Western,No decision yet
-73125,Oklahoma City,OK,Oklahoma Western,No decision yet
-73126,Oklahoma City,OK,Oklahoma Western,No decision yet
-73127,Oklahoma City,OK,Oklahoma Western,No decision yet
-73128,Oklahoma City,OK,Oklahoma Western,No decision yet
-73129,Oklahoma City,OK,Oklahoma Western,No decision yet
-73130,Oklahoma City,OK,Oklahoma Western,No decision yet
-73131,Oklahoma City,OK,Oklahoma Western,No decision yet
-73132,Oklahoma City,OK,Oklahoma Western,No decision yet
-73134,Oklahoma City,OK,Oklahoma Western,No decision yet
-73135,Oklahoma City,OK,Oklahoma Western,No decision yet
-73136,Oklahoma City,OK,Oklahoma Western,No decision yet
-73137,Oklahoma City,OK,Oklahoma Western,No decision yet
-73139,Oklahoma City,OK,Oklahoma Western,No decision yet
-73140,Oklahoma City,OK,Oklahoma Western,No decision yet
-73141,Oklahoma City,OK,Oklahoma Western,No decision yet
-73142,Oklahoma City,OK,Oklahoma Western,No decision yet
-73143,Oklahoma City,OK,Oklahoma Western,No decision yet
-73144,Oklahoma City,OK,Oklahoma Western,No decision yet
-73145,Oklahoma City,OK,Oklahoma Western,No decision yet
-73146,Oklahoma City,OK,Oklahoma Western,No decision yet
-73147,Oklahoma City,OK,Oklahoma Western,No decision yet
-73148,Oklahoma City,OK,Oklahoma Western,No decision yet
-73149,Oklahoma City,OK,Oklahoma Western,No decision yet
-73150,Oklahoma City,OK,Oklahoma Western,No decision yet
-73151,Oklahoma City,OK,Oklahoma Western,No decision yet
-73152,Oklahoma City,OK,Oklahoma Western,No decision yet
-73153,Oklahoma City,OK,Oklahoma Western,No decision yet
-73154,Oklahoma City,OK,Oklahoma Western,No decision yet
-73155,Oklahoma City,OK,Oklahoma Western,No decision yet
-73156,Oklahoma City,OK,Oklahoma Western,No decision yet
-73157,Oklahoma City,OK,Oklahoma Western,No decision yet
-73159,Oklahoma City,OK,Oklahoma Western,No decision yet
-73160,Oklahoma City,OK,Oklahoma Western,No decision yet
-73162,Oklahoma City,OK,Oklahoma Western,No decision yet
-73163,Oklahoma City,OK,Oklahoma Western,No decision yet
-73164,Oklahoma City,OK,Oklahoma Western,No decision yet
-73165,Oklahoma City,OK,Oklahoma Western,No decision yet
-73167,Oklahoma City,OK,Oklahoma Western,No decision yet
-73169,Oklahoma City,OK,Oklahoma Western,No decision yet
-73170,Oklahoma City,OK,Oklahoma Western,No decision yet
-73172,Oklahoma City,OK,Oklahoma Western,No decision yet
-73173,Oklahoma City,OK,Oklahoma Western,No decision yet
-73175,Oklahoma City,OK,Oklahoma Western,No decision yet
-73178,Oklahoma City,OK,Oklahoma Western,No decision yet
-73179,Oklahoma City,OK,Oklahoma Western,No decision yet
-73184,Oklahoma City,OK,Oklahoma Western,No decision yet
-73185,Oklahoma City,OK,Oklahoma Western,No decision yet
-73189,Oklahoma City,OK,Oklahoma Western,No decision yet
-73190,Oklahoma City,OK,Oklahoma Western,No decision yet
-73194,Oklahoma City,OK,Oklahoma Western,No decision yet
-73195,Oklahoma City,OK,Oklahoma Western,No decision yet
-73196,Oklahoma City,OK,Oklahoma Western,No decision yet
+73089,Tuttle,OK,Oklahoma Western,Texts not treated as calls
+73090,Union City,OK,Oklahoma Western,Texts not treated as calls
+73092,Verden,OK,Oklahoma Western,Texts not treated as calls
+73093,Washington,OK,Oklahoma Western,Texts not treated as calls
+73095,Wayne,OK,Oklahoma Western,Texts not treated as calls
+73096,Weatherford,OK,Oklahoma Western,Texts not treated as calls
+73097,Wheatland,OK,Oklahoma Western,Texts not treated as calls
+73098,Wynnewood,OK,Oklahoma Western,Texts not treated as calls
+73099,Yukon,OK,Oklahoma Western,Texts not treated as calls
+73101,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73102,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73103,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73104,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73105,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73106,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73107,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73108,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73109,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73110,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73111,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73112,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73113,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73114,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73115,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73116,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73117,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73118,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73119,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73120,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73121,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73122,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73123,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73124,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73125,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73126,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73127,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73128,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73129,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73130,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73131,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73132,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73134,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73135,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73136,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73137,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73139,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73140,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73141,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73142,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73143,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73144,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73145,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73146,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73147,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73148,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73149,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73150,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73151,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73152,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73153,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73154,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73155,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73156,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73157,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73159,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73160,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73162,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73163,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73164,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73165,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73167,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73169,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73170,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73172,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73173,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73175,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73178,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73179,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73184,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73185,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73189,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73190,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73194,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73195,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
+73196,Oklahoma City,OK,Oklahoma Western,Texts not treated as calls
 73401,Ardmore,OK,Oklahoma Eastern,No decision yet
 73402,Ardmore,OK,Oklahoma Eastern,No decision yet
 73403,Ardmore,OK,Oklahoma Eastern,No decision yet
-73425,Countyline,OK,Oklahoma Western,No decision yet
+73425,Countyline,OK,Oklahoma Western,Texts not treated as calls
 73430,Burneyville,OK,Oklahoma Eastern,No decision yet
 73432,Coleman,OK,Oklahoma Eastern,No decision yet
-73433,Elmore City,OK,Oklahoma Western,No decision yet
-73434,Foster,OK,Oklahoma Western,No decision yet
+73433,Elmore City,OK,Oklahoma Western,Texts not treated as calls
+73434,Foster,OK,Oklahoma Western,Texts not treated as calls
 73435,Fox,OK,Oklahoma Eastern,No decision yet
 73436,Gene Autry,OK,Oklahoma Eastern,No decision yet
 73437,Graham,OK,Oklahoma Eastern,No decision yet
@@ -22035,7 +22035,7 @@ zip,place,state,district,ruling
 73439,Kingston,OK,Oklahoma Eastern,No decision yet
 73440,Lebanon,OK,Oklahoma Eastern,No decision yet
 73441,Leon,OK,Oklahoma Eastern,No decision yet
-73442,Loco,OK,Oklahoma Western,No decision yet
+73442,Loco,OK,Oklahoma Western,Texts not treated as calls
 73443,Lone Grove,OK,Oklahoma Eastern,No decision yet
 73444,Hennepin,OK,Oklahoma Eastern,No decision yet
 73446,Madill,OK,Oklahoma Eastern,No decision yet
@@ -22045,7 +22045,7 @@ zip,place,state,district,ruling
 73450,Milburn,OK,Oklahoma Eastern,No decision yet
 73453,Overbrook,OK,Oklahoma Eastern,No decision yet
 73455,Ravia,OK,Oklahoma Eastern,No decision yet
-73456,Ringling,OK,Oklahoma Western,No decision yet
+73456,Ringling,OK,Oklahoma Western,Texts not treated as calls
 73458,Springer,OK,Oklahoma Eastern,No decision yet
 73459,Thackerville,OK,Oklahoma Eastern,No decision yet
 73460,Tishomingo,OK,Oklahoma Eastern,No decision yet
@@ -22054,182 +22054,182 @@ zip,place,state,district,ruling
 73481,Ratliff City,OK,Oklahoma Eastern,No decision yet
 73487,Tatums,OK,Oklahoma Eastern,No decision yet
 73488,Tussy,OK,Oklahoma Eastern,No decision yet
-73491,Velma,OK,Oklahoma Western,No decision yet
-73501,Lawton,OK,Oklahoma Western,No decision yet
-73502,Lawton,OK,Oklahoma Western,No decision yet
-73503,Fort Sill,OK,Oklahoma Western,No decision yet
-73505,Lawton,OK,Oklahoma Western,No decision yet
-73506,Lawton,OK,Oklahoma Western,No decision yet
-73507,Lawton,OK,Oklahoma Western,No decision yet
-73520,Addington,OK,Oklahoma Western,No decision yet
-73521,Altus,OK,Oklahoma Western,No decision yet
-73522,Altus,OK,Oklahoma Western,No decision yet
-73523,Altus Afb,OK,Oklahoma Western,No decision yet
-73526,Blair,OK,Oklahoma Western,No decision yet
-73527,Cache,OK,Oklahoma Western,No decision yet
-73528,Chattanooga,OK,Oklahoma Western,No decision yet
-73529,Comanche,OK,Oklahoma Western,No decision yet
-73530,Davidson,OK,Oklahoma Western,No decision yet
-73531,Devol,OK,Oklahoma Western,No decision yet
-73532,Duke,OK,Oklahoma Western,No decision yet
-73533,Duncan,OK,Oklahoma Western,No decision yet
-73534,Duncan,OK,Oklahoma Western,No decision yet
-73536,Duncan,OK,Oklahoma Western,No decision yet
-73537,Eldorado,OK,Oklahoma Western,No decision yet
-73538,Elgin,OK,Oklahoma Western,No decision yet
-73539,Elmer,OK,Oklahoma Western,No decision yet
-73540,Faxon,OK,Oklahoma Western,No decision yet
-73541,Fletcher,OK,Oklahoma Western,No decision yet
-73542,Frederick,OK,Oklahoma Western,No decision yet
-73543,Geronimo,OK,Oklahoma Western,No decision yet
-73544,Gould,OK,Oklahoma Western,No decision yet
-73546,Grandfield,OK,Oklahoma Western,No decision yet
-73547,Granite,OK,Oklahoma Western,No decision yet
-73548,Hastings,OK,Oklahoma Western,No decision yet
-73549,Headrick,OK,Oklahoma Western,No decision yet
-73550,Hollis,OK,Oklahoma Western,No decision yet
-73551,Hollister,OK,Oklahoma Western,No decision yet
-73552,Indiahoma,OK,Oklahoma Western,No decision yet
-73553,Loveland,OK,Oklahoma Western,No decision yet
-73554,Mangum,OK,Oklahoma Western,No decision yet
-73555,Manitou,OK,Oklahoma Western,No decision yet
-73556,Martha,OK,Oklahoma Western,No decision yet
-73557,Medicine Park,OK,Oklahoma Western,No decision yet
-73558,Meers,OK,Oklahoma Western,No decision yet
-73559,Mountain Park,OK,Oklahoma Western,No decision yet
-73560,Olustee,OK,Oklahoma Western,No decision yet
-73561,Oscar,OK,Oklahoma Western,No decision yet
-73562,Randlett,OK,Oklahoma Western,No decision yet
-73564,Roosevelt,OK,Oklahoma Western,No decision yet
-73565,Ryan,OK,Oklahoma Western,No decision yet
-73566,Snyder,OK,Oklahoma Western,No decision yet
-73567,Sterling,OK,Oklahoma Western,No decision yet
-73568,Temple,OK,Oklahoma Western,No decision yet
-73569,Terral,OK,Oklahoma Western,No decision yet
-73570,Tipton,OK,Oklahoma Western,No decision yet
-73571,Vinson,OK,Oklahoma Western,No decision yet
-73572,Walters,OK,Oklahoma Western,No decision yet
-73573,Waurika,OK,Oklahoma Western,No decision yet
-73601,Clinton,OK,Oklahoma Western,No decision yet
-73620,Arapaho,OK,Oklahoma Western,No decision yet
-73622,Bessie,OK,Oklahoma Western,No decision yet
-73624,Burns Flat,OK,Oklahoma Western,No decision yet
-73625,Butler,OK,Oklahoma Western,No decision yet
-73626,Canute,OK,Oklahoma Western,No decision yet
-73627,Carter,OK,Oklahoma Western,No decision yet
-73628,Cheyenne,OK,Oklahoma Western,No decision yet
-73632,Cordell,OK,Oklahoma Western,No decision yet
-73638,Crawford,OK,Oklahoma Western,No decision yet
-73639,Custer City,OK,Oklahoma Western,No decision yet
-73641,Dill City,OK,Oklahoma Western,No decision yet
-73642,Durham,OK,Oklahoma Western,No decision yet
-73644,Elk City,OK,Oklahoma Western,No decision yet
-73645,Erick,OK,Oklahoma Western,No decision yet
-73646,Fay,OK,Oklahoma Western,No decision yet
-73647,Foss,OK,Oklahoma Western,No decision yet
-73648,Elk City,OK,Oklahoma Western,No decision yet
-73650,Hammon,OK,Oklahoma Western,No decision yet
-73651,Hobart,OK,Oklahoma Western,No decision yet
-73654,Leedey,OK,Oklahoma Western,No decision yet
-73655,Lone Wolf,OK,Oklahoma Western,No decision yet
-73658,Oakwood,OK,Oklahoma Western,No decision yet
-73659,Putnam,OK,Oklahoma Western,No decision yet
-73660,Reydon,OK,Oklahoma Western,No decision yet
-73661,Rocky,OK,Oklahoma Western,No decision yet
-73662,Sayre,OK,Oklahoma Western,No decision yet
-73663,Seiling,OK,Oklahoma Western,No decision yet
-73664,Sentinel,OK,Oklahoma Western,No decision yet
-73666,Sweetwater,OK,Oklahoma Western,No decision yet
-73667,Taloga,OK,Oklahoma Western,No decision yet
-73668,Texola,OK,Oklahoma Western,No decision yet
-73669,Thomas,OK,Oklahoma Western,No decision yet
-73673,Willow,OK,Oklahoma Western,No decision yet
-73701,Enid,OK,Oklahoma Western,No decision yet
-73702,Enid,OK,Oklahoma Western,No decision yet
-73703,Enid,OK,Oklahoma Western,No decision yet
-73705,Enid,OK,Oklahoma Western,No decision yet
-73706,Enid,OK,Oklahoma Western,No decision yet
-73716,Aline,OK,Oklahoma Western,No decision yet
-73717,Alva,OK,Oklahoma Western,No decision yet
-73718,Ames,OK,Oklahoma Western,No decision yet
-73719,Amorita,OK,Oklahoma Western,No decision yet
-73720,Bison,OK,Oklahoma Western,No decision yet
-73722,Burlington,OK,Oklahoma Western,No decision yet
-73724,Canton,OK,Oklahoma Western,No decision yet
-73726,Carmen,OK,Oklahoma Western,No decision yet
-73727,Carrier,OK,Oklahoma Western,No decision yet
-73728,Cherokee,OK,Oklahoma Western,No decision yet
-73729,Cleo Springs,OK,Oklahoma Western,No decision yet
-73730,Covington,OK,Oklahoma Western,No decision yet
-73731,Dacoma,OK,Oklahoma Western,No decision yet
-73733,Douglas,OK,Oklahoma Western,No decision yet
-73734,Dover,OK,Oklahoma Western,No decision yet
-73735,Drummond,OK,Oklahoma Western,No decision yet
-73736,Fairmont,OK,Oklahoma Western,No decision yet
-73737,Fairview,OK,Oklahoma Western,No decision yet
-73738,Garber,OK,Oklahoma Western,No decision yet
-73739,Goltry,OK,Oklahoma Western,No decision yet
-73741,Helena,OK,Oklahoma Western,No decision yet
-73742,Hennessey,OK,Oklahoma Western,No decision yet
-73743,Hillsdale,OK,Oklahoma Western,No decision yet
-73744,Hitchcock,OK,Oklahoma Western,No decision yet
-73746,Hopeton,OK,Oklahoma Western,No decision yet
-73747,Isabella,OK,Oklahoma Western,No decision yet
-73749,Jet,OK,Oklahoma Western,No decision yet
-73750,Kingfisher,OK,Oklahoma Western,No decision yet
-73753,Kremlin,OK,Oklahoma Western,No decision yet
-73754,Lahoma,OK,Oklahoma Western,No decision yet
-73755,Longdale,OK,Oklahoma Western,No decision yet
-73756,Loyal,OK,Oklahoma Western,No decision yet
-73757,Lucien,OK,Oklahoma Western,No decision yet
-73758,Manchester,OK,Oklahoma Western,No decision yet
-73759,Medford,OK,Oklahoma Western,No decision yet
-73760,Meno,OK,Oklahoma Western,No decision yet
-73761,Nash,OK,Oklahoma Western,No decision yet
-73762,Okarche,OK,Oklahoma Western,No decision yet
-73763,Okeene,OK,Oklahoma Western,No decision yet
-73764,Omega,OK,Oklahoma Western,No decision yet
-73766,Pond Creek,OK,Oklahoma Western,No decision yet
-73768,Ringwood,OK,Oklahoma Western,No decision yet
-73770,Southard,OK,Oklahoma Western,No decision yet
-73771,Wakita,OK,Oklahoma Western,No decision yet
-73772,Watonga,OK,Oklahoma Western,No decision yet
-73773,Waukomis,OK,Oklahoma Western,No decision yet
-73801,Woodward,OK,Oklahoma Western,No decision yet
-73802,Woodward,OK,Oklahoma Western,No decision yet
-73832,Arnett,OK,Oklahoma Western,No decision yet
-73834,Buffalo,OK,Oklahoma Western,No decision yet
-73835,Camargo,OK,Oklahoma Western,No decision yet
-73838,Chester,OK,Oklahoma Western,No decision yet
-73840,Fargo,OK,Oklahoma Western,No decision yet
-73841,Fort Supply,OK,Oklahoma Western,No decision yet
-73842,Freedom,OK,Oklahoma Western,No decision yet
-73843,Gage,OK,Oklahoma Western,No decision yet
-73844,Gate,OK,Oklahoma Western,No decision yet
-73848,Laverne,OK,Oklahoma Western,No decision yet
-73851,May,OK,Oklahoma Western,No decision yet
-73852,Mooreland,OK,Oklahoma Western,No decision yet
-73853,Mutual,OK,Oklahoma Western,No decision yet
-73855,Rosston,OK,Oklahoma Western,No decision yet
-73857,Sharon,OK,Oklahoma Western,No decision yet
-73858,Shattuck,OK,Oklahoma Western,No decision yet
-73859,Vici,OK,Oklahoma Western,No decision yet
-73860,Waynoka,OK,Oklahoma Western,No decision yet
-73901,Adams,OK,Oklahoma Western,No decision yet
-73931,Balko,OK,Oklahoma Western,No decision yet
-73932,Beaver,OK,Oklahoma Western,No decision yet
-73933,Boise City,OK,Oklahoma Western,No decision yet
-73937,Felt,OK,Oklahoma Western,No decision yet
-73938,Forgan,OK,Oklahoma Western,No decision yet
-73939,Goodwell,OK,Oklahoma Western,No decision yet
-73942,Guymon,OK,Oklahoma Western,No decision yet
-73944,Hardesty,OK,Oklahoma Western,No decision yet
-73945,Hooker,OK,Oklahoma Western,No decision yet
-73946,Kenton,OK,Oklahoma Western,No decision yet
-73947,Keyes,OK,Oklahoma Western,No decision yet
-73949,Texhoma,OK,Oklahoma Western,No decision yet
-73950,Turpin,OK,Oklahoma Western,No decision yet
-73951,Tyrone,OK,Oklahoma Western,No decision yet
+73491,Velma,OK,Oklahoma Western,Texts not treated as calls
+73501,Lawton,OK,Oklahoma Western,Texts not treated as calls
+73502,Lawton,OK,Oklahoma Western,Texts not treated as calls
+73503,Fort Sill,OK,Oklahoma Western,Texts not treated as calls
+73505,Lawton,OK,Oklahoma Western,Texts not treated as calls
+73506,Lawton,OK,Oklahoma Western,Texts not treated as calls
+73507,Lawton,OK,Oklahoma Western,Texts not treated as calls
+73520,Addington,OK,Oklahoma Western,Texts not treated as calls
+73521,Altus,OK,Oklahoma Western,Texts not treated as calls
+73522,Altus,OK,Oklahoma Western,Texts not treated as calls
+73523,Altus Afb,OK,Oklahoma Western,Texts not treated as calls
+73526,Blair,OK,Oklahoma Western,Texts not treated as calls
+73527,Cache,OK,Oklahoma Western,Texts not treated as calls
+73528,Chattanooga,OK,Oklahoma Western,Texts not treated as calls
+73529,Comanche,OK,Oklahoma Western,Texts not treated as calls
+73530,Davidson,OK,Oklahoma Western,Texts not treated as calls
+73531,Devol,OK,Oklahoma Western,Texts not treated as calls
+73532,Duke,OK,Oklahoma Western,Texts not treated as calls
+73533,Duncan,OK,Oklahoma Western,Texts not treated as calls
+73534,Duncan,OK,Oklahoma Western,Texts not treated as calls
+73536,Duncan,OK,Oklahoma Western,Texts not treated as calls
+73537,Eldorado,OK,Oklahoma Western,Texts not treated as calls
+73538,Elgin,OK,Oklahoma Western,Texts not treated as calls
+73539,Elmer,OK,Oklahoma Western,Texts not treated as calls
+73540,Faxon,OK,Oklahoma Western,Texts not treated as calls
+73541,Fletcher,OK,Oklahoma Western,Texts not treated as calls
+73542,Frederick,OK,Oklahoma Western,Texts not treated as calls
+73543,Geronimo,OK,Oklahoma Western,Texts not treated as calls
+73544,Gould,OK,Oklahoma Western,Texts not treated as calls
+73546,Grandfield,OK,Oklahoma Western,Texts not treated as calls
+73547,Granite,OK,Oklahoma Western,Texts not treated as calls
+73548,Hastings,OK,Oklahoma Western,Texts not treated as calls
+73549,Headrick,OK,Oklahoma Western,Texts not treated as calls
+73550,Hollis,OK,Oklahoma Western,Texts not treated as calls
+73551,Hollister,OK,Oklahoma Western,Texts not treated as calls
+73552,Indiahoma,OK,Oklahoma Western,Texts not treated as calls
+73553,Loveland,OK,Oklahoma Western,Texts not treated as calls
+73554,Mangum,OK,Oklahoma Western,Texts not treated as calls
+73555,Manitou,OK,Oklahoma Western,Texts not treated as calls
+73556,Martha,OK,Oklahoma Western,Texts not treated as calls
+73557,Medicine Park,OK,Oklahoma Western,Texts not treated as calls
+73558,Meers,OK,Oklahoma Western,Texts not treated as calls
+73559,Mountain Park,OK,Oklahoma Western,Texts not treated as calls
+73560,Olustee,OK,Oklahoma Western,Texts not treated as calls
+73561,Oscar,OK,Oklahoma Western,Texts not treated as calls
+73562,Randlett,OK,Oklahoma Western,Texts not treated as calls
+73564,Roosevelt,OK,Oklahoma Western,Texts not treated as calls
+73565,Ryan,OK,Oklahoma Western,Texts not treated as calls
+73566,Snyder,OK,Oklahoma Western,Texts not treated as calls
+73567,Sterling,OK,Oklahoma Western,Texts not treated as calls
+73568,Temple,OK,Oklahoma Western,Texts not treated as calls
+73569,Terral,OK,Oklahoma Western,Texts not treated as calls
+73570,Tipton,OK,Oklahoma Western,Texts not treated as calls
+73571,Vinson,OK,Oklahoma Western,Texts not treated as calls
+73572,Walters,OK,Oklahoma Western,Texts not treated as calls
+73573,Waurika,OK,Oklahoma Western,Texts not treated as calls
+73601,Clinton,OK,Oklahoma Western,Texts not treated as calls
+73620,Arapaho,OK,Oklahoma Western,Texts not treated as calls
+73622,Bessie,OK,Oklahoma Western,Texts not treated as calls
+73624,Burns Flat,OK,Oklahoma Western,Texts not treated as calls
+73625,Butler,OK,Oklahoma Western,Texts not treated as calls
+73626,Canute,OK,Oklahoma Western,Texts not treated as calls
+73627,Carter,OK,Oklahoma Western,Texts not treated as calls
+73628,Cheyenne,OK,Oklahoma Western,Texts not treated as calls
+73632,Cordell,OK,Oklahoma Western,Texts not treated as calls
+73638,Crawford,OK,Oklahoma Western,Texts not treated as calls
+73639,Custer City,OK,Oklahoma Western,Texts not treated as calls
+73641,Dill City,OK,Oklahoma Western,Texts not treated as calls
+73642,Durham,OK,Oklahoma Western,Texts not treated as calls
+73644,Elk City,OK,Oklahoma Western,Texts not treated as calls
+73645,Erick,OK,Oklahoma Western,Texts not treated as calls
+73646,Fay,OK,Oklahoma Western,Texts not treated as calls
+73647,Foss,OK,Oklahoma Western,Texts not treated as calls
+73648,Elk City,OK,Oklahoma Western,Texts not treated as calls
+73650,Hammon,OK,Oklahoma Western,Texts not treated as calls
+73651,Hobart,OK,Oklahoma Western,Texts not treated as calls
+73654,Leedey,OK,Oklahoma Western,Texts not treated as calls
+73655,Lone Wolf,OK,Oklahoma Western,Texts not treated as calls
+73658,Oakwood,OK,Oklahoma Western,Texts not treated as calls
+73659,Putnam,OK,Oklahoma Western,Texts not treated as calls
+73660,Reydon,OK,Oklahoma Western,Texts not treated as calls
+73661,Rocky,OK,Oklahoma Western,Texts not treated as calls
+73662,Sayre,OK,Oklahoma Western,Texts not treated as calls
+73663,Seiling,OK,Oklahoma Western,Texts not treated as calls
+73664,Sentinel,OK,Oklahoma Western,Texts not treated as calls
+73666,Sweetwater,OK,Oklahoma Western,Texts not treated as calls
+73667,Taloga,OK,Oklahoma Western,Texts not treated as calls
+73668,Texola,OK,Oklahoma Western,Texts not treated as calls
+73669,Thomas,OK,Oklahoma Western,Texts not treated as calls
+73673,Willow,OK,Oklahoma Western,Texts not treated as calls
+73701,Enid,OK,Oklahoma Western,Texts not treated as calls
+73702,Enid,OK,Oklahoma Western,Texts not treated as calls
+73703,Enid,OK,Oklahoma Western,Texts not treated as calls
+73705,Enid,OK,Oklahoma Western,Texts not treated as calls
+73706,Enid,OK,Oklahoma Western,Texts not treated as calls
+73716,Aline,OK,Oklahoma Western,Texts not treated as calls
+73717,Alva,OK,Oklahoma Western,Texts not treated as calls
+73718,Ames,OK,Oklahoma Western,Texts not treated as calls
+73719,Amorita,OK,Oklahoma Western,Texts not treated as calls
+73720,Bison,OK,Oklahoma Western,Texts not treated as calls
+73722,Burlington,OK,Oklahoma Western,Texts not treated as calls
+73724,Canton,OK,Oklahoma Western,Texts not treated as calls
+73726,Carmen,OK,Oklahoma Western,Texts not treated as calls
+73727,Carrier,OK,Oklahoma Western,Texts not treated as calls
+73728,Cherokee,OK,Oklahoma Western,Texts not treated as calls
+73729,Cleo Springs,OK,Oklahoma Western,Texts not treated as calls
+73730,Covington,OK,Oklahoma Western,Texts not treated as calls
+73731,Dacoma,OK,Oklahoma Western,Texts not treated as calls
+73733,Douglas,OK,Oklahoma Western,Texts not treated as calls
+73734,Dover,OK,Oklahoma Western,Texts not treated as calls
+73735,Drummond,OK,Oklahoma Western,Texts not treated as calls
+73736,Fairmont,OK,Oklahoma Western,Texts not treated as calls
+73737,Fairview,OK,Oklahoma Western,Texts not treated as calls
+73738,Garber,OK,Oklahoma Western,Texts not treated as calls
+73739,Goltry,OK,Oklahoma Western,Texts not treated as calls
+73741,Helena,OK,Oklahoma Western,Texts not treated as calls
+73742,Hennessey,OK,Oklahoma Western,Texts not treated as calls
+73743,Hillsdale,OK,Oklahoma Western,Texts not treated as calls
+73744,Hitchcock,OK,Oklahoma Western,Texts not treated as calls
+73746,Hopeton,OK,Oklahoma Western,Texts not treated as calls
+73747,Isabella,OK,Oklahoma Western,Texts not treated as calls
+73749,Jet,OK,Oklahoma Western,Texts not treated as calls
+73750,Kingfisher,OK,Oklahoma Western,Texts not treated as calls
+73753,Kremlin,OK,Oklahoma Western,Texts not treated as calls
+73754,Lahoma,OK,Oklahoma Western,Texts not treated as calls
+73755,Longdale,OK,Oklahoma Western,Texts not treated as calls
+73756,Loyal,OK,Oklahoma Western,Texts not treated as calls
+73757,Lucien,OK,Oklahoma Western,Texts not treated as calls
+73758,Manchester,OK,Oklahoma Western,Texts not treated as calls
+73759,Medford,OK,Oklahoma Western,Texts not treated as calls
+73760,Meno,OK,Oklahoma Western,Texts not treated as calls
+73761,Nash,OK,Oklahoma Western,Texts not treated as calls
+73762,Okarche,OK,Oklahoma Western,Texts not treated as calls
+73763,Okeene,OK,Oklahoma Western,Texts not treated as calls
+73764,Omega,OK,Oklahoma Western,Texts not treated as calls
+73766,Pond Creek,OK,Oklahoma Western,Texts not treated as calls
+73768,Ringwood,OK,Oklahoma Western,Texts not treated as calls
+73770,Southard,OK,Oklahoma Western,Texts not treated as calls
+73771,Wakita,OK,Oklahoma Western,Texts not treated as calls
+73772,Watonga,OK,Oklahoma Western,Texts not treated as calls
+73773,Waukomis,OK,Oklahoma Western,Texts not treated as calls
+73801,Woodward,OK,Oklahoma Western,Texts not treated as calls
+73802,Woodward,OK,Oklahoma Western,Texts not treated as calls
+73832,Arnett,OK,Oklahoma Western,Texts not treated as calls
+73834,Buffalo,OK,Oklahoma Western,Texts not treated as calls
+73835,Camargo,OK,Oklahoma Western,Texts not treated as calls
+73838,Chester,OK,Oklahoma Western,Texts not treated as calls
+73840,Fargo,OK,Oklahoma Western,Texts not treated as calls
+73841,Fort Supply,OK,Oklahoma Western,Texts not treated as calls
+73842,Freedom,OK,Oklahoma Western,Texts not treated as calls
+73843,Gage,OK,Oklahoma Western,Texts not treated as calls
+73844,Gate,OK,Oklahoma Western,Texts not treated as calls
+73848,Laverne,OK,Oklahoma Western,Texts not treated as calls
+73851,May,OK,Oklahoma Western,Texts not treated as calls
+73852,Mooreland,OK,Oklahoma Western,Texts not treated as calls
+73853,Mutual,OK,Oklahoma Western,Texts not treated as calls
+73855,Rosston,OK,Oklahoma Western,Texts not treated as calls
+73857,Sharon,OK,Oklahoma Western,Texts not treated as calls
+73858,Shattuck,OK,Oklahoma Western,Texts not treated as calls
+73859,Vici,OK,Oklahoma Western,Texts not treated as calls
+73860,Waynoka,OK,Oklahoma Western,Texts not treated as calls
+73901,Adams,OK,Oklahoma Western,Texts not treated as calls
+73931,Balko,OK,Oklahoma Western,Texts not treated as calls
+73932,Beaver,OK,Oklahoma Western,Texts not treated as calls
+73933,Boise City,OK,Oklahoma Western,Texts not treated as calls
+73937,Felt,OK,Oklahoma Western,Texts not treated as calls
+73938,Forgan,OK,Oklahoma Western,Texts not treated as calls
+73939,Goodwell,OK,Oklahoma Western,Texts not treated as calls
+73942,Guymon,OK,Oklahoma Western,Texts not treated as calls
+73944,Hardesty,OK,Oklahoma Western,Texts not treated as calls
+73945,Hooker,OK,Oklahoma Western,Texts not treated as calls
+73946,Kenton,OK,Oklahoma Western,Texts not treated as calls
+73947,Keyes,OK,Oklahoma Western,Texts not treated as calls
+73949,Texhoma,OK,Oklahoma Western,Texts not treated as calls
+73950,Turpin,OK,Oklahoma Western,Texts not treated as calls
+73951,Tyrone,OK,Oklahoma Western,Texts not treated as calls
 74001,Avant,OK,Oklahoma Northern,No decision yet
 74002,Barnsdall,OK,Oklahoma Northern,No decision yet
 74003,Bartlesville,OK,Oklahoma Northern,No decision yet
@@ -22250,14 +22250,14 @@ zip,place,state,district,ruling
 74020,Cleveland,OK,Oklahoma Northern,No decision yet
 74021,Collinsville,OK,Oklahoma Northern,No decision yet
 74022,Copan,OK,Oklahoma Northern,No decision yet
-74023,Cushing,OK,Oklahoma Western,No decision yet
-74026,Davenport,OK,Oklahoma Western,No decision yet
+74023,Cushing,OK,Oklahoma Western,Texts not treated as calls
+74026,Davenport,OK,Oklahoma Western,Texts not treated as calls
 74027,Delaware,OK,Oklahoma Northern,No decision yet
 74028,Depew,OK,Oklahoma Northern,No decision yet
 74029,Dewey,OK,Oklahoma Northern,No decision yet
 74030,Drumright,OK,Oklahoma Northern,No decision yet
 74031,Foyil,OK,Oklahoma Northern,No decision yet
-74032,Glencoe,OK,Oklahoma Western,No decision yet
+74032,Glencoe,OK,Oklahoma Western,Texts not treated as calls
 74033,Glenpool,OK,Oklahoma Northern,No decision yet
 74034,Hallett,OK,Oklahoma Northern,No decision yet
 74035,Hominy,OK,Oklahoma Northern,No decision yet
@@ -22281,10 +22281,10 @@ zip,place,state,district,ruling
 74055,Owasso,OK,Oklahoma Northern,No decision yet
 74056,Pawhuska,OK,Oklahoma Northern,No decision yet
 74058,Pawnee,OK,Oklahoma Northern,No decision yet
-74059,Perkins,OK,Oklahoma Western,No decision yet
+74059,Perkins,OK,Oklahoma Western,Texts not treated as calls
 74060,Prue,OK,Oklahoma Northern,No decision yet
 74061,Ramona,OK,Oklahoma Northern,No decision yet
-74062,Ripley,OK,Oklahoma Western,No decision yet
+74062,Ripley,OK,Oklahoma Western,Texts not treated as calls
 74063,Sand Springs,OK,Oklahoma Northern,No decision yet
 74066,Sapulpa,OK,Oklahoma Northern,No decision yet
 74067,Sapulpa,OK,Oklahoma Northern,No decision yet
@@ -22293,18 +22293,18 @@ zip,place,state,district,ruling
 74071,Slick,OK,Oklahoma Northern,No decision yet
 74072,S Coffeyville,OK,Oklahoma Northern,No decision yet
 74073,Sperry,OK,Oklahoma Northern,No decision yet
-74074,Stillwater,OK,Oklahoma Western,No decision yet
-74075,Stillwater,OK,Oklahoma Western,No decision yet
-74076,Stillwater,OK,Oklahoma Western,No decision yet
-74077,Stillwater,OK,Oklahoma Western,No decision yet
-74078,Stillwater,OK,Oklahoma Western,No decision yet
-74079,Stroud,OK,Oklahoma Western,No decision yet
+74074,Stillwater,OK,Oklahoma Western,Texts not treated as calls
+74075,Stillwater,OK,Oklahoma Western,Texts not treated as calls
+74076,Stillwater,OK,Oklahoma Western,Texts not treated as calls
+74077,Stillwater,OK,Oklahoma Western,Texts not treated as calls
+74078,Stillwater,OK,Oklahoma Western,Texts not treated as calls
+74079,Stroud,OK,Oklahoma Western,Texts not treated as calls
 74080,Talala,OK,Oklahoma Northern,No decision yet
 74081,Terlton,OK,Oklahoma Northern,No decision yet
 74082,Vera,OK,Oklahoma Northern,No decision yet
 74083,Wann,OK,Oklahoma Northern,No decision yet
 74084,Wynona,OK,Oklahoma Northern,No decision yet
-74085,Yale,OK,Oklahoma Western,No decision yet
+74085,Yale,OK,Oklahoma Western,Texts not treated as calls
 74101,Tulsa,OK,Oklahoma Northern,No decision yet
 74102,Tulsa,OK,Oklahoma Northern,No decision yet
 74103,Tulsa,OK,Oklahoma Northern,No decision yet
@@ -22483,25 +22483,25 @@ zip,place,state,district,ruling
 74576,Wardville,OK,Oklahoma Eastern,No decision yet
 74577,Whitesboro,OK,Oklahoma Eastern,No decision yet
 74578,Wilburton,OK,Oklahoma Eastern,No decision yet
-74601,Ponca City,OK,Oklahoma Western,No decision yet
-74602,Ponca City,OK,Oklahoma Western,No decision yet
-74604,Ponca City,OK,Oklahoma Western,No decision yet
-74630,Billings,OK,Oklahoma Western,No decision yet
-74631,Blackwell,OK,Oklahoma Western,No decision yet
-74632,Braman,OK,Oklahoma Western,No decision yet
+74601,Ponca City,OK,Oklahoma Western,Texts not treated as calls
+74602,Ponca City,OK,Oklahoma Western,Texts not treated as calls
+74604,Ponca City,OK,Oklahoma Western,Texts not treated as calls
+74630,Billings,OK,Oklahoma Western,Texts not treated as calls
+74631,Blackwell,OK,Oklahoma Western,Texts not treated as calls
+74632,Braman,OK,Oklahoma Western,Texts not treated as calls
 74633,Burbank,OK,Oklahoma Northern,No decision yet
-74636,Deer Creek,OK,Oklahoma Western,No decision yet
+74636,Deer Creek,OK,Oklahoma Western,Texts not treated as calls
 74637,Fairfax,OK,Oklahoma Northern,No decision yet
-74640,Hunter,OK,Oklahoma Western,No decision yet
-74641,Kaw City,OK,Oklahoma Western,No decision yet
-74643,Lamont,OK,Oklahoma Western,No decision yet
-74644,Marland,OK,Oklahoma Western,No decision yet
-74646,Nardin,OK,Oklahoma Western,No decision yet
-74647,Newkirk,OK,Oklahoma Western,No decision yet
+74640,Hunter,OK,Oklahoma Western,Texts not treated as calls
+74641,Kaw City,OK,Oklahoma Western,Texts not treated as calls
+74643,Lamont,OK,Oklahoma Western,Texts not treated as calls
+74644,Marland,OK,Oklahoma Western,Texts not treated as calls
+74646,Nardin,OK,Oklahoma Western,Texts not treated as calls
+74647,Newkirk,OK,Oklahoma Western,Texts not treated as calls
 74650,Ralston,OK,Oklahoma Northern,No decision yet
-74651,Red Rock,OK,Oklahoma Western,No decision yet
+74651,Red Rock,OK,Oklahoma Western,Texts not treated as calls
 74652,Shidler,OK,Oklahoma Northern,No decision yet
-74653,Tonkawa,OK,Oklahoma Western,No decision yet
+74653,Tonkawa,OK,Oklahoma Western,Texts not treated as calls
 74701,Durant,OK,Oklahoma Eastern,No decision yet
 74702,Durant,OK,Oklahoma Eastern,No decision yet
 74720,Achille,OK,Oklahoma Eastern,No decision yet
@@ -22538,26 +22538,26 @@ zip,place,state,district,ruling
 74761,Swink,OK,Oklahoma Eastern,No decision yet
 74764,Valliant,OK,Oklahoma Eastern,No decision yet
 74766,Wright City,OK,Oklahoma Eastern,No decision yet
-74801,Shawnee,OK,Oklahoma Western,No decision yet
-74802,Shawnee,OK,Oklahoma Western,No decision yet
-74804,Shawnee,OK,Oklahoma Western,No decision yet
+74801,Shawnee,OK,Oklahoma Western,Texts not treated as calls
+74802,Shawnee,OK,Oklahoma Western,Texts not treated as calls
+74804,Shawnee,OK,Oklahoma Western,Texts not treated as calls
 74818,Seminole,OK,Oklahoma Eastern,No decision yet
 74820,Ada,OK,Oklahoma Eastern,No decision yet
 74821,Ada,OK,Oklahoma Eastern,No decision yet
-74824,Agra,OK,Oklahoma Western,No decision yet
+74824,Agra,OK,Oklahoma Western,Texts not treated as calls
 74825,Allen,OK,Oklahoma Eastern,No decision yet
-74826,Asher,OK,Oklahoma Western,No decision yet
+74826,Asher,OK,Oklahoma Western,Texts not treated as calls
 74827,Atwood,OK,Oklahoma Eastern,No decision yet
 74829,Boley,OK,Oklahoma Eastern,No decision yet
 74830,Bowlegs,OK,Oklahoma Eastern,No decision yet
-74831,Byars,OK,Oklahoma Western,No decision yet
-74832,Carney,OK,Oklahoma Western,No decision yet
+74831,Byars,OK,Oklahoma Western,Texts not treated as calls
+74832,Carney,OK,Oklahoma Western,Texts not treated as calls
 74833,Castle,OK,Oklahoma Eastern,No decision yet
-74834,Chandler,OK,Oklahoma Western,No decision yet
+74834,Chandler,OK,Oklahoma Western,Texts not treated as calls
 74836,Connerville,OK,Oklahoma Eastern,No decision yet
 74837,Cromwell,OK,Oklahoma Eastern,No decision yet
 74839,Dustin,OK,Oklahoma Eastern,No decision yet
-74840,Earlsboro,OK,Oklahoma Western,No decision yet
+74840,Earlsboro,OK,Oklahoma Western,Texts not treated as calls
 74842,Fittstown,OK,Oklahoma Eastern,No decision yet
 74843,Fitzhugh,OK,Oklahoma Eastern,No decision yet
 74844,Francis,OK,Oklahoma Eastern,No decision yet
@@ -22565,27 +22565,27 @@ zip,place,state,district,ruling
 74848,Holdenville,OK,Oklahoma Eastern,No decision yet
 74849,Konawa,OK,Oklahoma Eastern,No decision yet
 74850,Lamar,OK,Oklahoma Eastern,No decision yet
-74851,Mcloud,OK,Oklahoma Western,No decision yet
-74852,Macomb,OK,Oklahoma Western,No decision yet
+74851,Mcloud,OK,Oklahoma Western,Texts not treated as calls
+74852,Macomb,OK,Oklahoma Western,Texts not treated as calls
 74854,Maud,OK,Oklahoma Eastern,No decision yet
-74855,Meeker,OK,Oklahoma Western,No decision yet
+74855,Meeker,OK,Oklahoma Western,Texts not treated as calls
 74856,Mill Creek,OK,Oklahoma Eastern,No decision yet
-74857,Newalla,OK,Oklahoma Western,No decision yet
+74857,Newalla,OK,Oklahoma Western,Texts not treated as calls
 74859,Okemah,OK,Oklahoma Eastern,No decision yet
 74860,Paden,OK,Oklahoma Eastern,No decision yet
-74864,Prague,OK,Oklahoma Western,No decision yet
+74864,Prague,OK,Oklahoma Western,Texts not treated as calls
 74865,Roff,OK,Oklahoma Eastern,No decision yet
-74866,Saint Louis,OK,Oklahoma Western,No decision yet
+74866,Saint Louis,OK,Oklahoma Western,Texts not treated as calls
 74867,Sasakwa,OK,Oklahoma Eastern,No decision yet
 74868,Seminole,OK,Oklahoma Eastern,No decision yet
-74869,Sparks,OK,Oklahoma Western,No decision yet
+74869,Sparks,OK,Oklahoma Western,Texts not treated as calls
 74871,Stonewall,OK,Oklahoma Eastern,No decision yet
-74872,Stratford,OK,Oklahoma Western,No decision yet
-74873,Tecumseh,OK,Oklahoma Western,No decision yet
-74875,Tryon,OK,Oklahoma Western,No decision yet
-74878,Wanette,OK,Oklahoma Western,No decision yet
+74872,Stratford,OK,Oklahoma Western,Texts not treated as calls
+74873,Tecumseh,OK,Oklahoma Western,Texts not treated as calls
+74875,Tryon,OK,Oklahoma Western,Texts not treated as calls
+74878,Wanette,OK,Oklahoma Western,Texts not treated as calls
 74880,Weleetka,OK,Oklahoma Eastern,No decision yet
-74881,Wellston,OK,Oklahoma Western,No decision yet
+74881,Wellston,OK,Oklahoma Western,Texts not treated as calls
 74883,Wetumka,OK,Oklahoma Eastern,No decision yet
 74884,Wewoka,OK,Oklahoma Eastern,No decision yet
 74901,Arkoma,OK,Oklahoma Eastern,No decision yet
@@ -27073,7 +27073,7 @@ zip,place,state,district,ruling
 38589,Wilder,TN,Tennessee Middle,No decision yet
 73301,Austin,TX,Texas Western,Texts treated as calls
 73344,Austin,TX,Texas Western,Texts treated as calls
-73960,Texhoma,TX,Oklahoma Western,No decision yet
+73960,Texhoma,TX,Oklahoma Western,Texts not treated as calls
 75001,Addison,TX,Texas Northern,Texts treated as calls
 75002,Allen,TX,Texas Eastern,No decision yet
 75006,Carrollton,TX,Texas Northern,Texts treated as calls
@@ -30018,691 +30018,691 @@ zip,place,state,district,ruling
 84784,Hildale,UT,Utah,No decision yet
 84790,Saint George,UT,Utah,No decision yet
 84791,Saint George,UT,Utah,No decision yet
-20101,Dulles,VA,Virginia Eastern,No decision yet
-20102,Dulles,VA,Virginia Eastern,No decision yet
-20103,Dulles,VA,Virginia Eastern,No decision yet
-20104,Dulles,VA,Virginia Eastern,No decision yet
-20105,Aldie,VA,Virginia Eastern,No decision yet
-20108,Manassas,VA,Virginia Eastern,No decision yet
-20109,Manassas,VA,Virginia Eastern,No decision yet
-20110,Manassas,VA,Virginia Eastern,No decision yet
-20111,Manassas,VA,Virginia Eastern,No decision yet
-20112,Manassas,VA,Virginia Eastern,No decision yet
-20113,Manassas,VA,Virginia Eastern,No decision yet
-20115,Marshall,VA,Virginia Eastern,No decision yet
-20116,Marshall,VA,Virginia Eastern,No decision yet
-20117,Middleburg,VA,Virginia Eastern,No decision yet
-20118,Middleburg,VA,Virginia Eastern,No decision yet
-20119,Catlett,VA,Virginia Eastern,No decision yet
-20120,Centreville,VA,Virginia Eastern,No decision yet
-20121,Centreville,VA,Virginia Eastern,No decision yet
-20122,Centreville,VA,Virginia Eastern,No decision yet
-20124,Clifton,VA,Virginia Eastern,No decision yet
-20128,Orlean,VA,Virginia Eastern,No decision yet
-20129,Paeonian Springs,VA,Virginia Eastern,No decision yet
-20130,Paris,VA,Virginia Eastern,No decision yet
-20131,Philomont,VA,Virginia Eastern,No decision yet
-20132,Purcellville,VA,Virginia Eastern,No decision yet
-20134,Purcellville,VA,Virginia Eastern,No decision yet
-20135,Bluemont,VA,Virginia Eastern,No decision yet
-20136,Bristow,VA,Virginia Eastern,No decision yet
-20137,Broad Run,VA,Virginia Eastern,No decision yet
-20138,Calverton,VA,Virginia Eastern,No decision yet
-20139,Casanova,VA,Virginia Eastern,No decision yet
-20140,Rectortown,VA,Virginia Eastern,No decision yet
-20141,Round Hill,VA,Virginia Eastern,No decision yet
-20142,Round Hill,VA,Virginia Eastern,No decision yet
-20143,Catharpin,VA,Virginia Eastern,No decision yet
-20144,Delaplane,VA,Virginia Eastern,No decision yet
-20146,Ashburn,VA,Virginia Eastern,No decision yet
-20147,Ashburn,VA,Virginia Eastern,No decision yet
-20148,Ashburn,VA,Virginia Eastern,No decision yet
-20149,Ashburn,VA,Virginia Eastern,No decision yet
-20151,Chantilly,VA,Virginia Eastern,No decision yet
-20152,Chantilly,VA,Virginia Eastern,No decision yet
-20153,Chantilly,VA,Virginia Eastern,No decision yet
-20155,Gainesville,VA,Virginia Eastern,No decision yet
-20156,Gainesville,VA,Virginia Eastern,No decision yet
-20158,Hamilton,VA,Virginia Eastern,No decision yet
-20159,Hamilton,VA,Virginia Eastern,No decision yet
-20160,Lincoln,VA,Virginia Eastern,No decision yet
-20163,Sterling,VA,Virginia Eastern,No decision yet
-20164,Sterling,VA,Virginia Eastern,No decision yet
-20165,Sterling,VA,Virginia Eastern,No decision yet
-20166,Sterling,VA,Virginia Eastern,No decision yet
-20167,Sterling,VA,Virginia Eastern,No decision yet
-20168,Haymarket,VA,Virginia Eastern,No decision yet
-20169,Haymarket,VA,Virginia Eastern,No decision yet
-20170,Herndon,VA,Virginia Eastern,No decision yet
-20171,Herndon,VA,Virginia Eastern,No decision yet
-20172,Herndon,VA,Virginia Eastern,No decision yet
-20175,Leesburg,VA,Virginia Eastern,No decision yet
-20176,Leesburg,VA,Virginia Eastern,No decision yet
-20177,Leesburg,VA,Virginia Eastern,No decision yet
-20178,Leesburg,VA,Virginia Eastern,No decision yet
-20180,Lovettsville,VA,Virginia Eastern,No decision yet
-20181,Nokesville,VA,Virginia Eastern,No decision yet
-20182,Nokesville,VA,Virginia Eastern,No decision yet
-20184,Upperville,VA,Virginia Eastern,No decision yet
-20185,Upperville,VA,Virginia Eastern,No decision yet
-20186,Warrenton,VA,Virginia Eastern,No decision yet
-20187,Warrenton,VA,Virginia Eastern,No decision yet
-20188,Warrenton,VA,Virginia Eastern,No decision yet
-20189,Dulles,VA,Virginia Eastern,No decision yet
-20190,Reston,VA,Virginia Eastern,No decision yet
-20191,Reston,VA,Virginia Eastern,No decision yet
-20192,Herndon,VA,Virginia Eastern,No decision yet
-20194,Reston,VA,Virginia Eastern,No decision yet
-20195,Reston,VA,Virginia Eastern,No decision yet
-20196,Reston,VA,Virginia Eastern,No decision yet
-20197,Waterford,VA,Virginia Eastern,No decision yet
-20198,The Plains,VA,Virginia Eastern,No decision yet
-20598,Dhs,VA,Virginia Eastern,No decision yet
-22003,Annandale,VA,Virginia Eastern,No decision yet
-22009,Burke,VA,Virginia Eastern,No decision yet
-22015,Burke,VA,Virginia Eastern,No decision yet
-22025,Dumfries,VA,Virginia Eastern,No decision yet
-22026,Dumfries,VA,Virginia Eastern,No decision yet
-22027,Dunn Loring,VA,Virginia Eastern,No decision yet
-22030,Fairfax,VA,Virginia Eastern,No decision yet
-22031,Fairfax,VA,Virginia Eastern,No decision yet
-22032,Fairfax,VA,Virginia Eastern,No decision yet
-22033,Fairfax,VA,Virginia Eastern,No decision yet
-22034,Fairfax,VA,Virginia Eastern,No decision yet
-22035,Fairfax,VA,Virginia Eastern,No decision yet
-22036,Fairfax,VA,Virginia Eastern,No decision yet
-22037,Fairfax,VA,Virginia Eastern,No decision yet
-22038,Fairfax,VA,Virginia Eastern,No decision yet
-22039,Fairfax Station,VA,Virginia Eastern,No decision yet
-22040,Falls Church,VA,Virginia Eastern,No decision yet
-22041,Falls Church,VA,Virginia Eastern,No decision yet
-22042,Falls Church,VA,Virginia Eastern,No decision yet
-22043,Falls Church,VA,Virginia Eastern,No decision yet
-22044,Falls Church,VA,Virginia Eastern,No decision yet
-22046,Falls Church,VA,Virginia Eastern,No decision yet
-22060,Fort Belvoir,VA,Virginia Eastern,No decision yet
-22066,Great Falls,VA,Virginia Eastern,No decision yet
-22067,Greenway,VA,Virginia Eastern,No decision yet
-22079,Lorton,VA,Virginia Eastern,No decision yet
-22081,Merrifield,VA,Virginia Eastern,No decision yet
-22082,Merrifield,VA,Virginia Eastern,No decision yet
-22095,Herndon,VA,Virginia Eastern,No decision yet
-22096,Reston,VA,Virginia Eastern,No decision yet
-22101,Mc Lean,VA,Virginia Eastern,No decision yet
-22102,Mc Lean,VA,Virginia Eastern,No decision yet
-22103,West Mclean,VA,Virginia Eastern,No decision yet
-22106,Mc Lean,VA,Virginia Eastern,No decision yet
-22107,Mc Lean,VA,Virginia Eastern,No decision yet
-22108,Mc Lean,VA,Virginia Eastern,No decision yet
-22109,Mc Lean,VA,Virginia Eastern,No decision yet
-22116,Merrifield,VA,Virginia Eastern,No decision yet
-22118,Merrifield,VA,Virginia Eastern,No decision yet
-22119,Merrifield,VA,Virginia Eastern,No decision yet
-22121,Mount Vernon,VA,Virginia Eastern,No decision yet
-22122,Newington,VA,Virginia Eastern,No decision yet
-22124,Oakton,VA,Virginia Eastern,No decision yet
-22125,Occoquan,VA,Virginia Eastern,No decision yet
-22134,Quantico,VA,Virginia Eastern,No decision yet
-22135,Quantico,VA,Virginia Eastern,No decision yet
-22150,Springfield,VA,Virginia Eastern,No decision yet
-22151,Springfield,VA,Virginia Eastern,No decision yet
-22152,Springfield,VA,Virginia Eastern,No decision yet
-22153,Springfield,VA,Virginia Eastern,No decision yet
-22156,Springfield,VA,Virginia Eastern,No decision yet
-22158,Springfield,VA,Virginia Eastern,No decision yet
-22159,Springfield,VA,Virginia Eastern,No decision yet
-22160,Springfield,VA,Virginia Eastern,No decision yet
-22161,Springfield,VA,Virginia Eastern,No decision yet
-22172,Triangle,VA,Virginia Eastern,No decision yet
-22180,Vienna,VA,Virginia Eastern,No decision yet
-22181,Vienna,VA,Virginia Eastern,No decision yet
-22182,Vienna,VA,Virginia Eastern,No decision yet
-22183,Vienna,VA,Virginia Eastern,No decision yet
-22185,Vienna,VA,Virginia Eastern,No decision yet
-22191,Woodbridge,VA,Virginia Eastern,No decision yet
-22192,Woodbridge,VA,Virginia Eastern,No decision yet
-22193,Woodbridge,VA,Virginia Eastern,No decision yet
-22194,Woodbridge,VA,Virginia Eastern,No decision yet
-22195,Woodbridge,VA,Virginia Eastern,No decision yet
-22199,Lorton,VA,Virginia Eastern,No decision yet
-22201,Arlington,VA,Virginia Eastern,No decision yet
-22202,Arlington,VA,Virginia Eastern,No decision yet
-22203,Arlington,VA,Virginia Eastern,No decision yet
-22204,Arlington,VA,Virginia Eastern,No decision yet
-22205,Arlington,VA,Virginia Eastern,No decision yet
-22206,Arlington,VA,Virginia Eastern,No decision yet
-22207,Arlington,VA,Virginia Eastern,No decision yet
-22209,Arlington,VA,Virginia Eastern,No decision yet
-22210,Arlington,VA,Virginia Eastern,No decision yet
-22211,Fort Myer,VA,Virginia Eastern,No decision yet
-22212,Arlington,VA,Virginia Eastern,No decision yet
-22213,Arlington,VA,Virginia Eastern,No decision yet
-22214,Arlington,VA,Virginia Eastern,No decision yet
-22215,Arlington,VA,Virginia Eastern,No decision yet
-22216,Arlington,VA,Virginia Eastern,No decision yet
-22217,Arlington,VA,Virginia Eastern,No decision yet
-22219,Arlington,VA,Virginia Eastern,No decision yet
-22225,Arlington,VA,Virginia Eastern,No decision yet
-22226,Arlington,VA,Virginia Eastern,No decision yet
-22227,Arlington,VA,Virginia Eastern,No decision yet
-22230,Arlington,VA,Virginia Eastern,No decision yet
-22240,Arlington,VA,Virginia Eastern,No decision yet
-22241,Arlington,VA,Virginia Eastern,No decision yet
-22242,Arlington,VA,Virginia Eastern,No decision yet
-22243,Arlington,VA,Virginia Eastern,No decision yet
-22244,Arlington,VA,Virginia Eastern,No decision yet
-22245,Arlington,VA,Virginia Eastern,No decision yet
-22246,Arlington,VA,Virginia Eastern,No decision yet
-22301,Alexandria,VA,Virginia Eastern,No decision yet
-22302,Alexandria,VA,Virginia Eastern,No decision yet
-22303,Alexandria,VA,Virginia Eastern,No decision yet
-22304,Alexandria,VA,Virginia Eastern,No decision yet
-22305,Alexandria,VA,Virginia Eastern,No decision yet
-22306,Alexandria,VA,Virginia Eastern,No decision yet
-22307,Alexandria,VA,Virginia Eastern,No decision yet
-22308,Alexandria,VA,Virginia Eastern,No decision yet
-22309,Alexandria,VA,Virginia Eastern,No decision yet
-22310,Alexandria,VA,Virginia Eastern,No decision yet
-22311,Alexandria,VA,Virginia Eastern,No decision yet
-22312,Alexandria,VA,Virginia Eastern,No decision yet
-22313,Alexandria,VA,Virginia Eastern,No decision yet
-22314,Alexandria,VA,Virginia Eastern,No decision yet
-22315,Alexandria,VA,Virginia Eastern,No decision yet
-22320,Alexandria,VA,Virginia Eastern,No decision yet
-22331,Alexandria,VA,Virginia Eastern,No decision yet
-22332,Alexandria,VA,Virginia Eastern,No decision yet
-22333,Alexandria,VA,Virginia Eastern,No decision yet
-22334,Alexandria,VA,Virginia Eastern,No decision yet
-22350,Alexandria,VA,Virginia Eastern,No decision yet
-22401,Fredericksburg,VA,Virginia Eastern,No decision yet
-22402,Fredericksburg,VA,Virginia Eastern,No decision yet
-22403,Fredericksburg,VA,Virginia Eastern,No decision yet
-22404,Fredericksburg,VA,Virginia Eastern,No decision yet
-22405,Fredericksburg,VA,Virginia Eastern,No decision yet
-22406,Fredericksburg,VA,Virginia Eastern,No decision yet
-22407,Fredericksburg,VA,Virginia Eastern,No decision yet
-22408,Fredericksburg,VA,Virginia Eastern,No decision yet
-22412,Fredericksburg,VA,Virginia Eastern,No decision yet
-22427,Bowling Green,VA,Virginia Eastern,No decision yet
-22428,Bowling Green,VA,Virginia Eastern,No decision yet
-22430,Brooke,VA,Virginia Eastern,No decision yet
-22432,Burgess,VA,Virginia Eastern,No decision yet
-22435,Callao,VA,Virginia Eastern,No decision yet
-22436,Caret,VA,Virginia Eastern,No decision yet
-22437,Center Cross,VA,Virginia Eastern,No decision yet
-22438,Champlain,VA,Virginia Eastern,No decision yet
-22442,Coles Point,VA,Virginia Eastern,No decision yet
-22443,Colonial Beach,VA,Virginia Eastern,No decision yet
-22446,Corbin,VA,Virginia Eastern,No decision yet
-22448,Dahlgren,VA,Virginia Eastern,No decision yet
-22451,Dogue,VA,Virginia Eastern,No decision yet
-22454,Dunnsville,VA,Virginia Eastern,No decision yet
-22456,Edwardsville,VA,Virginia Eastern,No decision yet
-22460,Farnham,VA,Virginia Eastern,No decision yet
-22463,Garrisonville,VA,Virginia Eastern,No decision yet
-22469,Hague,VA,Virginia Eastern,No decision yet
-22471,Hartwood,VA,Virginia Eastern,No decision yet
-22472,Haynesville,VA,Virginia Eastern,No decision yet
-22473,Heathsville,VA,Virginia Eastern,No decision yet
-22476,Hustle,VA,Virginia Eastern,No decision yet
-22480,Irvington,VA,Virginia Eastern,No decision yet
-22481,Jersey,VA,Virginia Eastern,No decision yet
-22482,Kilmarnock,VA,Virginia Eastern,No decision yet
-22485,King George,VA,Virginia Eastern,No decision yet
-22488,Kinsale,VA,Virginia Eastern,No decision yet
-22501,Ladysmith,VA,Virginia Eastern,No decision yet
-22503,Lancaster,VA,Virginia Eastern,No decision yet
-22504,Laneview,VA,Virginia Eastern,No decision yet
-22507,Lively,VA,Virginia Eastern,No decision yet
-22509,Loretto,VA,Virginia Eastern,No decision yet
-22511,Lottsburg,VA,Virginia Eastern,No decision yet
-22513,Merry Point,VA,Virginia Eastern,No decision yet
-22514,Milford,VA,Virginia Eastern,No decision yet
-22517,Mollusk,VA,Virginia Eastern,No decision yet
-22520,Montross,VA,Virginia Eastern,No decision yet
-22523,Morattico,VA,Virginia Eastern,No decision yet
-22524,Mount Holly,VA,Virginia Eastern,No decision yet
-22526,Ninde,VA,Virginia Eastern,No decision yet
-22528,Nuttsville,VA,Virginia Eastern,No decision yet
-22529,Oldhams,VA,Virginia Eastern,No decision yet
-22530,Ophelia,VA,Virginia Eastern,No decision yet
-22534,Partlow,VA,Virginia Eastern,No decision yet
-22535,Port Royal,VA,Virginia Eastern,No decision yet
-22538,Rappahannock Academy,VA,Virginia Eastern,No decision yet
-22539,Reedville,VA,Virginia Eastern,No decision yet
-22544,Rollins Fork,VA,Virginia Eastern,No decision yet
-22545,Ruby,VA,Virginia Eastern,No decision yet
-22546,Ruther Glen,VA,Virginia Eastern,No decision yet
-22547,Sealston,VA,Virginia Eastern,No decision yet
-22548,Sharps,VA,Virginia Eastern,No decision yet
-22551,Spotsylvania,VA,Virginia Eastern,No decision yet
-22552,Sparta,VA,Virginia Eastern,No decision yet
-22553,Spotsylvania,VA,Virginia Eastern,No decision yet
-22554,Stafford,VA,Virginia Eastern,No decision yet
-22555,Stafford,VA,Virginia Eastern,No decision yet
-22556,Stafford,VA,Virginia Eastern,No decision yet
-22558,Stratford,VA,Virginia Eastern,No decision yet
-22560,Tappahannock,VA,Virginia Eastern,No decision yet
-22565,Thornburg,VA,Virginia Eastern,No decision yet
-22570,Village,VA,Virginia Eastern,No decision yet
-22572,Warsaw,VA,Virginia Eastern,No decision yet
-22576,Weems,VA,Virginia Eastern,No decision yet
-22577,Sandy Point,VA,Virginia Eastern,No decision yet
-22578,White Stone,VA,Virginia Eastern,No decision yet
-22579,Wicomico Church,VA,Virginia Eastern,No decision yet
-22580,Woodford,VA,Virginia Eastern,No decision yet
-22581,Zacata,VA,Virginia Eastern,No decision yet
-22639,Hume,VA,Virginia Eastern,No decision yet
-22642,Linden,VA,Virginia Eastern,No decision yet
-22643,Markham,VA,Virginia Eastern,No decision yet
-22712,Bealeton,VA,Virginia Eastern,No decision yet
-22720,Goldvein,VA,Virginia Eastern,No decision yet
-22728,Midland,VA,Virginia Eastern,No decision yet
-22734,Remington,VA,Virginia Eastern,No decision yet
-22739,Somerville,VA,Virginia Eastern,No decision yet
-22742,Sumerduck,VA,Virginia Eastern,No decision yet
-23001,Achilles,VA,Virginia Eastern,No decision yet
-23002,Amelia Court House,VA,Virginia Eastern,No decision yet
-23003,Ark,VA,Virginia Eastern,No decision yet
-23005,Ashland,VA,Virginia Eastern,No decision yet
-23009,Aylett,VA,Virginia Eastern,No decision yet
-23011,Barhamsville,VA,Virginia Eastern,No decision yet
-23014,Beaumont,VA,Virginia Eastern,No decision yet
-23015,Beaverdam,VA,Virginia Eastern,No decision yet
-23018,Bena,VA,Virginia Eastern,No decision yet
-23021,Bohannon,VA,Virginia Eastern,No decision yet
-23023,Bruington,VA,Virginia Eastern,No decision yet
-23025,Cardinal,VA,Virginia Eastern,No decision yet
-23030,Charles City,VA,Virginia Eastern,No decision yet
-23031,Christchurch,VA,Virginia Eastern,No decision yet
-23032,Church View,VA,Virginia Eastern,No decision yet
-23035,Cobbs Creek,VA,Virginia Eastern,No decision yet
-23039,Crozier,VA,Virginia Eastern,No decision yet
-23043,Deltaville,VA,Virginia Eastern,No decision yet
-23045,Diggs,VA,Virginia Eastern,No decision yet
-23047,Doswell,VA,Virginia Eastern,No decision yet
-23050,Dutton,VA,Virginia Eastern,No decision yet
-23056,Foster,VA,Virginia Eastern,No decision yet
-23058,Glen Allen,VA,Virginia Eastern,No decision yet
-23059,Glen Allen,VA,Virginia Eastern,No decision yet
-23060,Glen Allen,VA,Virginia Eastern,No decision yet
-23061,Gloucester,VA,Virginia Eastern,No decision yet
-23062,Gloucester Point,VA,Virginia Eastern,No decision yet
-23063,Goochland,VA,Virginia Eastern,No decision yet
-23064,Grimstead,VA,Virginia Eastern,No decision yet
-23065,Gum Spring,VA,Virginia Eastern,No decision yet
-23066,Gwynn,VA,Virginia Eastern,No decision yet
-23067,Hadensville,VA,Virginia Eastern,No decision yet
-23068,Hallieford,VA,Virginia Eastern,No decision yet
-23069,Hanover,VA,Virginia Eastern,No decision yet
-23070,Hardyville,VA,Virginia Eastern,No decision yet
-23071,Hartfield,VA,Virginia Eastern,No decision yet
-23072,Hayes,VA,Virginia Eastern,No decision yet
-23075,Henrico,VA,Virginia Eastern,No decision yet
-23076,Hudgins,VA,Virginia Eastern,No decision yet
-23079,Jamaica,VA,Virginia Eastern,No decision yet
-23081,Jamestown,VA,Virginia Eastern,No decision yet
-23083,Jetersville,VA,Virginia Eastern,No decision yet
-23085,King And Queen Court House,VA,Virginia Eastern,No decision yet
-23086,King William,VA,Virginia Eastern,No decision yet
-23089,Lanexa,VA,Virginia Eastern,No decision yet
-23090,Lightfoot,VA,Virginia Eastern,No decision yet
-23091,Little Plymouth,VA,Virginia Eastern,No decision yet
-23092,Locust Hill,VA,Virginia Eastern,No decision yet
-23102,Maidens,VA,Virginia Eastern,No decision yet
-23103,Manakin Sabot,VA,Virginia Eastern,No decision yet
-23105,Mannboro,VA,Virginia Eastern,No decision yet
-23106,Manquin,VA,Virginia Eastern,No decision yet
-23107,Maryus,VA,Virginia Eastern,No decision yet
-23108,Mascot,VA,Virginia Eastern,No decision yet
-23109,Mathews,VA,Virginia Eastern,No decision yet
-23110,Mattaponi,VA,Virginia Eastern,No decision yet
-23111,Mechanicsville,VA,Virginia Eastern,No decision yet
-23112,Midlothian,VA,Virginia Eastern,No decision yet
-23113,Midlothian,VA,Virginia Eastern,No decision yet
-23114,Midlothian,VA,Virginia Eastern,No decision yet
-23115,Millers Tavern,VA,Virginia Eastern,No decision yet
-23116,Mechanicsville,VA,Virginia Eastern,No decision yet
-23119,Moon,VA,Virginia Eastern,No decision yet
-23120,Moseley,VA,Virginia Eastern,No decision yet
-23124,New Kent,VA,Virginia Eastern,No decision yet
-23125,New Point,VA,Virginia Eastern,No decision yet
-23126,Newtown,VA,Virginia Eastern,No decision yet
-23127,Norge,VA,Virginia Eastern,No decision yet
-23128,North,VA,Virginia Eastern,No decision yet
-23129,Oilville,VA,Virginia Eastern,No decision yet
-23130,Onemo,VA,Virginia Eastern,No decision yet
-23131,Ordinary,VA,Virginia Eastern,No decision yet
-23138,Port Haywood,VA,Virginia Eastern,No decision yet
-23139,Powhatan,VA,Virginia Eastern,No decision yet
-23140,Providence Forge,VA,Virginia Eastern,No decision yet
-23141,Quinton,VA,Virginia Eastern,No decision yet
-23146,Rockville,VA,Virginia Eastern,No decision yet
-23147,Ruthville,VA,Virginia Eastern,No decision yet
-23148,Saint Stephens Church,VA,Virginia Eastern,No decision yet
-23149,Saluda,VA,Virginia Eastern,No decision yet
-23150,Sandston,VA,Virginia Eastern,No decision yet
-23153,Sandy Hook,VA,Virginia Eastern,No decision yet
-23154,Schley,VA,Virginia Eastern,No decision yet
-23155,Severn,VA,Virginia Eastern,No decision yet
-23156,Shacklefords,VA,Virginia Eastern,No decision yet
-23160,State Farm,VA,Virginia Eastern,No decision yet
-23161,Stevensville,VA,Virginia Eastern,No decision yet
-23162,Studley,VA,Virginia Eastern,No decision yet
-23163,Susan,VA,Virginia Eastern,No decision yet
-23168,Toano,VA,Virginia Eastern,No decision yet
-23169,Topping,VA,Virginia Eastern,No decision yet
-23173,Richmond,VA,Virginia Eastern,No decision yet
-23175,Urbanna,VA,Virginia Eastern,No decision yet
-23176,Wake,VA,Virginia Eastern,No decision yet
-23177,Walkerton,VA,Virginia Eastern,No decision yet
-23178,Ware Neck,VA,Virginia Eastern,No decision yet
-23180,Water View,VA,Virginia Eastern,No decision yet
-23181,West Point,VA,Virginia Eastern,No decision yet
-23183,White Marsh,VA,Virginia Eastern,No decision yet
-23184,Wicomico,VA,Virginia Eastern,No decision yet
-23185,Williamsburg,VA,Virginia Eastern,No decision yet
-23186,Williamsburg,VA,Virginia Eastern,No decision yet
-23187,Williamsburg,VA,Virginia Eastern,No decision yet
-23188,Williamsburg,VA,Virginia Eastern,No decision yet
-23190,Woods Cross Roads,VA,Virginia Eastern,No decision yet
-23192,Montpelier,VA,Virginia Eastern,No decision yet
-23218,Richmond,VA,Virginia Eastern,No decision yet
-23219,Richmond,VA,Virginia Eastern,No decision yet
-23220,Richmond,VA,Virginia Eastern,No decision yet
-23221,Richmond,VA,Virginia Eastern,No decision yet
-23222,Richmond,VA,Virginia Eastern,No decision yet
-23223,Richmond,VA,Virginia Eastern,No decision yet
-23224,Richmond,VA,Virginia Eastern,No decision yet
-23225,Richmond,VA,Virginia Eastern,No decision yet
-23226,Richmond,VA,Virginia Eastern,No decision yet
-23227,Richmond,VA,Virginia Eastern,No decision yet
-23228,Henrico,VA,Virginia Eastern,No decision yet
-23229,Henrico,VA,Virginia Eastern,No decision yet
-23230,Richmond,VA,Virginia Eastern,No decision yet
-23231,Henrico,VA,Virginia Eastern,No decision yet
-23232,Richmond,VA,Virginia Eastern,No decision yet
-23233,Henrico,VA,Virginia Eastern,No decision yet
-23234,Richmond,VA,Virginia Eastern,No decision yet
-23235,Richmond,VA,Virginia Eastern,No decision yet
-23236,Richmond,VA,Virginia Eastern,No decision yet
-23237,Richmond,VA,Virginia Eastern,No decision yet
-23238,Henrico,VA,Virginia Eastern,No decision yet
-23241,Richmond,VA,Virginia Eastern,No decision yet
-23242,Henrico,VA,Virginia Eastern,No decision yet
-23249,Richmond,VA,Virginia Eastern,No decision yet
-23250,Richmond,VA,Virginia Eastern,No decision yet
-23255,Henrico,VA,Virginia Eastern,No decision yet
-23260,Richmond,VA,Virginia Eastern,No decision yet
-23261,Richmond,VA,Virginia Eastern,No decision yet
-23269,Richmond,VA,Virginia Eastern,No decision yet
-23273,Henrico,VA,Virginia Eastern,No decision yet
-23274,Richmond,VA,Virginia Eastern,No decision yet
-23276,Richmond,VA,Virginia Eastern,No decision yet
-23278,Richmond,VA,Virginia Eastern,No decision yet
-23279,Richmond,VA,Virginia Eastern,No decision yet
-23282,Richmond,VA,Virginia Eastern,No decision yet
-23284,Richmond,VA,Virginia Eastern,No decision yet
-23285,Richmond,VA,Virginia Eastern,No decision yet
-23286,Richmond,VA,Virginia Eastern,No decision yet
-23288,Henrico,VA,Virginia Eastern,No decision yet
-23289,Richmond,VA,Virginia Eastern,No decision yet
-23290,Richmond,VA,Virginia Eastern,No decision yet
-23291,Richmond,VA,Virginia Eastern,No decision yet
-23292,Richmond,VA,Virginia Eastern,No decision yet
-23293,Richmond,VA,Virginia Eastern,No decision yet
-23294,Henrico,VA,Virginia Eastern,No decision yet
-23295,Richmond,VA,Virginia Eastern,No decision yet
-23297,Richmond,VA,Virginia Eastern,No decision yet
-23298,Richmond,VA,Virginia Eastern,No decision yet
-23301,Accomac,VA,Virginia Eastern,No decision yet
-23302,Assawoman,VA,Virginia Eastern,No decision yet
-23303,Atlantic,VA,Virginia Eastern,No decision yet
-23304,Battery Park,VA,Virginia Eastern,No decision yet
-23306,Belle Haven,VA,Virginia Eastern,No decision yet
-23307,Birdsnest,VA,Virginia Eastern,No decision yet
-23308,Bloxom,VA,Virginia Eastern,No decision yet
-23310,Cape Charles,VA,Virginia Eastern,No decision yet
-23313,Capeville,VA,Virginia Eastern,No decision yet
-23314,Carrollton,VA,Virginia Eastern,No decision yet
-23315,Carrsville,VA,Virginia Eastern,No decision yet
-23316,Cheriton,VA,Virginia Eastern,No decision yet
-23320,Chesapeake,VA,Virginia Eastern,No decision yet
-23321,Chesapeake,VA,Virginia Eastern,No decision yet
-23322,Chesapeake,VA,Virginia Eastern,No decision yet
-23323,Chesapeake,VA,Virginia Eastern,No decision yet
-23324,Chesapeake,VA,Virginia Eastern,No decision yet
-23325,Chesapeake,VA,Virginia Eastern,No decision yet
-23326,Chesapeake,VA,Virginia Eastern,No decision yet
-23327,Chesapeake,VA,Virginia Eastern,No decision yet
-23328,Chesapeake,VA,Virginia Eastern,No decision yet
-23336,Chincoteague Island,VA,Virginia Eastern,No decision yet
-23337,Wallops Island,VA,Virginia Eastern,No decision yet
-23341,Craddockville,VA,Virginia Eastern,No decision yet
-23345,Davis Wharf,VA,Virginia Eastern,No decision yet
-23347,Eastville,VA,Virginia Eastern,No decision yet
-23350,Exmore,VA,Virginia Eastern,No decision yet
-23354,Franktown,VA,Virginia Eastern,No decision yet
-23356,Greenbackville,VA,Virginia Eastern,No decision yet
-23357,Greenbush,VA,Virginia Eastern,No decision yet
-23358,Hacksneck,VA,Virginia Eastern,No decision yet
-23359,Hallwood,VA,Virginia Eastern,No decision yet
-23389,Harborton,VA,Virginia Eastern,No decision yet
-23395,Horntown,VA,Virginia Eastern,No decision yet
-23396,Oak Hall,VA,Virginia Eastern,No decision yet
-23397,Isle Of Wight,VA,Virginia Eastern,No decision yet
-23398,Jamesville,VA,Virginia Eastern,No decision yet
-23399,Jenkins Bridge,VA,Virginia Eastern,No decision yet
-23401,Keller,VA,Virginia Eastern,No decision yet
-23404,Locustville,VA,Virginia Eastern,No decision yet
-23405,Machipongo,VA,Virginia Eastern,No decision yet
-23407,Mappsville,VA,Virginia Eastern,No decision yet
-23408,Marionville,VA,Virginia Eastern,No decision yet
-23409,Mears,VA,Virginia Eastern,No decision yet
-23410,Melfa,VA,Virginia Eastern,No decision yet
-23412,Modest Town,VA,Virginia Eastern,No decision yet
-23413,Nassawadox,VA,Virginia Eastern,No decision yet
-23414,Nelsonia,VA,Virginia Eastern,No decision yet
-23415,New Church,VA,Virginia Eastern,No decision yet
-23416,Oak Hall,VA,Virginia Eastern,No decision yet
-23417,Onancock,VA,Virginia Eastern,No decision yet
-23418,Onley,VA,Virginia Eastern,No decision yet
-23419,Oyster,VA,Virginia Eastern,No decision yet
-23420,Painter,VA,Virginia Eastern,No decision yet
-23421,Parksley,VA,Virginia Eastern,No decision yet
-23422,Pungoteague,VA,Virginia Eastern,No decision yet
-23423,Quinby,VA,Virginia Eastern,No decision yet
-23424,Rescue,VA,Virginia Eastern,No decision yet
-23426,Sanford,VA,Virginia Eastern,No decision yet
-23427,Saxis,VA,Virginia Eastern,No decision yet
-23429,Seaview,VA,Virginia Eastern,No decision yet
-23430,Smithfield,VA,Virginia Eastern,No decision yet
-23431,Smithfield,VA,Virginia Eastern,No decision yet
-23432,Suffolk,VA,Virginia Eastern,No decision yet
-23433,Suffolk,VA,Virginia Eastern,No decision yet
-23434,Suffolk,VA,Virginia Eastern,No decision yet
-23435,Suffolk,VA,Virginia Eastern,No decision yet
-23436,Suffolk,VA,Virginia Eastern,No decision yet
-23437,Suffolk,VA,Virginia Eastern,No decision yet
-23438,Suffolk,VA,Virginia Eastern,No decision yet
-23439,Suffolk,VA,Virginia Eastern,No decision yet
-23440,Tangier,VA,Virginia Eastern,No decision yet
-23441,Tasley,VA,Virginia Eastern,No decision yet
-23442,Temperanceville,VA,Virginia Eastern,No decision yet
-23443,Townsend,VA,Virginia Eastern,No decision yet
-23450,Virginia Beach,VA,Virginia Eastern,No decision yet
-23451,Virginia Beach,VA,Virginia Eastern,No decision yet
-23452,Virginia Beach,VA,Virginia Eastern,No decision yet
-23453,Virginia Beach,VA,Virginia Eastern,No decision yet
-23454,Virginia Beach,VA,Virginia Eastern,No decision yet
-23455,Virginia Beach,VA,Virginia Eastern,No decision yet
-23456,Virginia Beach,VA,Virginia Eastern,No decision yet
-23457,Virginia Beach,VA,Virginia Eastern,No decision yet
-23458,Virginia Beach,VA,Virginia Eastern,No decision yet
-23459,Virginia Beach,VA,Virginia Eastern,No decision yet
-23460,Virginia Beach,VA,Virginia Eastern,No decision yet
-23461,Virginia Beach,VA,Virginia Eastern,No decision yet
-23462,Virginia Beach,VA,Virginia Eastern,No decision yet
-23463,Virginia Beach,VA,Virginia Eastern,No decision yet
-23464,Virginia Beach,VA,Virginia Eastern,No decision yet
-23465,Virginia Beach,VA,Virginia Eastern,No decision yet
-23466,Virginia Beach,VA,Virginia Eastern,No decision yet
-23467,Virginia Beach,VA,Virginia Eastern,No decision yet
-23471,Virginia Beach,VA,Virginia Eastern,No decision yet
-23479,Virginia Beach,VA,Virginia Eastern,No decision yet
-23480,Wachapreague,VA,Virginia Eastern,No decision yet
-23482,Wardtown,VA,Virginia Eastern,No decision yet
-23483,Wattsville,VA,Virginia Eastern,No decision yet
-23486,Willis Wharf,VA,Virginia Eastern,No decision yet
-23487,Windsor,VA,Virginia Eastern,No decision yet
-23488,Withams,VA,Virginia Eastern,No decision yet
-23501,Norfolk,VA,Virginia Eastern,No decision yet
-23502,Norfolk,VA,Virginia Eastern,No decision yet
-23503,Norfolk,VA,Virginia Eastern,No decision yet
-23504,Norfolk,VA,Virginia Eastern,No decision yet
-23505,Norfolk,VA,Virginia Eastern,No decision yet
-23506,Norfolk,VA,Virginia Eastern,No decision yet
-23507,Norfolk,VA,Virginia Eastern,No decision yet
-23508,Norfolk,VA,Virginia Eastern,No decision yet
-23509,Norfolk,VA,Virginia Eastern,No decision yet
-23510,Norfolk,VA,Virginia Eastern,No decision yet
-23511,Norfolk,VA,Virginia Eastern,No decision yet
-23513,Norfolk,VA,Virginia Eastern,No decision yet
-23514,Norfolk,VA,Virginia Eastern,No decision yet
-23515,Norfolk,VA,Virginia Eastern,No decision yet
-23517,Norfolk,VA,Virginia Eastern,No decision yet
-23518,Norfolk,VA,Virginia Eastern,No decision yet
-23519,Norfolk,VA,Virginia Eastern,No decision yet
-23523,Norfolk,VA,Virginia Eastern,No decision yet
-23529,Norfolk,VA,Virginia Eastern,No decision yet
-23541,Norfolk,VA,Virginia Eastern,No decision yet
-23551,Norfolk,VA,Virginia Eastern,No decision yet
-23601,Newport News,VA,Virginia Eastern,No decision yet
-23602,Newport News,VA,Virginia Eastern,No decision yet
-23603,Newport News,VA,Virginia Eastern,No decision yet
-23604,Fort Eustis,VA,Virginia Eastern,No decision yet
-23605,Newport News,VA,Virginia Eastern,No decision yet
-23606,Newport News,VA,Virginia Eastern,No decision yet
-23607,Newport News,VA,Virginia Eastern,No decision yet
-23608,Newport News,VA,Virginia Eastern,No decision yet
-23609,Newport News,VA,Virginia Eastern,No decision yet
-23612,Newport News,VA,Virginia Eastern,No decision yet
-23628,Newport News,VA,Virginia Eastern,No decision yet
-23630,Hampton,VA,Virginia Eastern,No decision yet
-23651,Fort Monroe,VA,Virginia Eastern,No decision yet
-23661,Hampton,VA,Virginia Eastern,No decision yet
-23662,Poquoson,VA,Virginia Eastern,No decision yet
-23663,Hampton,VA,Virginia Eastern,No decision yet
-23664,Hampton,VA,Virginia Eastern,No decision yet
-23665,Hampton,VA,Virginia Eastern,No decision yet
-23666,Hampton,VA,Virginia Eastern,No decision yet
-23667,Hampton,VA,Virginia Eastern,No decision yet
-23668,Hampton,VA,Virginia Eastern,No decision yet
-23669,Hampton,VA,Virginia Eastern,No decision yet
-23670,Hampton,VA,Virginia Eastern,No decision yet
-23681,Hampton,VA,Virginia Eastern,No decision yet
-23690,Yorktown,VA,Virginia Eastern,No decision yet
-23691,Yorktown,VA,Virginia Eastern,No decision yet
-23692,Yorktown,VA,Virginia Eastern,No decision yet
-23693,Yorktown,VA,Virginia Eastern,No decision yet
-23694,Lackey,VA,Virginia Eastern,No decision yet
-23696,Seaford,VA,Virginia Eastern,No decision yet
-23701,Portsmouth,VA,Virginia Eastern,No decision yet
-23702,Portsmouth,VA,Virginia Eastern,No decision yet
-23703,Portsmouth,VA,Virginia Eastern,No decision yet
-23704,Portsmouth,VA,Virginia Eastern,No decision yet
-23705,Portsmouth,VA,Virginia Eastern,No decision yet
-23707,Portsmouth,VA,Virginia Eastern,No decision yet
-23708,Portsmouth,VA,Virginia Eastern,No decision yet
-23709,Portsmouth,VA,Virginia Eastern,No decision yet
-23801,Fort Lee,VA,Virginia Eastern,No decision yet
-23803,Petersburg,VA,Virginia Eastern,No decision yet
-23804,Petersburg,VA,Virginia Eastern,No decision yet
-23805,Petersburg,VA,Virginia Eastern,No decision yet
-23806,Virginia State University,VA,Virginia Eastern,No decision yet
-23821,Alberta,VA,Virginia Eastern,No decision yet
-23822,Ammon,VA,Virginia Eastern,No decision yet
-23824,Blackstone,VA,Virginia Eastern,No decision yet
-23827,Boykins,VA,Virginia Eastern,No decision yet
-23828,Branchville,VA,Virginia Eastern,No decision yet
-23829,Capron,VA,Virginia Eastern,No decision yet
-23830,Carson,VA,Virginia Eastern,No decision yet
-23831,Chester,VA,Virginia Eastern,No decision yet
-23832,Chesterfield,VA,Virginia Eastern,No decision yet
-23833,Church Road,VA,Virginia Eastern,No decision yet
-23834,Colonial Heights,VA,Virginia Eastern,No decision yet
-23836,Chester,VA,Virginia Eastern,No decision yet
-23837,Courtland,VA,Virginia Eastern,No decision yet
-23838,Chesterfield,VA,Virginia Eastern,No decision yet
-23839,Dendron,VA,Virginia Eastern,No decision yet
-23840,Dewitt,VA,Virginia Eastern,No decision yet
-23841,Dinwiddie,VA,Virginia Eastern,No decision yet
-23842,Disputanta,VA,Virginia Eastern,No decision yet
-23843,Dolphin,VA,Virginia Eastern,No decision yet
-23844,Drewryville,VA,Virginia Eastern,No decision yet
-23845,Ebony,VA,Virginia Eastern,No decision yet
-23846,Elberon,VA,Virginia Eastern,No decision yet
-23847,Emporia,VA,Virginia Eastern,No decision yet
-23850,Ford,VA,Virginia Eastern,No decision yet
-23851,Franklin,VA,Virginia Eastern,No decision yet
-23856,Freeman,VA,Virginia Eastern,No decision yet
-23857,Gasburg,VA,Virginia Eastern,No decision yet
-23860,Hopewell,VA,Virginia Eastern,No decision yet
-23866,Ivor,VA,Virginia Eastern,No decision yet
-23867,Jarratt,VA,Virginia Eastern,No decision yet
-23868,Lawrenceville,VA,Virginia Eastern,No decision yet
-23870,Jarratt,VA,Virginia Eastern,No decision yet
-23872,Mc Kenney,VA,Virginia Eastern,No decision yet
-23873,Meredithville,VA,Virginia Eastern,No decision yet
-23874,Newsoms,VA,Virginia Eastern,No decision yet
-23875,Prince George,VA,Virginia Eastern,No decision yet
-23876,Rawlings,VA,Virginia Eastern,No decision yet
-23878,Sedley,VA,Virginia Eastern,No decision yet
-23879,Skippers,VA,Virginia Eastern,No decision yet
-23881,Spring Grove,VA,Virginia Eastern,No decision yet
-23882,Stony Creek,VA,Virginia Eastern,No decision yet
-23883,Surry,VA,Virginia Eastern,No decision yet
-23884,Sussex,VA,Virginia Eastern,No decision yet
-23885,Sutherland,VA,Virginia Eastern,No decision yet
-23887,Valentines,VA,Virginia Eastern,No decision yet
-23888,Wakefield,VA,Virginia Eastern,No decision yet
-23889,Warfield,VA,Virginia Eastern,No decision yet
-23890,Waverly,VA,Virginia Eastern,No decision yet
-23891,Waverly,VA,Virginia Eastern,No decision yet
-23893,White Plains,VA,Virginia Eastern,No decision yet
-23894,Wilsons,VA,Virginia Eastern,No decision yet
-23897,Yale,VA,Virginia Eastern,No decision yet
-23898,Zuni,VA,Virginia Eastern,No decision yet
-23899,Claremont,VA,Virginia Eastern,No decision yet
-23901,Farmville,VA,Virginia Eastern,No decision yet
-23909,Farmville,VA,Virginia Eastern,No decision yet
-23915,Baskerville,VA,Virginia Eastern,No decision yet
-23917,Boydton,VA,Virginia Eastern,No decision yet
-23919,Bracey,VA,Virginia Eastern,No decision yet
-23920,Brodnax,VA,Virginia Eastern,No decision yet
-23922,Burkeville,VA,Virginia Eastern,No decision yet
-23924,Chase City,VA,Virginia Eastern,No decision yet
-23927,Clarksville,VA,Virginia Eastern,No decision yet
-23930,Crewe,VA,Virginia Eastern,No decision yet
-23938,Dundas,VA,Virginia Eastern,No decision yet
-23941,Fort Mitchell,VA,Virginia Eastern,No decision yet
-23942,Green Bay,VA,Virginia Eastern,No decision yet
-23943,Hampden Sydney,VA,Virginia Eastern,No decision yet
-23944,Kenbridge,VA,Virginia Eastern,No decision yet
-23950,La Crosse,VA,Virginia Eastern,No decision yet
-23952,Lunenburg,VA,Virginia Eastern,No decision yet
-23954,Meherrin,VA,Virginia Eastern,No decision yet
-23955,Nottoway,VA,Virginia Eastern,No decision yet
-23958,Pamplin,VA,Virginia Eastern,No decision yet
-23960,Prospect,VA,Virginia Eastern,No decision yet
-23966,Rice,VA,Virginia Eastern,No decision yet
-23968,Skipwith,VA,Virginia Eastern,No decision yet
-23970,South Hill,VA,Virginia Eastern,No decision yet
-23974,Victoria,VA,Virginia Eastern,No decision yet
+20101,Dulles,VA,Virginia Eastern,Texts treated as calls
+20102,Dulles,VA,Virginia Eastern,Texts treated as calls
+20103,Dulles,VA,Virginia Eastern,Texts treated as calls
+20104,Dulles,VA,Virginia Eastern,Texts treated as calls
+20105,Aldie,VA,Virginia Eastern,Texts treated as calls
+20108,Manassas,VA,Virginia Eastern,Texts treated as calls
+20109,Manassas,VA,Virginia Eastern,Texts treated as calls
+20110,Manassas,VA,Virginia Eastern,Texts treated as calls
+20111,Manassas,VA,Virginia Eastern,Texts treated as calls
+20112,Manassas,VA,Virginia Eastern,Texts treated as calls
+20113,Manassas,VA,Virginia Eastern,Texts treated as calls
+20115,Marshall,VA,Virginia Eastern,Texts treated as calls
+20116,Marshall,VA,Virginia Eastern,Texts treated as calls
+20117,Middleburg,VA,Virginia Eastern,Texts treated as calls
+20118,Middleburg,VA,Virginia Eastern,Texts treated as calls
+20119,Catlett,VA,Virginia Eastern,Texts treated as calls
+20120,Centreville,VA,Virginia Eastern,Texts treated as calls
+20121,Centreville,VA,Virginia Eastern,Texts treated as calls
+20122,Centreville,VA,Virginia Eastern,Texts treated as calls
+20124,Clifton,VA,Virginia Eastern,Texts treated as calls
+20128,Orlean,VA,Virginia Eastern,Texts treated as calls
+20129,Paeonian Springs,VA,Virginia Eastern,Texts treated as calls
+20130,Paris,VA,Virginia Eastern,Texts treated as calls
+20131,Philomont,VA,Virginia Eastern,Texts treated as calls
+20132,Purcellville,VA,Virginia Eastern,Texts treated as calls
+20134,Purcellville,VA,Virginia Eastern,Texts treated as calls
+20135,Bluemont,VA,Virginia Eastern,Texts treated as calls
+20136,Bristow,VA,Virginia Eastern,Texts treated as calls
+20137,Broad Run,VA,Virginia Eastern,Texts treated as calls
+20138,Calverton,VA,Virginia Eastern,Texts treated as calls
+20139,Casanova,VA,Virginia Eastern,Texts treated as calls
+20140,Rectortown,VA,Virginia Eastern,Texts treated as calls
+20141,Round Hill,VA,Virginia Eastern,Texts treated as calls
+20142,Round Hill,VA,Virginia Eastern,Texts treated as calls
+20143,Catharpin,VA,Virginia Eastern,Texts treated as calls
+20144,Delaplane,VA,Virginia Eastern,Texts treated as calls
+20146,Ashburn,VA,Virginia Eastern,Texts treated as calls
+20147,Ashburn,VA,Virginia Eastern,Texts treated as calls
+20148,Ashburn,VA,Virginia Eastern,Texts treated as calls
+20149,Ashburn,VA,Virginia Eastern,Texts treated as calls
+20151,Chantilly,VA,Virginia Eastern,Texts treated as calls
+20152,Chantilly,VA,Virginia Eastern,Texts treated as calls
+20153,Chantilly,VA,Virginia Eastern,Texts treated as calls
+20155,Gainesville,VA,Virginia Eastern,Texts treated as calls
+20156,Gainesville,VA,Virginia Eastern,Texts treated as calls
+20158,Hamilton,VA,Virginia Eastern,Texts treated as calls
+20159,Hamilton,VA,Virginia Eastern,Texts treated as calls
+20160,Lincoln,VA,Virginia Eastern,Texts treated as calls
+20163,Sterling,VA,Virginia Eastern,Texts treated as calls
+20164,Sterling,VA,Virginia Eastern,Texts treated as calls
+20165,Sterling,VA,Virginia Eastern,Texts treated as calls
+20166,Sterling,VA,Virginia Eastern,Texts treated as calls
+20167,Sterling,VA,Virginia Eastern,Texts treated as calls
+20168,Haymarket,VA,Virginia Eastern,Texts treated as calls
+20169,Haymarket,VA,Virginia Eastern,Texts treated as calls
+20170,Herndon,VA,Virginia Eastern,Texts treated as calls
+20171,Herndon,VA,Virginia Eastern,Texts treated as calls
+20172,Herndon,VA,Virginia Eastern,Texts treated as calls
+20175,Leesburg,VA,Virginia Eastern,Texts treated as calls
+20176,Leesburg,VA,Virginia Eastern,Texts treated as calls
+20177,Leesburg,VA,Virginia Eastern,Texts treated as calls
+20178,Leesburg,VA,Virginia Eastern,Texts treated as calls
+20180,Lovettsville,VA,Virginia Eastern,Texts treated as calls
+20181,Nokesville,VA,Virginia Eastern,Texts treated as calls
+20182,Nokesville,VA,Virginia Eastern,Texts treated as calls
+20184,Upperville,VA,Virginia Eastern,Texts treated as calls
+20185,Upperville,VA,Virginia Eastern,Texts treated as calls
+20186,Warrenton,VA,Virginia Eastern,Texts treated as calls
+20187,Warrenton,VA,Virginia Eastern,Texts treated as calls
+20188,Warrenton,VA,Virginia Eastern,Texts treated as calls
+20189,Dulles,VA,Virginia Eastern,Texts treated as calls
+20190,Reston,VA,Virginia Eastern,Texts treated as calls
+20191,Reston,VA,Virginia Eastern,Texts treated as calls
+20192,Herndon,VA,Virginia Eastern,Texts treated as calls
+20194,Reston,VA,Virginia Eastern,Texts treated as calls
+20195,Reston,VA,Virginia Eastern,Texts treated as calls
+20196,Reston,VA,Virginia Eastern,Texts treated as calls
+20197,Waterford,VA,Virginia Eastern,Texts treated as calls
+20198,The Plains,VA,Virginia Eastern,Texts treated as calls
+20598,Dhs,VA,Virginia Eastern,Texts treated as calls
+22003,Annandale,VA,Virginia Eastern,Texts treated as calls
+22009,Burke,VA,Virginia Eastern,Texts treated as calls
+22015,Burke,VA,Virginia Eastern,Texts treated as calls
+22025,Dumfries,VA,Virginia Eastern,Texts treated as calls
+22026,Dumfries,VA,Virginia Eastern,Texts treated as calls
+22027,Dunn Loring,VA,Virginia Eastern,Texts treated as calls
+22030,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22031,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22032,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22033,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22034,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22035,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22036,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22037,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22038,Fairfax,VA,Virginia Eastern,Texts treated as calls
+22039,Fairfax Station,VA,Virginia Eastern,Texts treated as calls
+22040,Falls Church,VA,Virginia Eastern,Texts treated as calls
+22041,Falls Church,VA,Virginia Eastern,Texts treated as calls
+22042,Falls Church,VA,Virginia Eastern,Texts treated as calls
+22043,Falls Church,VA,Virginia Eastern,Texts treated as calls
+22044,Falls Church,VA,Virginia Eastern,Texts treated as calls
+22046,Falls Church,VA,Virginia Eastern,Texts treated as calls
+22060,Fort Belvoir,VA,Virginia Eastern,Texts treated as calls
+22066,Great Falls,VA,Virginia Eastern,Texts treated as calls
+22067,Greenway,VA,Virginia Eastern,Texts treated as calls
+22079,Lorton,VA,Virginia Eastern,Texts treated as calls
+22081,Merrifield,VA,Virginia Eastern,Texts treated as calls
+22082,Merrifield,VA,Virginia Eastern,Texts treated as calls
+22095,Herndon,VA,Virginia Eastern,Texts treated as calls
+22096,Reston,VA,Virginia Eastern,Texts treated as calls
+22101,Mc Lean,VA,Virginia Eastern,Texts treated as calls
+22102,Mc Lean,VA,Virginia Eastern,Texts treated as calls
+22103,West Mclean,VA,Virginia Eastern,Texts treated as calls
+22106,Mc Lean,VA,Virginia Eastern,Texts treated as calls
+22107,Mc Lean,VA,Virginia Eastern,Texts treated as calls
+22108,Mc Lean,VA,Virginia Eastern,Texts treated as calls
+22109,Mc Lean,VA,Virginia Eastern,Texts treated as calls
+22116,Merrifield,VA,Virginia Eastern,Texts treated as calls
+22118,Merrifield,VA,Virginia Eastern,Texts treated as calls
+22119,Merrifield,VA,Virginia Eastern,Texts treated as calls
+22121,Mount Vernon,VA,Virginia Eastern,Texts treated as calls
+22122,Newington,VA,Virginia Eastern,Texts treated as calls
+22124,Oakton,VA,Virginia Eastern,Texts treated as calls
+22125,Occoquan,VA,Virginia Eastern,Texts treated as calls
+22134,Quantico,VA,Virginia Eastern,Texts treated as calls
+22135,Quantico,VA,Virginia Eastern,Texts treated as calls
+22150,Springfield,VA,Virginia Eastern,Texts treated as calls
+22151,Springfield,VA,Virginia Eastern,Texts treated as calls
+22152,Springfield,VA,Virginia Eastern,Texts treated as calls
+22153,Springfield,VA,Virginia Eastern,Texts treated as calls
+22156,Springfield,VA,Virginia Eastern,Texts treated as calls
+22158,Springfield,VA,Virginia Eastern,Texts treated as calls
+22159,Springfield,VA,Virginia Eastern,Texts treated as calls
+22160,Springfield,VA,Virginia Eastern,Texts treated as calls
+22161,Springfield,VA,Virginia Eastern,Texts treated as calls
+22172,Triangle,VA,Virginia Eastern,Texts treated as calls
+22180,Vienna,VA,Virginia Eastern,Texts treated as calls
+22181,Vienna,VA,Virginia Eastern,Texts treated as calls
+22182,Vienna,VA,Virginia Eastern,Texts treated as calls
+22183,Vienna,VA,Virginia Eastern,Texts treated as calls
+22185,Vienna,VA,Virginia Eastern,Texts treated as calls
+22191,Woodbridge,VA,Virginia Eastern,Texts treated as calls
+22192,Woodbridge,VA,Virginia Eastern,Texts treated as calls
+22193,Woodbridge,VA,Virginia Eastern,Texts treated as calls
+22194,Woodbridge,VA,Virginia Eastern,Texts treated as calls
+22195,Woodbridge,VA,Virginia Eastern,Texts treated as calls
+22199,Lorton,VA,Virginia Eastern,Texts treated as calls
+22201,Arlington,VA,Virginia Eastern,Texts treated as calls
+22202,Arlington,VA,Virginia Eastern,Texts treated as calls
+22203,Arlington,VA,Virginia Eastern,Texts treated as calls
+22204,Arlington,VA,Virginia Eastern,Texts treated as calls
+22205,Arlington,VA,Virginia Eastern,Texts treated as calls
+22206,Arlington,VA,Virginia Eastern,Texts treated as calls
+22207,Arlington,VA,Virginia Eastern,Texts treated as calls
+22209,Arlington,VA,Virginia Eastern,Texts treated as calls
+22210,Arlington,VA,Virginia Eastern,Texts treated as calls
+22211,Fort Myer,VA,Virginia Eastern,Texts treated as calls
+22212,Arlington,VA,Virginia Eastern,Texts treated as calls
+22213,Arlington,VA,Virginia Eastern,Texts treated as calls
+22214,Arlington,VA,Virginia Eastern,Texts treated as calls
+22215,Arlington,VA,Virginia Eastern,Texts treated as calls
+22216,Arlington,VA,Virginia Eastern,Texts treated as calls
+22217,Arlington,VA,Virginia Eastern,Texts treated as calls
+22219,Arlington,VA,Virginia Eastern,Texts treated as calls
+22225,Arlington,VA,Virginia Eastern,Texts treated as calls
+22226,Arlington,VA,Virginia Eastern,Texts treated as calls
+22227,Arlington,VA,Virginia Eastern,Texts treated as calls
+22230,Arlington,VA,Virginia Eastern,Texts treated as calls
+22240,Arlington,VA,Virginia Eastern,Texts treated as calls
+22241,Arlington,VA,Virginia Eastern,Texts treated as calls
+22242,Arlington,VA,Virginia Eastern,Texts treated as calls
+22243,Arlington,VA,Virginia Eastern,Texts treated as calls
+22244,Arlington,VA,Virginia Eastern,Texts treated as calls
+22245,Arlington,VA,Virginia Eastern,Texts treated as calls
+22246,Arlington,VA,Virginia Eastern,Texts treated as calls
+22301,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22302,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22303,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22304,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22305,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22306,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22307,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22308,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22309,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22310,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22311,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22312,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22313,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22314,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22315,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22320,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22331,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22332,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22333,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22334,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22350,Alexandria,VA,Virginia Eastern,Texts treated as calls
+22401,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22402,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22403,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22404,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22405,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22406,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22407,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22408,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22412,Fredericksburg,VA,Virginia Eastern,Texts treated as calls
+22427,Bowling Green,VA,Virginia Eastern,Texts treated as calls
+22428,Bowling Green,VA,Virginia Eastern,Texts treated as calls
+22430,Brooke,VA,Virginia Eastern,Texts treated as calls
+22432,Burgess,VA,Virginia Eastern,Texts treated as calls
+22435,Callao,VA,Virginia Eastern,Texts treated as calls
+22436,Caret,VA,Virginia Eastern,Texts treated as calls
+22437,Center Cross,VA,Virginia Eastern,Texts treated as calls
+22438,Champlain,VA,Virginia Eastern,Texts treated as calls
+22442,Coles Point,VA,Virginia Eastern,Texts treated as calls
+22443,Colonial Beach,VA,Virginia Eastern,Texts treated as calls
+22446,Corbin,VA,Virginia Eastern,Texts treated as calls
+22448,Dahlgren,VA,Virginia Eastern,Texts treated as calls
+22451,Dogue,VA,Virginia Eastern,Texts treated as calls
+22454,Dunnsville,VA,Virginia Eastern,Texts treated as calls
+22456,Edwardsville,VA,Virginia Eastern,Texts treated as calls
+22460,Farnham,VA,Virginia Eastern,Texts treated as calls
+22463,Garrisonville,VA,Virginia Eastern,Texts treated as calls
+22469,Hague,VA,Virginia Eastern,Texts treated as calls
+22471,Hartwood,VA,Virginia Eastern,Texts treated as calls
+22472,Haynesville,VA,Virginia Eastern,Texts treated as calls
+22473,Heathsville,VA,Virginia Eastern,Texts treated as calls
+22476,Hustle,VA,Virginia Eastern,Texts treated as calls
+22480,Irvington,VA,Virginia Eastern,Texts treated as calls
+22481,Jersey,VA,Virginia Eastern,Texts treated as calls
+22482,Kilmarnock,VA,Virginia Eastern,Texts treated as calls
+22485,King George,VA,Virginia Eastern,Texts treated as calls
+22488,Kinsale,VA,Virginia Eastern,Texts treated as calls
+22501,Ladysmith,VA,Virginia Eastern,Texts treated as calls
+22503,Lancaster,VA,Virginia Eastern,Texts treated as calls
+22504,Laneview,VA,Virginia Eastern,Texts treated as calls
+22507,Lively,VA,Virginia Eastern,Texts treated as calls
+22509,Loretto,VA,Virginia Eastern,Texts treated as calls
+22511,Lottsburg,VA,Virginia Eastern,Texts treated as calls
+22513,Merry Point,VA,Virginia Eastern,Texts treated as calls
+22514,Milford,VA,Virginia Eastern,Texts treated as calls
+22517,Mollusk,VA,Virginia Eastern,Texts treated as calls
+22520,Montross,VA,Virginia Eastern,Texts treated as calls
+22523,Morattico,VA,Virginia Eastern,Texts treated as calls
+22524,Mount Holly,VA,Virginia Eastern,Texts treated as calls
+22526,Ninde,VA,Virginia Eastern,Texts treated as calls
+22528,Nuttsville,VA,Virginia Eastern,Texts treated as calls
+22529,Oldhams,VA,Virginia Eastern,Texts treated as calls
+22530,Ophelia,VA,Virginia Eastern,Texts treated as calls
+22534,Partlow,VA,Virginia Eastern,Texts treated as calls
+22535,Port Royal,VA,Virginia Eastern,Texts treated as calls
+22538,Rappahannock Academy,VA,Virginia Eastern,Texts treated as calls
+22539,Reedville,VA,Virginia Eastern,Texts treated as calls
+22544,Rollins Fork,VA,Virginia Eastern,Texts treated as calls
+22545,Ruby,VA,Virginia Eastern,Texts treated as calls
+22546,Ruther Glen,VA,Virginia Eastern,Texts treated as calls
+22547,Sealston,VA,Virginia Eastern,Texts treated as calls
+22548,Sharps,VA,Virginia Eastern,Texts treated as calls
+22551,Spotsylvania,VA,Virginia Eastern,Texts treated as calls
+22552,Sparta,VA,Virginia Eastern,Texts treated as calls
+22553,Spotsylvania,VA,Virginia Eastern,Texts treated as calls
+22554,Stafford,VA,Virginia Eastern,Texts treated as calls
+22555,Stafford,VA,Virginia Eastern,Texts treated as calls
+22556,Stafford,VA,Virginia Eastern,Texts treated as calls
+22558,Stratford,VA,Virginia Eastern,Texts treated as calls
+22560,Tappahannock,VA,Virginia Eastern,Texts treated as calls
+22565,Thornburg,VA,Virginia Eastern,Texts treated as calls
+22570,Village,VA,Virginia Eastern,Texts treated as calls
+22572,Warsaw,VA,Virginia Eastern,Texts treated as calls
+22576,Weems,VA,Virginia Eastern,Texts treated as calls
+22577,Sandy Point,VA,Virginia Eastern,Texts treated as calls
+22578,White Stone,VA,Virginia Eastern,Texts treated as calls
+22579,Wicomico Church,VA,Virginia Eastern,Texts treated as calls
+22580,Woodford,VA,Virginia Eastern,Texts treated as calls
+22581,Zacata,VA,Virginia Eastern,Texts treated as calls
+22639,Hume,VA,Virginia Eastern,Texts treated as calls
+22642,Linden,VA,Virginia Eastern,Texts treated as calls
+22643,Markham,VA,Virginia Eastern,Texts treated as calls
+22712,Bealeton,VA,Virginia Eastern,Texts treated as calls
+22720,Goldvein,VA,Virginia Eastern,Texts treated as calls
+22728,Midland,VA,Virginia Eastern,Texts treated as calls
+22734,Remington,VA,Virginia Eastern,Texts treated as calls
+22739,Somerville,VA,Virginia Eastern,Texts treated as calls
+22742,Sumerduck,VA,Virginia Eastern,Texts treated as calls
+23001,Achilles,VA,Virginia Eastern,Texts treated as calls
+23002,Amelia Court House,VA,Virginia Eastern,Texts treated as calls
+23003,Ark,VA,Virginia Eastern,Texts treated as calls
+23005,Ashland,VA,Virginia Eastern,Texts treated as calls
+23009,Aylett,VA,Virginia Eastern,Texts treated as calls
+23011,Barhamsville,VA,Virginia Eastern,Texts treated as calls
+23014,Beaumont,VA,Virginia Eastern,Texts treated as calls
+23015,Beaverdam,VA,Virginia Eastern,Texts treated as calls
+23018,Bena,VA,Virginia Eastern,Texts treated as calls
+23021,Bohannon,VA,Virginia Eastern,Texts treated as calls
+23023,Bruington,VA,Virginia Eastern,Texts treated as calls
+23025,Cardinal,VA,Virginia Eastern,Texts treated as calls
+23030,Charles City,VA,Virginia Eastern,Texts treated as calls
+23031,Christchurch,VA,Virginia Eastern,Texts treated as calls
+23032,Church View,VA,Virginia Eastern,Texts treated as calls
+23035,Cobbs Creek,VA,Virginia Eastern,Texts treated as calls
+23039,Crozier,VA,Virginia Eastern,Texts treated as calls
+23043,Deltaville,VA,Virginia Eastern,Texts treated as calls
+23045,Diggs,VA,Virginia Eastern,Texts treated as calls
+23047,Doswell,VA,Virginia Eastern,Texts treated as calls
+23050,Dutton,VA,Virginia Eastern,Texts treated as calls
+23056,Foster,VA,Virginia Eastern,Texts treated as calls
+23058,Glen Allen,VA,Virginia Eastern,Texts treated as calls
+23059,Glen Allen,VA,Virginia Eastern,Texts treated as calls
+23060,Glen Allen,VA,Virginia Eastern,Texts treated as calls
+23061,Gloucester,VA,Virginia Eastern,Texts treated as calls
+23062,Gloucester Point,VA,Virginia Eastern,Texts treated as calls
+23063,Goochland,VA,Virginia Eastern,Texts treated as calls
+23064,Grimstead,VA,Virginia Eastern,Texts treated as calls
+23065,Gum Spring,VA,Virginia Eastern,Texts treated as calls
+23066,Gwynn,VA,Virginia Eastern,Texts treated as calls
+23067,Hadensville,VA,Virginia Eastern,Texts treated as calls
+23068,Hallieford,VA,Virginia Eastern,Texts treated as calls
+23069,Hanover,VA,Virginia Eastern,Texts treated as calls
+23070,Hardyville,VA,Virginia Eastern,Texts treated as calls
+23071,Hartfield,VA,Virginia Eastern,Texts treated as calls
+23072,Hayes,VA,Virginia Eastern,Texts treated as calls
+23075,Henrico,VA,Virginia Eastern,Texts treated as calls
+23076,Hudgins,VA,Virginia Eastern,Texts treated as calls
+23079,Jamaica,VA,Virginia Eastern,Texts treated as calls
+23081,Jamestown,VA,Virginia Eastern,Texts treated as calls
+23083,Jetersville,VA,Virginia Eastern,Texts treated as calls
+23085,King And Queen Court House,VA,Virginia Eastern,Texts treated as calls
+23086,King William,VA,Virginia Eastern,Texts treated as calls
+23089,Lanexa,VA,Virginia Eastern,Texts treated as calls
+23090,Lightfoot,VA,Virginia Eastern,Texts treated as calls
+23091,Little Plymouth,VA,Virginia Eastern,Texts treated as calls
+23092,Locust Hill,VA,Virginia Eastern,Texts treated as calls
+23102,Maidens,VA,Virginia Eastern,Texts treated as calls
+23103,Manakin Sabot,VA,Virginia Eastern,Texts treated as calls
+23105,Mannboro,VA,Virginia Eastern,Texts treated as calls
+23106,Manquin,VA,Virginia Eastern,Texts treated as calls
+23107,Maryus,VA,Virginia Eastern,Texts treated as calls
+23108,Mascot,VA,Virginia Eastern,Texts treated as calls
+23109,Mathews,VA,Virginia Eastern,Texts treated as calls
+23110,Mattaponi,VA,Virginia Eastern,Texts treated as calls
+23111,Mechanicsville,VA,Virginia Eastern,Texts treated as calls
+23112,Midlothian,VA,Virginia Eastern,Texts treated as calls
+23113,Midlothian,VA,Virginia Eastern,Texts treated as calls
+23114,Midlothian,VA,Virginia Eastern,Texts treated as calls
+23115,Millers Tavern,VA,Virginia Eastern,Texts treated as calls
+23116,Mechanicsville,VA,Virginia Eastern,Texts treated as calls
+23119,Moon,VA,Virginia Eastern,Texts treated as calls
+23120,Moseley,VA,Virginia Eastern,Texts treated as calls
+23124,New Kent,VA,Virginia Eastern,Texts treated as calls
+23125,New Point,VA,Virginia Eastern,Texts treated as calls
+23126,Newtown,VA,Virginia Eastern,Texts treated as calls
+23127,Norge,VA,Virginia Eastern,Texts treated as calls
+23128,North,VA,Virginia Eastern,Texts treated as calls
+23129,Oilville,VA,Virginia Eastern,Texts treated as calls
+23130,Onemo,VA,Virginia Eastern,Texts treated as calls
+23131,Ordinary,VA,Virginia Eastern,Texts treated as calls
+23138,Port Haywood,VA,Virginia Eastern,Texts treated as calls
+23139,Powhatan,VA,Virginia Eastern,Texts treated as calls
+23140,Providence Forge,VA,Virginia Eastern,Texts treated as calls
+23141,Quinton,VA,Virginia Eastern,Texts treated as calls
+23146,Rockville,VA,Virginia Eastern,Texts treated as calls
+23147,Ruthville,VA,Virginia Eastern,Texts treated as calls
+23148,Saint Stephens Church,VA,Virginia Eastern,Texts treated as calls
+23149,Saluda,VA,Virginia Eastern,Texts treated as calls
+23150,Sandston,VA,Virginia Eastern,Texts treated as calls
+23153,Sandy Hook,VA,Virginia Eastern,Texts treated as calls
+23154,Schley,VA,Virginia Eastern,Texts treated as calls
+23155,Severn,VA,Virginia Eastern,Texts treated as calls
+23156,Shacklefords,VA,Virginia Eastern,Texts treated as calls
+23160,State Farm,VA,Virginia Eastern,Texts treated as calls
+23161,Stevensville,VA,Virginia Eastern,Texts treated as calls
+23162,Studley,VA,Virginia Eastern,Texts treated as calls
+23163,Susan,VA,Virginia Eastern,Texts treated as calls
+23168,Toano,VA,Virginia Eastern,Texts treated as calls
+23169,Topping,VA,Virginia Eastern,Texts treated as calls
+23173,Richmond,VA,Virginia Eastern,Texts treated as calls
+23175,Urbanna,VA,Virginia Eastern,Texts treated as calls
+23176,Wake,VA,Virginia Eastern,Texts treated as calls
+23177,Walkerton,VA,Virginia Eastern,Texts treated as calls
+23178,Ware Neck,VA,Virginia Eastern,Texts treated as calls
+23180,Water View,VA,Virginia Eastern,Texts treated as calls
+23181,West Point,VA,Virginia Eastern,Texts treated as calls
+23183,White Marsh,VA,Virginia Eastern,Texts treated as calls
+23184,Wicomico,VA,Virginia Eastern,Texts treated as calls
+23185,Williamsburg,VA,Virginia Eastern,Texts treated as calls
+23186,Williamsburg,VA,Virginia Eastern,Texts treated as calls
+23187,Williamsburg,VA,Virginia Eastern,Texts treated as calls
+23188,Williamsburg,VA,Virginia Eastern,Texts treated as calls
+23190,Woods Cross Roads,VA,Virginia Eastern,Texts treated as calls
+23192,Montpelier,VA,Virginia Eastern,Texts treated as calls
+23218,Richmond,VA,Virginia Eastern,Texts treated as calls
+23219,Richmond,VA,Virginia Eastern,Texts treated as calls
+23220,Richmond,VA,Virginia Eastern,Texts treated as calls
+23221,Richmond,VA,Virginia Eastern,Texts treated as calls
+23222,Richmond,VA,Virginia Eastern,Texts treated as calls
+23223,Richmond,VA,Virginia Eastern,Texts treated as calls
+23224,Richmond,VA,Virginia Eastern,Texts treated as calls
+23225,Richmond,VA,Virginia Eastern,Texts treated as calls
+23226,Richmond,VA,Virginia Eastern,Texts treated as calls
+23227,Richmond,VA,Virginia Eastern,Texts treated as calls
+23228,Henrico,VA,Virginia Eastern,Texts treated as calls
+23229,Henrico,VA,Virginia Eastern,Texts treated as calls
+23230,Richmond,VA,Virginia Eastern,Texts treated as calls
+23231,Henrico,VA,Virginia Eastern,Texts treated as calls
+23232,Richmond,VA,Virginia Eastern,Texts treated as calls
+23233,Henrico,VA,Virginia Eastern,Texts treated as calls
+23234,Richmond,VA,Virginia Eastern,Texts treated as calls
+23235,Richmond,VA,Virginia Eastern,Texts treated as calls
+23236,Richmond,VA,Virginia Eastern,Texts treated as calls
+23237,Richmond,VA,Virginia Eastern,Texts treated as calls
+23238,Henrico,VA,Virginia Eastern,Texts treated as calls
+23241,Richmond,VA,Virginia Eastern,Texts treated as calls
+23242,Henrico,VA,Virginia Eastern,Texts treated as calls
+23249,Richmond,VA,Virginia Eastern,Texts treated as calls
+23250,Richmond,VA,Virginia Eastern,Texts treated as calls
+23255,Henrico,VA,Virginia Eastern,Texts treated as calls
+23260,Richmond,VA,Virginia Eastern,Texts treated as calls
+23261,Richmond,VA,Virginia Eastern,Texts treated as calls
+23269,Richmond,VA,Virginia Eastern,Texts treated as calls
+23273,Henrico,VA,Virginia Eastern,Texts treated as calls
+23274,Richmond,VA,Virginia Eastern,Texts treated as calls
+23276,Richmond,VA,Virginia Eastern,Texts treated as calls
+23278,Richmond,VA,Virginia Eastern,Texts treated as calls
+23279,Richmond,VA,Virginia Eastern,Texts treated as calls
+23282,Richmond,VA,Virginia Eastern,Texts treated as calls
+23284,Richmond,VA,Virginia Eastern,Texts treated as calls
+23285,Richmond,VA,Virginia Eastern,Texts treated as calls
+23286,Richmond,VA,Virginia Eastern,Texts treated as calls
+23288,Henrico,VA,Virginia Eastern,Texts treated as calls
+23289,Richmond,VA,Virginia Eastern,Texts treated as calls
+23290,Richmond,VA,Virginia Eastern,Texts treated as calls
+23291,Richmond,VA,Virginia Eastern,Texts treated as calls
+23292,Richmond,VA,Virginia Eastern,Texts treated as calls
+23293,Richmond,VA,Virginia Eastern,Texts treated as calls
+23294,Henrico,VA,Virginia Eastern,Texts treated as calls
+23295,Richmond,VA,Virginia Eastern,Texts treated as calls
+23297,Richmond,VA,Virginia Eastern,Texts treated as calls
+23298,Richmond,VA,Virginia Eastern,Texts treated as calls
+23301,Accomac,VA,Virginia Eastern,Texts treated as calls
+23302,Assawoman,VA,Virginia Eastern,Texts treated as calls
+23303,Atlantic,VA,Virginia Eastern,Texts treated as calls
+23304,Battery Park,VA,Virginia Eastern,Texts treated as calls
+23306,Belle Haven,VA,Virginia Eastern,Texts treated as calls
+23307,Birdsnest,VA,Virginia Eastern,Texts treated as calls
+23308,Bloxom,VA,Virginia Eastern,Texts treated as calls
+23310,Cape Charles,VA,Virginia Eastern,Texts treated as calls
+23313,Capeville,VA,Virginia Eastern,Texts treated as calls
+23314,Carrollton,VA,Virginia Eastern,Texts treated as calls
+23315,Carrsville,VA,Virginia Eastern,Texts treated as calls
+23316,Cheriton,VA,Virginia Eastern,Texts treated as calls
+23320,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23321,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23322,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23323,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23324,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23325,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23326,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23327,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23328,Chesapeake,VA,Virginia Eastern,Texts treated as calls
+23336,Chincoteague Island,VA,Virginia Eastern,Texts treated as calls
+23337,Wallops Island,VA,Virginia Eastern,Texts treated as calls
+23341,Craddockville,VA,Virginia Eastern,Texts treated as calls
+23345,Davis Wharf,VA,Virginia Eastern,Texts treated as calls
+23347,Eastville,VA,Virginia Eastern,Texts treated as calls
+23350,Exmore,VA,Virginia Eastern,Texts treated as calls
+23354,Franktown,VA,Virginia Eastern,Texts treated as calls
+23356,Greenbackville,VA,Virginia Eastern,Texts treated as calls
+23357,Greenbush,VA,Virginia Eastern,Texts treated as calls
+23358,Hacksneck,VA,Virginia Eastern,Texts treated as calls
+23359,Hallwood,VA,Virginia Eastern,Texts treated as calls
+23389,Harborton,VA,Virginia Eastern,Texts treated as calls
+23395,Horntown,VA,Virginia Eastern,Texts treated as calls
+23396,Oak Hall,VA,Virginia Eastern,Texts treated as calls
+23397,Isle Of Wight,VA,Virginia Eastern,Texts treated as calls
+23398,Jamesville,VA,Virginia Eastern,Texts treated as calls
+23399,Jenkins Bridge,VA,Virginia Eastern,Texts treated as calls
+23401,Keller,VA,Virginia Eastern,Texts treated as calls
+23404,Locustville,VA,Virginia Eastern,Texts treated as calls
+23405,Machipongo,VA,Virginia Eastern,Texts treated as calls
+23407,Mappsville,VA,Virginia Eastern,Texts treated as calls
+23408,Marionville,VA,Virginia Eastern,Texts treated as calls
+23409,Mears,VA,Virginia Eastern,Texts treated as calls
+23410,Melfa,VA,Virginia Eastern,Texts treated as calls
+23412,Modest Town,VA,Virginia Eastern,Texts treated as calls
+23413,Nassawadox,VA,Virginia Eastern,Texts treated as calls
+23414,Nelsonia,VA,Virginia Eastern,Texts treated as calls
+23415,New Church,VA,Virginia Eastern,Texts treated as calls
+23416,Oak Hall,VA,Virginia Eastern,Texts treated as calls
+23417,Onancock,VA,Virginia Eastern,Texts treated as calls
+23418,Onley,VA,Virginia Eastern,Texts treated as calls
+23419,Oyster,VA,Virginia Eastern,Texts treated as calls
+23420,Painter,VA,Virginia Eastern,Texts treated as calls
+23421,Parksley,VA,Virginia Eastern,Texts treated as calls
+23422,Pungoteague,VA,Virginia Eastern,Texts treated as calls
+23423,Quinby,VA,Virginia Eastern,Texts treated as calls
+23424,Rescue,VA,Virginia Eastern,Texts treated as calls
+23426,Sanford,VA,Virginia Eastern,Texts treated as calls
+23427,Saxis,VA,Virginia Eastern,Texts treated as calls
+23429,Seaview,VA,Virginia Eastern,Texts treated as calls
+23430,Smithfield,VA,Virginia Eastern,Texts treated as calls
+23431,Smithfield,VA,Virginia Eastern,Texts treated as calls
+23432,Suffolk,VA,Virginia Eastern,Texts treated as calls
+23433,Suffolk,VA,Virginia Eastern,Texts treated as calls
+23434,Suffolk,VA,Virginia Eastern,Texts treated as calls
+23435,Suffolk,VA,Virginia Eastern,Texts treated as calls
+23436,Suffolk,VA,Virginia Eastern,Texts treated as calls
+23437,Suffolk,VA,Virginia Eastern,Texts treated as calls
+23438,Suffolk,VA,Virginia Eastern,Texts treated as calls
+23439,Suffolk,VA,Virginia Eastern,Texts treated as calls
+23440,Tangier,VA,Virginia Eastern,Texts treated as calls
+23441,Tasley,VA,Virginia Eastern,Texts treated as calls
+23442,Temperanceville,VA,Virginia Eastern,Texts treated as calls
+23443,Townsend,VA,Virginia Eastern,Texts treated as calls
+23450,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23451,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23452,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23453,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23454,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23455,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23456,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23457,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23458,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23459,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23460,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23461,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23462,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23463,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23464,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23465,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23466,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23467,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23471,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23479,Virginia Beach,VA,Virginia Eastern,Texts treated as calls
+23480,Wachapreague,VA,Virginia Eastern,Texts treated as calls
+23482,Wardtown,VA,Virginia Eastern,Texts treated as calls
+23483,Wattsville,VA,Virginia Eastern,Texts treated as calls
+23486,Willis Wharf,VA,Virginia Eastern,Texts treated as calls
+23487,Windsor,VA,Virginia Eastern,Texts treated as calls
+23488,Withams,VA,Virginia Eastern,Texts treated as calls
+23501,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23502,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23503,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23504,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23505,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23506,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23507,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23508,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23509,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23510,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23511,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23513,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23514,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23515,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23517,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23518,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23519,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23523,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23529,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23541,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23551,Norfolk,VA,Virginia Eastern,Texts treated as calls
+23601,Newport News,VA,Virginia Eastern,Texts treated as calls
+23602,Newport News,VA,Virginia Eastern,Texts treated as calls
+23603,Newport News,VA,Virginia Eastern,Texts treated as calls
+23604,Fort Eustis,VA,Virginia Eastern,Texts treated as calls
+23605,Newport News,VA,Virginia Eastern,Texts treated as calls
+23606,Newport News,VA,Virginia Eastern,Texts treated as calls
+23607,Newport News,VA,Virginia Eastern,Texts treated as calls
+23608,Newport News,VA,Virginia Eastern,Texts treated as calls
+23609,Newport News,VA,Virginia Eastern,Texts treated as calls
+23612,Newport News,VA,Virginia Eastern,Texts treated as calls
+23628,Newport News,VA,Virginia Eastern,Texts treated as calls
+23630,Hampton,VA,Virginia Eastern,Texts treated as calls
+23651,Fort Monroe,VA,Virginia Eastern,Texts treated as calls
+23661,Hampton,VA,Virginia Eastern,Texts treated as calls
+23662,Poquoson,VA,Virginia Eastern,Texts treated as calls
+23663,Hampton,VA,Virginia Eastern,Texts treated as calls
+23664,Hampton,VA,Virginia Eastern,Texts treated as calls
+23665,Hampton,VA,Virginia Eastern,Texts treated as calls
+23666,Hampton,VA,Virginia Eastern,Texts treated as calls
+23667,Hampton,VA,Virginia Eastern,Texts treated as calls
+23668,Hampton,VA,Virginia Eastern,Texts treated as calls
+23669,Hampton,VA,Virginia Eastern,Texts treated as calls
+23670,Hampton,VA,Virginia Eastern,Texts treated as calls
+23681,Hampton,VA,Virginia Eastern,Texts treated as calls
+23690,Yorktown,VA,Virginia Eastern,Texts treated as calls
+23691,Yorktown,VA,Virginia Eastern,Texts treated as calls
+23692,Yorktown,VA,Virginia Eastern,Texts treated as calls
+23693,Yorktown,VA,Virginia Eastern,Texts treated as calls
+23694,Lackey,VA,Virginia Eastern,Texts treated as calls
+23696,Seaford,VA,Virginia Eastern,Texts treated as calls
+23701,Portsmouth,VA,Virginia Eastern,Texts treated as calls
+23702,Portsmouth,VA,Virginia Eastern,Texts treated as calls
+23703,Portsmouth,VA,Virginia Eastern,Texts treated as calls
+23704,Portsmouth,VA,Virginia Eastern,Texts treated as calls
+23705,Portsmouth,VA,Virginia Eastern,Texts treated as calls
+23707,Portsmouth,VA,Virginia Eastern,Texts treated as calls
+23708,Portsmouth,VA,Virginia Eastern,Texts treated as calls
+23709,Portsmouth,VA,Virginia Eastern,Texts treated as calls
+23801,Fort Lee,VA,Virginia Eastern,Texts treated as calls
+23803,Petersburg,VA,Virginia Eastern,Texts treated as calls
+23804,Petersburg,VA,Virginia Eastern,Texts treated as calls
+23805,Petersburg,VA,Virginia Eastern,Texts treated as calls
+23806,Virginia State University,VA,Virginia Eastern,Texts treated as calls
+23821,Alberta,VA,Virginia Eastern,Texts treated as calls
+23822,Ammon,VA,Virginia Eastern,Texts treated as calls
+23824,Blackstone,VA,Virginia Eastern,Texts treated as calls
+23827,Boykins,VA,Virginia Eastern,Texts treated as calls
+23828,Branchville,VA,Virginia Eastern,Texts treated as calls
+23829,Capron,VA,Virginia Eastern,Texts treated as calls
+23830,Carson,VA,Virginia Eastern,Texts treated as calls
+23831,Chester,VA,Virginia Eastern,Texts treated as calls
+23832,Chesterfield,VA,Virginia Eastern,Texts treated as calls
+23833,Church Road,VA,Virginia Eastern,Texts treated as calls
+23834,Colonial Heights,VA,Virginia Eastern,Texts treated as calls
+23836,Chester,VA,Virginia Eastern,Texts treated as calls
+23837,Courtland,VA,Virginia Eastern,Texts treated as calls
+23838,Chesterfield,VA,Virginia Eastern,Texts treated as calls
+23839,Dendron,VA,Virginia Eastern,Texts treated as calls
+23840,Dewitt,VA,Virginia Eastern,Texts treated as calls
+23841,Dinwiddie,VA,Virginia Eastern,Texts treated as calls
+23842,Disputanta,VA,Virginia Eastern,Texts treated as calls
+23843,Dolphin,VA,Virginia Eastern,Texts treated as calls
+23844,Drewryville,VA,Virginia Eastern,Texts treated as calls
+23845,Ebony,VA,Virginia Eastern,Texts treated as calls
+23846,Elberon,VA,Virginia Eastern,Texts treated as calls
+23847,Emporia,VA,Virginia Eastern,Texts treated as calls
+23850,Ford,VA,Virginia Eastern,Texts treated as calls
+23851,Franklin,VA,Virginia Eastern,Texts treated as calls
+23856,Freeman,VA,Virginia Eastern,Texts treated as calls
+23857,Gasburg,VA,Virginia Eastern,Texts treated as calls
+23860,Hopewell,VA,Virginia Eastern,Texts treated as calls
+23866,Ivor,VA,Virginia Eastern,Texts treated as calls
+23867,Jarratt,VA,Virginia Eastern,Texts treated as calls
+23868,Lawrenceville,VA,Virginia Eastern,Texts treated as calls
+23870,Jarratt,VA,Virginia Eastern,Texts treated as calls
+23872,Mc Kenney,VA,Virginia Eastern,Texts treated as calls
+23873,Meredithville,VA,Virginia Eastern,Texts treated as calls
+23874,Newsoms,VA,Virginia Eastern,Texts treated as calls
+23875,Prince George,VA,Virginia Eastern,Texts treated as calls
+23876,Rawlings,VA,Virginia Eastern,Texts treated as calls
+23878,Sedley,VA,Virginia Eastern,Texts treated as calls
+23879,Skippers,VA,Virginia Eastern,Texts treated as calls
+23881,Spring Grove,VA,Virginia Eastern,Texts treated as calls
+23882,Stony Creek,VA,Virginia Eastern,Texts treated as calls
+23883,Surry,VA,Virginia Eastern,Texts treated as calls
+23884,Sussex,VA,Virginia Eastern,Texts treated as calls
+23885,Sutherland,VA,Virginia Eastern,Texts treated as calls
+23887,Valentines,VA,Virginia Eastern,Texts treated as calls
+23888,Wakefield,VA,Virginia Eastern,Texts treated as calls
+23889,Warfield,VA,Virginia Eastern,Texts treated as calls
+23890,Waverly,VA,Virginia Eastern,Texts treated as calls
+23891,Waverly,VA,Virginia Eastern,Texts treated as calls
+23893,White Plains,VA,Virginia Eastern,Texts treated as calls
+23894,Wilsons,VA,Virginia Eastern,Texts treated as calls
+23897,Yale,VA,Virginia Eastern,Texts treated as calls
+23898,Zuni,VA,Virginia Eastern,Texts treated as calls
+23899,Claremont,VA,Virginia Eastern,Texts treated as calls
+23901,Farmville,VA,Virginia Eastern,Texts treated as calls
+23909,Farmville,VA,Virginia Eastern,Texts treated as calls
+23915,Baskerville,VA,Virginia Eastern,Texts treated as calls
+23917,Boydton,VA,Virginia Eastern,Texts treated as calls
+23919,Bracey,VA,Virginia Eastern,Texts treated as calls
+23920,Brodnax,VA,Virginia Eastern,Texts treated as calls
+23922,Burkeville,VA,Virginia Eastern,Texts treated as calls
+23924,Chase City,VA,Virginia Eastern,Texts treated as calls
+23927,Clarksville,VA,Virginia Eastern,Texts treated as calls
+23930,Crewe,VA,Virginia Eastern,Texts treated as calls
+23938,Dundas,VA,Virginia Eastern,Texts treated as calls
+23941,Fort Mitchell,VA,Virginia Eastern,Texts treated as calls
+23942,Green Bay,VA,Virginia Eastern,Texts treated as calls
+23943,Hampden Sydney,VA,Virginia Eastern,Texts treated as calls
+23944,Kenbridge,VA,Virginia Eastern,Texts treated as calls
+23950,La Crosse,VA,Virginia Eastern,Texts treated as calls
+23952,Lunenburg,VA,Virginia Eastern,Texts treated as calls
+23954,Meherrin,VA,Virginia Eastern,Texts treated as calls
+23955,Nottoway,VA,Virginia Eastern,Texts treated as calls
+23958,Pamplin,VA,Virginia Eastern,Texts treated as calls
+23960,Prospect,VA,Virginia Eastern,Texts treated as calls
+23966,Rice,VA,Virginia Eastern,Texts treated as calls
+23968,Skipwith,VA,Virginia Eastern,Texts treated as calls
+23970,South Hill,VA,Virginia Eastern,Texts treated as calls
+23974,Victoria,VA,Virginia Eastern,Texts treated as calls
 24205,Bristol,VA,Tennessee Eastern,No decision yet
 24218,Ben Hur,VA,Kentucky Eastern,No decision yet
-24529,Buffalo Junction,VA,Virginia Eastern,No decision yet
-24580,Nelson,VA,Virginia Eastern,No decision yet
+24529,Buffalo Junction,VA,Virginia Eastern,Texts treated as calls
+24580,Nelson,VA,Virginia Eastern,Texts treated as calls
 05001,White River Junction,VT,Vermont,No decision yet
 05009,White River Junction,VT,Vermont,No decision yet
 05030,Ascutney,VT,Vermont,No decision yet
