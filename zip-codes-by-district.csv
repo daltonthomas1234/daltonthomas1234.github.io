@@ -18973,9 +18973,9 @@ zip,place,state,district,ruling
 89834,Tuscarora,NV,Nevada,No decision yet
 89835,Wells,NV,Nevada,No decision yet
 89883,West Wendover,NV,Nevada,No decision yet
-00501,Holtsville,NY,New York Eastern,No decision yet
-00544,Holtsville,NY,New York Eastern,No decision yet
-06390,Fishers Island,NY,New York Eastern,No decision yet
+00501,Holtsville,NY,New York Eastern,Texts treated as calls
+00544,Holtsville,NY,New York Eastern,Texts treated as calls
+06390,Fishers Island,NY,New York Eastern,Texts treated as calls
 10001,New York,NY,New York Southern,Texts treated as calls
 10002,New York,NY,New York Southern,Texts treated as calls
 10003,New York,NY,New York Southern,Texts treated as calls
@@ -19122,20 +19122,20 @@ zip,place,state,district,ruling
 10282,New York,NY,New York Southern,Texts treated as calls
 10285,New York,NY,New York Southern,Texts treated as calls
 10286,New York,NY,New York Southern,Texts treated as calls
-10301,Staten Island,NY,New York Eastern,No decision yet
-10302,Staten Island,NY,New York Eastern,No decision yet
-10303,Staten Island,NY,New York Eastern,No decision yet
-10304,Staten Island,NY,New York Eastern,No decision yet
-10305,Staten Island,NY,New York Eastern,No decision yet
-10306,Staten Island,NY,New York Eastern,No decision yet
-10307,Staten Island,NY,New York Eastern,No decision yet
-10308,Staten Island,NY,New York Eastern,No decision yet
-10309,Staten Island,NY,New York Eastern,No decision yet
-10310,Staten Island,NY,New York Eastern,No decision yet
-10311,Staten Island,NY,New York Eastern,No decision yet
-10312,Staten Island,NY,New York Eastern,No decision yet
-10313,Staten Island,NY,New York Eastern,No decision yet
-10314,Staten Island,NY,New York Eastern,No decision yet
+10301,Staten Island,NY,New York Eastern,Texts treated as calls
+10302,Staten Island,NY,New York Eastern,Texts treated as calls
+10303,Staten Island,NY,New York Eastern,Texts treated as calls
+10304,Staten Island,NY,New York Eastern,Texts treated as calls
+10305,Staten Island,NY,New York Eastern,Texts treated as calls
+10306,Staten Island,NY,New York Eastern,Texts treated as calls
+10307,Staten Island,NY,New York Eastern,Texts treated as calls
+10308,Staten Island,NY,New York Eastern,Texts treated as calls
+10309,Staten Island,NY,New York Eastern,Texts treated as calls
+10310,Staten Island,NY,New York Eastern,Texts treated as calls
+10311,Staten Island,NY,New York Eastern,Texts treated as calls
+10312,Staten Island,NY,New York Eastern,Texts treated as calls
+10313,Staten Island,NY,New York Eastern,Texts treated as calls
+10314,Staten Island,NY,New York Eastern,Texts treated as calls
 10451,Bronx,NY,New York Southern,Texts treated as calls
 10452,Bronx,NY,New York Southern,Texts treated as calls
 10453,Bronx,NY,New York Southern,Texts treated as calls
@@ -19315,333 +19315,333 @@ zip,place,state,district,ruling
 10996,West Point,NY,New York Southern,Texts treated as calls
 10997,West Point,NY,New York Southern,Texts treated as calls
 10998,Westtown,NY,New York Southern,Texts treated as calls
-11001,Floral Park,NY,New York Eastern,No decision yet
-11002,Floral Park,NY,New York Eastern,No decision yet
-11003,Elmont,NY,New York Eastern,No decision yet
-11004,Glen Oaks,NY,New York Eastern,No decision yet
-11005,Floral Park,NY,New York Eastern,No decision yet
-11010,Franklin Square,NY,New York Eastern,No decision yet
-11020,Great Neck,NY,New York Eastern,No decision yet
-11021,Great Neck,NY,New York Eastern,No decision yet
-11022,Great Neck,NY,New York Eastern,No decision yet
-11023,Great Neck,NY,New York Eastern,No decision yet
-11024,Great Neck,NY,New York Eastern,No decision yet
-11026,Great Neck,NY,New York Eastern,No decision yet
-11027,Great Neck,NY,New York Eastern,No decision yet
-11030,Manhasset,NY,New York Eastern,No decision yet
-11040,New Hyde Park,NY,New York Eastern,No decision yet
-11042,New Hyde Park,NY,New York Eastern,No decision yet
-11050,Port Washington,NY,New York Eastern,No decision yet
-11051,Port Washington,NY,New York Eastern,No decision yet
-11052,Port Washington,NY,New York Eastern,No decision yet
-11053,Port Washington,NY,New York Eastern,No decision yet
-11054,Port Washington,NY,New York Eastern,No decision yet
-11055,Port Washington,NY,New York Eastern,No decision yet
-11096,Inwood,NY,New York Eastern,No decision yet
-11101,Long Island City,NY,New York Eastern,No decision yet
-11102,Astoria,NY,New York Eastern,No decision yet
-11103,Astoria,NY,New York Eastern,No decision yet
-11104,Sunnyside,NY,New York Eastern,No decision yet
-11105,Astoria,NY,New York Eastern,No decision yet
-11106,Astoria,NY,New York Eastern,No decision yet
-11109,Long Island City,NY,New York Eastern,No decision yet
-11120,Long Island City,NY,New York Eastern,No decision yet
-11201,Brooklyn,NY,New York Eastern,No decision yet
-11202,Brooklyn,NY,New York Eastern,No decision yet
-11203,Brooklyn,NY,New York Eastern,No decision yet
-11204,Brooklyn,NY,New York Eastern,No decision yet
-11205,Brooklyn,NY,New York Eastern,No decision yet
-11206,Brooklyn,NY,New York Eastern,No decision yet
-11207,Brooklyn,NY,New York Eastern,No decision yet
-11208,Brooklyn,NY,New York Eastern,No decision yet
-11209,Brooklyn,NY,New York Eastern,No decision yet
-11210,Brooklyn,NY,New York Eastern,No decision yet
-11211,Brooklyn,NY,New York Eastern,No decision yet
-11212,Brooklyn,NY,New York Eastern,No decision yet
-11213,Brooklyn,NY,New York Eastern,No decision yet
-11214,Brooklyn,NY,New York Eastern,No decision yet
-11215,Brooklyn,NY,New York Eastern,No decision yet
-11216,Brooklyn,NY,New York Eastern,No decision yet
-11217,Brooklyn,NY,New York Eastern,No decision yet
-11218,Brooklyn,NY,New York Eastern,No decision yet
-11219,Brooklyn,NY,New York Eastern,No decision yet
-11220,Brooklyn,NY,New York Eastern,No decision yet
-11221,Brooklyn,NY,New York Eastern,No decision yet
-11222,Brooklyn,NY,New York Eastern,No decision yet
-11223,Brooklyn,NY,New York Eastern,No decision yet
-11224,Brooklyn,NY,New York Eastern,No decision yet
-11225,Brooklyn,NY,New York Eastern,No decision yet
-11226,Brooklyn,NY,New York Eastern,No decision yet
-11228,Brooklyn,NY,New York Eastern,No decision yet
-11229,Brooklyn,NY,New York Eastern,No decision yet
-11230,Brooklyn,NY,New York Eastern,No decision yet
-11231,Brooklyn,NY,New York Eastern,No decision yet
-11232,Brooklyn,NY,New York Eastern,No decision yet
-11233,Brooklyn,NY,New York Eastern,No decision yet
-11234,Brooklyn,NY,New York Eastern,No decision yet
-11235,Brooklyn,NY,New York Eastern,No decision yet
-11236,Brooklyn,NY,New York Eastern,No decision yet
-11237,Brooklyn,NY,New York Eastern,No decision yet
-11238,Brooklyn,NY,New York Eastern,No decision yet
-11239,Brooklyn,NY,New York Eastern,No decision yet
-11241,Brooklyn,NY,New York Eastern,No decision yet
-11242,Brooklyn,NY,New York Eastern,No decision yet
-11243,Brooklyn,NY,New York Eastern,No decision yet
-11245,Brooklyn,NY,New York Eastern,No decision yet
-11247,Brooklyn,NY,New York Eastern,No decision yet
-11249,Brooklyn,NY,New York Eastern,No decision yet
-11251,Brooklyn,NY,New York Eastern,No decision yet
-11252,Brooklyn,NY,New York Eastern,No decision yet
-11256,Brooklyn,NY,New York Eastern,No decision yet
-11351,Flushing,NY,New York Eastern,No decision yet
-11352,Flushing,NY,New York Eastern,No decision yet
-11354,Flushing,NY,New York Eastern,No decision yet
-11355,Flushing,NY,New York Eastern,No decision yet
-11356,College Point,NY,New York Eastern,No decision yet
-11357,Whitestone,NY,New York Eastern,No decision yet
-11358,Flushing,NY,New York Eastern,No decision yet
-11359,Bayside,NY,New York Eastern,No decision yet
-11360,Bayside,NY,New York Eastern,No decision yet
-11361,Bayside,NY,New York Eastern,No decision yet
-11362,Little Neck,NY,New York Eastern,No decision yet
-11363,Little Neck,NY,New York Eastern,No decision yet
-11364,Oakland Gardens,NY,New York Eastern,No decision yet
-11365,Fresh Meadows,NY,New York Eastern,No decision yet
-11366,Fresh Meadows,NY,New York Eastern,No decision yet
-11367,Flushing,NY,New York Eastern,No decision yet
-11368,Corona,NY,New York Eastern,No decision yet
-11369,East Elmhurst,NY,New York Eastern,No decision yet
-11370,East Elmhurst,NY,New York Eastern,No decision yet
-11371,Flushing,NY,New York Eastern,No decision yet
-11372,Jackson Heights,NY,New York Eastern,No decision yet
-11373,Elmhurst,NY,New York Eastern,No decision yet
-11374,Rego Park,NY,New York Eastern,No decision yet
-11375,Forest Hills,NY,New York Eastern,No decision yet
-11377,Woodside,NY,New York Eastern,No decision yet
-11378,Maspeth,NY,New York Eastern,No decision yet
-11379,Middle Village,NY,New York Eastern,No decision yet
-11380,Elmhurst,NY,New York Eastern,No decision yet
-11381,Flushing,NY,New York Eastern,No decision yet
-11385,Ridgewood,NY,New York Eastern,No decision yet
-11386,Ridgewood,NY,New York Eastern,No decision yet
-11405,Jamaica,NY,New York Eastern,No decision yet
-11411,Cambria Heights,NY,New York Eastern,No decision yet
-11412,Saint Albans,NY,New York Eastern,No decision yet
-11413,Springfield Gardens,NY,New York Eastern,No decision yet
-11414,Howard Beach,NY,New York Eastern,No decision yet
-11415,Kew Gardens,NY,New York Eastern,No decision yet
-11416,Ozone Park,NY,New York Eastern,No decision yet
-11417,Ozone Park,NY,New York Eastern,No decision yet
-11418,Richmond Hill,NY,New York Eastern,No decision yet
-11419,South Richmond Hill,NY,New York Eastern,No decision yet
-11420,South Ozone Park,NY,New York Eastern,No decision yet
-11421,Woodhaven,NY,New York Eastern,No decision yet
-11422,Rosedale,NY,New York Eastern,No decision yet
-11423,Hollis,NY,New York Eastern,No decision yet
-11424,Jamaica,NY,New York Eastern,No decision yet
-11425,Jamaica,NY,New York Eastern,No decision yet
-11426,Bellerose,NY,New York Eastern,No decision yet
-11427,Queens Village,NY,New York Eastern,No decision yet
-11428,Queens Village,NY,New York Eastern,No decision yet
-11429,Queens Village,NY,New York Eastern,No decision yet
-11430,Jamaica,NY,New York Eastern,No decision yet
-11431,Jamaica,NY,New York Eastern,No decision yet
-11432,Jamaica,NY,New York Eastern,No decision yet
-11433,Jamaica,NY,New York Eastern,No decision yet
-11434,Jamaica,NY,New York Eastern,No decision yet
-11435,Jamaica,NY,New York Eastern,No decision yet
-11436,Jamaica,NY,New York Eastern,No decision yet
-11437,Jamaica,NY,New York Eastern,No decision yet
-11439,Jamaica,NY,New York Eastern,No decision yet
-11451,Jamaica,NY,New York Eastern,No decision yet
-11499,Jamaica,NY,New York Eastern,No decision yet
-11501,Mineola,NY,New York Eastern,No decision yet
-11507,Albertson,NY,New York Eastern,No decision yet
-11509,Atlantic Beach,NY,New York Eastern,No decision yet
-11510,Baldwin,NY,New York Eastern,No decision yet
-11514,Carle Place,NY,New York Eastern,No decision yet
-11516,Cedarhurst,NY,New York Eastern,No decision yet
-11518,East Rockaway,NY,New York Eastern,No decision yet
-11520,Freeport,NY,New York Eastern,No decision yet
-11530,Garden City,NY,New York Eastern,No decision yet
-11531,Garden City,NY,New York Eastern,No decision yet
-11542,Glen Cove,NY,New York Eastern,No decision yet
-11545,Glen Head,NY,New York Eastern,No decision yet
-11547,Glenwood Landing,NY,New York Eastern,No decision yet
-11548,Greenvale,NY,New York Eastern,No decision yet
-11549,Hempstead,NY,New York Eastern,No decision yet
-11550,Hempstead,NY,New York Eastern,No decision yet
-11551,Hempstead,NY,New York Eastern,No decision yet
-11552,West Hempstead,NY,New York Eastern,No decision yet
-11553,Uniondale,NY,New York Eastern,No decision yet
-11554,East Meadow,NY,New York Eastern,No decision yet
-11555,Uniondale,NY,New York Eastern,No decision yet
-11556,Uniondale,NY,New York Eastern,No decision yet
-11557,Hewlett,NY,New York Eastern,No decision yet
-11558,Island Park,NY,New York Eastern,No decision yet
-11559,Lawrence,NY,New York Eastern,No decision yet
-11560,Locust Valley,NY,New York Eastern,No decision yet
-11561,Long Beach,NY,New York Eastern,No decision yet
-11563,Lynbrook,NY,New York Eastern,No decision yet
-11565,Malverne,NY,New York Eastern,No decision yet
-11566,Merrick,NY,New York Eastern,No decision yet
-11568,Old Westbury,NY,New York Eastern,No decision yet
-11569,Point Lookout,NY,New York Eastern,No decision yet
-11570,Rockville Centre,NY,New York Eastern,No decision yet
-11571,Rockville Centre,NY,New York Eastern,No decision yet
-11572,Oceanside,NY,New York Eastern,No decision yet
-11575,Roosevelt,NY,New York Eastern,No decision yet
-11576,Roslyn,NY,New York Eastern,No decision yet
-11577,Roslyn Heights,NY,New York Eastern,No decision yet
-11579,Sea Cliff,NY,New York Eastern,No decision yet
-11580,Valley Stream,NY,New York Eastern,No decision yet
-11581,Valley Stream,NY,New York Eastern,No decision yet
-11582,Valley Stream,NY,New York Eastern,No decision yet
-11590,Westbury,NY,New York Eastern,No decision yet
-11596,Williston Park,NY,New York Eastern,No decision yet
-11598,Woodmere,NY,New York Eastern,No decision yet
-11599,Garden City,NY,New York Eastern,No decision yet
-11690,Far Rockaway,NY,New York Eastern,No decision yet
-11691,Far Rockaway,NY,New York Eastern,No decision yet
-11692,Arverne,NY,New York Eastern,No decision yet
-11693,Far Rockaway,NY,New York Eastern,No decision yet
-11694,Rockaway Park,NY,New York Eastern,No decision yet
-11695,Far Rockaway,NY,New York Eastern,No decision yet
-11697,Breezy Point,NY,New York Eastern,No decision yet
-11701,Amityville,NY,New York Eastern,No decision yet
-11702,Babylon,NY,New York Eastern,No decision yet
-11703,North Babylon,NY,New York Eastern,No decision yet
-11704,West Babylon,NY,New York Eastern,No decision yet
-11705,Bayport,NY,New York Eastern,No decision yet
-11706,Bay Shore,NY,New York Eastern,No decision yet
-11707,West Babylon,NY,New York Eastern,No decision yet
-11709,Bayville,NY,New York Eastern,No decision yet
-11710,Bellmore,NY,New York Eastern,No decision yet
-11713,Bellport,NY,New York Eastern,No decision yet
-11714,Bethpage,NY,New York Eastern,No decision yet
-11715,Blue Point,NY,New York Eastern,No decision yet
-11716,Bohemia,NY,New York Eastern,No decision yet
-11717,Brentwood,NY,New York Eastern,No decision yet
-11718,Brightwaters,NY,New York Eastern,No decision yet
-11719,Brookhaven,NY,New York Eastern,No decision yet
-11720,Centereach,NY,New York Eastern,No decision yet
-11721,Centerport,NY,New York Eastern,No decision yet
-11722,Central Islip,NY,New York Eastern,No decision yet
-11724,Cold Spring Harbor,NY,New York Eastern,No decision yet
-11725,Commack,NY,New York Eastern,No decision yet
-11726,Copiague,NY,New York Eastern,No decision yet
-11727,Coram,NY,New York Eastern,No decision yet
-11729,Deer Park,NY,New York Eastern,No decision yet
-11730,East Islip,NY,New York Eastern,No decision yet
-11731,East Northport,NY,New York Eastern,No decision yet
-11732,East Norwich,NY,New York Eastern,No decision yet
-11733,East Setauket,NY,New York Eastern,No decision yet
-11735,Farmingdale,NY,New York Eastern,No decision yet
-11737,Farmingdale,NY,New York Eastern,No decision yet
-11738,Farmingville,NY,New York Eastern,No decision yet
-11739,Great River,NY,New York Eastern,No decision yet
-11740,Greenlawn,NY,New York Eastern,No decision yet
-11741,Holbrook,NY,New York Eastern,No decision yet
-11742,Holtsville,NY,New York Eastern,No decision yet
-11743,Huntington,NY,New York Eastern,No decision yet
-11746,Huntington Station,NY,New York Eastern,No decision yet
-11747,Melville,NY,New York Eastern,No decision yet
-11749,Islandia,NY,New York Eastern,No decision yet
-11751,Islip,NY,New York Eastern,No decision yet
-11752,Islip Terrace,NY,New York Eastern,No decision yet
-11753,Jericho,NY,New York Eastern,No decision yet
-11754,Kings Park,NY,New York Eastern,No decision yet
-11755,Lake Grove,NY,New York Eastern,No decision yet
-11756,Levittown,NY,New York Eastern,No decision yet
-11757,Lindenhurst,NY,New York Eastern,No decision yet
-11758,Massapequa,NY,New York Eastern,No decision yet
-11760,Melville,NY,New York Eastern,No decision yet
-11762,Massapequa Park,NY,New York Eastern,No decision yet
-11763,Medford,NY,New York Eastern,No decision yet
-11764,Miller Place,NY,New York Eastern,No decision yet
-11765,Mill Neck,NY,New York Eastern,No decision yet
-11766,Mount Sinai,NY,New York Eastern,No decision yet
-11767,Nesconset,NY,New York Eastern,No decision yet
-11768,Northport,NY,New York Eastern,No decision yet
-11769,Oakdale,NY,New York Eastern,No decision yet
-11770,Ocean Beach,NY,New York Eastern,No decision yet
-11771,Oyster Bay,NY,New York Eastern,No decision yet
-11772,Patchogue,NY,New York Eastern,No decision yet
-11773,Syosset,NY,New York Eastern,No decision yet
-11775,Melville,NY,New York Eastern,No decision yet
-11776,Port Jefferson Station,NY,New York Eastern,No decision yet
-11777,Port Jefferson,NY,New York Eastern,No decision yet
-11778,Rocky Point,NY,New York Eastern,No decision yet
-11779,Ronkonkoma,NY,New York Eastern,No decision yet
-11780,Saint James,NY,New York Eastern,No decision yet
-11782,Sayville,NY,New York Eastern,No decision yet
-11783,Seaford,NY,New York Eastern,No decision yet
-11784,Selden,NY,New York Eastern,No decision yet
-11786,Shoreham,NY,New York Eastern,No decision yet
-11787,Smithtown,NY,New York Eastern,No decision yet
-11788,Hauppauge,NY,New York Eastern,No decision yet
-11789,Sound Beach,NY,New York Eastern,No decision yet
-11790,Stony Brook,NY,New York Eastern,No decision yet
-11791,Syosset,NY,New York Eastern,No decision yet
-11792,Wading River,NY,New York Eastern,No decision yet
-11793,Wantagh,NY,New York Eastern,No decision yet
-11794,Stony Brook,NY,New York Eastern,No decision yet
-11795,West Islip,NY,New York Eastern,No decision yet
-11796,West Sayville,NY,New York Eastern,No decision yet
-11797,Woodbury,NY,New York Eastern,No decision yet
-11798,Wyandanch,NY,New York Eastern,No decision yet
-11801,Hicksville,NY,New York Eastern,No decision yet
-11802,Hicksville,NY,New York Eastern,No decision yet
-11803,Plainview,NY,New York Eastern,No decision yet
-11804,Old Bethpage,NY,New York Eastern,No decision yet
-11815,Hicksville,NY,New York Eastern,No decision yet
-11819,Hicksville,NY,New York Eastern,No decision yet
-11853,Jericho,NY,New York Eastern,No decision yet
-11901,Riverhead,NY,New York Eastern,No decision yet
-11930,Amagansett,NY,New York Eastern,No decision yet
-11931,Aquebogue,NY,New York Eastern,No decision yet
-11932,Bridgehampton,NY,New York Eastern,No decision yet
-11933,Calverton,NY,New York Eastern,No decision yet
-11934,Center Moriches,NY,New York Eastern,No decision yet
-11935,Cutchogue,NY,New York Eastern,No decision yet
-11937,East Hampton,NY,New York Eastern,No decision yet
-11939,East Marion,NY,New York Eastern,No decision yet
-11940,East Moriches,NY,New York Eastern,No decision yet
-11941,Eastport,NY,New York Eastern,No decision yet
-11942,East Quogue,NY,New York Eastern,No decision yet
-11944,Greenport,NY,New York Eastern,No decision yet
-11946,Hampton Bays,NY,New York Eastern,No decision yet
-11947,Jamesport,NY,New York Eastern,No decision yet
-11948,Laurel,NY,New York Eastern,No decision yet
-11949,Manorville,NY,New York Eastern,No decision yet
-11950,Mastic,NY,New York Eastern,No decision yet
-11951,Mastic Beach,NY,New York Eastern,No decision yet
-11952,Mattituck,NY,New York Eastern,No decision yet
-11953,Middle Island,NY,New York Eastern,No decision yet
-11954,Montauk,NY,New York Eastern,No decision yet
-11955,Moriches,NY,New York Eastern,No decision yet
-11956,New Suffolk,NY,New York Eastern,No decision yet
-11957,Orient,NY,New York Eastern,No decision yet
-11958,Peconic,NY,New York Eastern,No decision yet
-11959,Quogue,NY,New York Eastern,No decision yet
-11960,Remsenburg,NY,New York Eastern,No decision yet
-11961,Ridge,NY,New York Eastern,No decision yet
-11962,Sagaponack,NY,New York Eastern,No decision yet
-11963,Sag Harbor,NY,New York Eastern,No decision yet
-11964,Shelter Island,NY,New York Eastern,No decision yet
-11965,Shelter Island Heights,NY,New York Eastern,No decision yet
-11967,Shirley,NY,New York Eastern,No decision yet
-11968,Southampton,NY,New York Eastern,No decision yet
-11969,Southampton,NY,New York Eastern,No decision yet
-11970,South Jamesport,NY,New York Eastern,No decision yet
-11971,Southold,NY,New York Eastern,No decision yet
-11972,Speonk,NY,New York Eastern,No decision yet
-11973,Upton,NY,New York Eastern,No decision yet
-11975,Wainscott,NY,New York Eastern,No decision yet
-11976,Water Mill,NY,New York Eastern,No decision yet
-11977,Westhampton,NY,New York Eastern,No decision yet
-11978,Westhampton Beach,NY,New York Eastern,No decision yet
-11980,Yaphank,NY,New York Eastern,No decision yet
+11001,Floral Park,NY,New York Eastern,Texts treated as calls
+11002,Floral Park,NY,New York Eastern,Texts treated as calls
+11003,Elmont,NY,New York Eastern,Texts treated as calls
+11004,Glen Oaks,NY,New York Eastern,Texts treated as calls
+11005,Floral Park,NY,New York Eastern,Texts treated as calls
+11010,Franklin Square,NY,New York Eastern,Texts treated as calls
+11020,Great Neck,NY,New York Eastern,Texts treated as calls
+11021,Great Neck,NY,New York Eastern,Texts treated as calls
+11022,Great Neck,NY,New York Eastern,Texts treated as calls
+11023,Great Neck,NY,New York Eastern,Texts treated as calls
+11024,Great Neck,NY,New York Eastern,Texts treated as calls
+11026,Great Neck,NY,New York Eastern,Texts treated as calls
+11027,Great Neck,NY,New York Eastern,Texts treated as calls
+11030,Manhasset,NY,New York Eastern,Texts treated as calls
+11040,New Hyde Park,NY,New York Eastern,Texts treated as calls
+11042,New Hyde Park,NY,New York Eastern,Texts treated as calls
+11050,Port Washington,NY,New York Eastern,Texts treated as calls
+11051,Port Washington,NY,New York Eastern,Texts treated as calls
+11052,Port Washington,NY,New York Eastern,Texts treated as calls
+11053,Port Washington,NY,New York Eastern,Texts treated as calls
+11054,Port Washington,NY,New York Eastern,Texts treated as calls
+11055,Port Washington,NY,New York Eastern,Texts treated as calls
+11096,Inwood,NY,New York Eastern,Texts treated as calls
+11101,Long Island City,NY,New York Eastern,Texts treated as calls
+11102,Astoria,NY,New York Eastern,Texts treated as calls
+11103,Astoria,NY,New York Eastern,Texts treated as calls
+11104,Sunnyside,NY,New York Eastern,Texts treated as calls
+11105,Astoria,NY,New York Eastern,Texts treated as calls
+11106,Astoria,NY,New York Eastern,Texts treated as calls
+11109,Long Island City,NY,New York Eastern,Texts treated as calls
+11120,Long Island City,NY,New York Eastern,Texts treated as calls
+11201,Brooklyn,NY,New York Eastern,Texts treated as calls
+11202,Brooklyn,NY,New York Eastern,Texts treated as calls
+11203,Brooklyn,NY,New York Eastern,Texts treated as calls
+11204,Brooklyn,NY,New York Eastern,Texts treated as calls
+11205,Brooklyn,NY,New York Eastern,Texts treated as calls
+11206,Brooklyn,NY,New York Eastern,Texts treated as calls
+11207,Brooklyn,NY,New York Eastern,Texts treated as calls
+11208,Brooklyn,NY,New York Eastern,Texts treated as calls
+11209,Brooklyn,NY,New York Eastern,Texts treated as calls
+11210,Brooklyn,NY,New York Eastern,Texts treated as calls
+11211,Brooklyn,NY,New York Eastern,Texts treated as calls
+11212,Brooklyn,NY,New York Eastern,Texts treated as calls
+11213,Brooklyn,NY,New York Eastern,Texts treated as calls
+11214,Brooklyn,NY,New York Eastern,Texts treated as calls
+11215,Brooklyn,NY,New York Eastern,Texts treated as calls
+11216,Brooklyn,NY,New York Eastern,Texts treated as calls
+11217,Brooklyn,NY,New York Eastern,Texts treated as calls
+11218,Brooklyn,NY,New York Eastern,Texts treated as calls
+11219,Brooklyn,NY,New York Eastern,Texts treated as calls
+11220,Brooklyn,NY,New York Eastern,Texts treated as calls
+11221,Brooklyn,NY,New York Eastern,Texts treated as calls
+11222,Brooklyn,NY,New York Eastern,Texts treated as calls
+11223,Brooklyn,NY,New York Eastern,Texts treated as calls
+11224,Brooklyn,NY,New York Eastern,Texts treated as calls
+11225,Brooklyn,NY,New York Eastern,Texts treated as calls
+11226,Brooklyn,NY,New York Eastern,Texts treated as calls
+11228,Brooklyn,NY,New York Eastern,Texts treated as calls
+11229,Brooklyn,NY,New York Eastern,Texts treated as calls
+11230,Brooklyn,NY,New York Eastern,Texts treated as calls
+11231,Brooklyn,NY,New York Eastern,Texts treated as calls
+11232,Brooklyn,NY,New York Eastern,Texts treated as calls
+11233,Brooklyn,NY,New York Eastern,Texts treated as calls
+11234,Brooklyn,NY,New York Eastern,Texts treated as calls
+11235,Brooklyn,NY,New York Eastern,Texts treated as calls
+11236,Brooklyn,NY,New York Eastern,Texts treated as calls
+11237,Brooklyn,NY,New York Eastern,Texts treated as calls
+11238,Brooklyn,NY,New York Eastern,Texts treated as calls
+11239,Brooklyn,NY,New York Eastern,Texts treated as calls
+11241,Brooklyn,NY,New York Eastern,Texts treated as calls
+11242,Brooklyn,NY,New York Eastern,Texts treated as calls
+11243,Brooklyn,NY,New York Eastern,Texts treated as calls
+11245,Brooklyn,NY,New York Eastern,Texts treated as calls
+11247,Brooklyn,NY,New York Eastern,Texts treated as calls
+11249,Brooklyn,NY,New York Eastern,Texts treated as calls
+11251,Brooklyn,NY,New York Eastern,Texts treated as calls
+11252,Brooklyn,NY,New York Eastern,Texts treated as calls
+11256,Brooklyn,NY,New York Eastern,Texts treated as calls
+11351,Flushing,NY,New York Eastern,Texts treated as calls
+11352,Flushing,NY,New York Eastern,Texts treated as calls
+11354,Flushing,NY,New York Eastern,Texts treated as calls
+11355,Flushing,NY,New York Eastern,Texts treated as calls
+11356,College Point,NY,New York Eastern,Texts treated as calls
+11357,Whitestone,NY,New York Eastern,Texts treated as calls
+11358,Flushing,NY,New York Eastern,Texts treated as calls
+11359,Bayside,NY,New York Eastern,Texts treated as calls
+11360,Bayside,NY,New York Eastern,Texts treated as calls
+11361,Bayside,NY,New York Eastern,Texts treated as calls
+11362,Little Neck,NY,New York Eastern,Texts treated as calls
+11363,Little Neck,NY,New York Eastern,Texts treated as calls
+11364,Oakland Gardens,NY,New York Eastern,Texts treated as calls
+11365,Fresh Meadows,NY,New York Eastern,Texts treated as calls
+11366,Fresh Meadows,NY,New York Eastern,Texts treated as calls
+11367,Flushing,NY,New York Eastern,Texts treated as calls
+11368,Corona,NY,New York Eastern,Texts treated as calls
+11369,East Elmhurst,NY,New York Eastern,Texts treated as calls
+11370,East Elmhurst,NY,New York Eastern,Texts treated as calls
+11371,Flushing,NY,New York Eastern,Texts treated as calls
+11372,Jackson Heights,NY,New York Eastern,Texts treated as calls
+11373,Elmhurst,NY,New York Eastern,Texts treated as calls
+11374,Rego Park,NY,New York Eastern,Texts treated as calls
+11375,Forest Hills,NY,New York Eastern,Texts treated as calls
+11377,Woodside,NY,New York Eastern,Texts treated as calls
+11378,Maspeth,NY,New York Eastern,Texts treated as calls
+11379,Middle Village,NY,New York Eastern,Texts treated as calls
+11380,Elmhurst,NY,New York Eastern,Texts treated as calls
+11381,Flushing,NY,New York Eastern,Texts treated as calls
+11385,Ridgewood,NY,New York Eastern,Texts treated as calls
+11386,Ridgewood,NY,New York Eastern,Texts treated as calls
+11405,Jamaica,NY,New York Eastern,Texts treated as calls
+11411,Cambria Heights,NY,New York Eastern,Texts treated as calls
+11412,Saint Albans,NY,New York Eastern,Texts treated as calls
+11413,Springfield Gardens,NY,New York Eastern,Texts treated as calls
+11414,Howard Beach,NY,New York Eastern,Texts treated as calls
+11415,Kew Gardens,NY,New York Eastern,Texts treated as calls
+11416,Ozone Park,NY,New York Eastern,Texts treated as calls
+11417,Ozone Park,NY,New York Eastern,Texts treated as calls
+11418,Richmond Hill,NY,New York Eastern,Texts treated as calls
+11419,South Richmond Hill,NY,New York Eastern,Texts treated as calls
+11420,South Ozone Park,NY,New York Eastern,Texts treated as calls
+11421,Woodhaven,NY,New York Eastern,Texts treated as calls
+11422,Rosedale,NY,New York Eastern,Texts treated as calls
+11423,Hollis,NY,New York Eastern,Texts treated as calls
+11424,Jamaica,NY,New York Eastern,Texts treated as calls
+11425,Jamaica,NY,New York Eastern,Texts treated as calls
+11426,Bellerose,NY,New York Eastern,Texts treated as calls
+11427,Queens Village,NY,New York Eastern,Texts treated as calls
+11428,Queens Village,NY,New York Eastern,Texts treated as calls
+11429,Queens Village,NY,New York Eastern,Texts treated as calls
+11430,Jamaica,NY,New York Eastern,Texts treated as calls
+11431,Jamaica,NY,New York Eastern,Texts treated as calls
+11432,Jamaica,NY,New York Eastern,Texts treated as calls
+11433,Jamaica,NY,New York Eastern,Texts treated as calls
+11434,Jamaica,NY,New York Eastern,Texts treated as calls
+11435,Jamaica,NY,New York Eastern,Texts treated as calls
+11436,Jamaica,NY,New York Eastern,Texts treated as calls
+11437,Jamaica,NY,New York Eastern,Texts treated as calls
+11439,Jamaica,NY,New York Eastern,Texts treated as calls
+11451,Jamaica,NY,New York Eastern,Texts treated as calls
+11499,Jamaica,NY,New York Eastern,Texts treated as calls
+11501,Mineola,NY,New York Eastern,Texts treated as calls
+11507,Albertson,NY,New York Eastern,Texts treated as calls
+11509,Atlantic Beach,NY,New York Eastern,Texts treated as calls
+11510,Baldwin,NY,New York Eastern,Texts treated as calls
+11514,Carle Place,NY,New York Eastern,Texts treated as calls
+11516,Cedarhurst,NY,New York Eastern,Texts treated as calls
+11518,East Rockaway,NY,New York Eastern,Texts treated as calls
+11520,Freeport,NY,New York Eastern,Texts treated as calls
+11530,Garden City,NY,New York Eastern,Texts treated as calls
+11531,Garden City,NY,New York Eastern,Texts treated as calls
+11542,Glen Cove,NY,New York Eastern,Texts treated as calls
+11545,Glen Head,NY,New York Eastern,Texts treated as calls
+11547,Glenwood Landing,NY,New York Eastern,Texts treated as calls
+11548,Greenvale,NY,New York Eastern,Texts treated as calls
+11549,Hempstead,NY,New York Eastern,Texts treated as calls
+11550,Hempstead,NY,New York Eastern,Texts treated as calls
+11551,Hempstead,NY,New York Eastern,Texts treated as calls
+11552,West Hempstead,NY,New York Eastern,Texts treated as calls
+11553,Uniondale,NY,New York Eastern,Texts treated as calls
+11554,East Meadow,NY,New York Eastern,Texts treated as calls
+11555,Uniondale,NY,New York Eastern,Texts treated as calls
+11556,Uniondale,NY,New York Eastern,Texts treated as calls
+11557,Hewlett,NY,New York Eastern,Texts treated as calls
+11558,Island Park,NY,New York Eastern,Texts treated as calls
+11559,Lawrence,NY,New York Eastern,Texts treated as calls
+11560,Locust Valley,NY,New York Eastern,Texts treated as calls
+11561,Long Beach,NY,New York Eastern,Texts treated as calls
+11563,Lynbrook,NY,New York Eastern,Texts treated as calls
+11565,Malverne,NY,New York Eastern,Texts treated as calls
+11566,Merrick,NY,New York Eastern,Texts treated as calls
+11568,Old Westbury,NY,New York Eastern,Texts treated as calls
+11569,Point Lookout,NY,New York Eastern,Texts treated as calls
+11570,Rockville Centre,NY,New York Eastern,Texts treated as calls
+11571,Rockville Centre,NY,New York Eastern,Texts treated as calls
+11572,Oceanside,NY,New York Eastern,Texts treated as calls
+11575,Roosevelt,NY,New York Eastern,Texts treated as calls
+11576,Roslyn,NY,New York Eastern,Texts treated as calls
+11577,Roslyn Heights,NY,New York Eastern,Texts treated as calls
+11579,Sea Cliff,NY,New York Eastern,Texts treated as calls
+11580,Valley Stream,NY,New York Eastern,Texts treated as calls
+11581,Valley Stream,NY,New York Eastern,Texts treated as calls
+11582,Valley Stream,NY,New York Eastern,Texts treated as calls
+11590,Westbury,NY,New York Eastern,Texts treated as calls
+11596,Williston Park,NY,New York Eastern,Texts treated as calls
+11598,Woodmere,NY,New York Eastern,Texts treated as calls
+11599,Garden City,NY,New York Eastern,Texts treated as calls
+11690,Far Rockaway,NY,New York Eastern,Texts treated as calls
+11691,Far Rockaway,NY,New York Eastern,Texts treated as calls
+11692,Arverne,NY,New York Eastern,Texts treated as calls
+11693,Far Rockaway,NY,New York Eastern,Texts treated as calls
+11694,Rockaway Park,NY,New York Eastern,Texts treated as calls
+11695,Far Rockaway,NY,New York Eastern,Texts treated as calls
+11697,Breezy Point,NY,New York Eastern,Texts treated as calls
+11701,Amityville,NY,New York Eastern,Texts treated as calls
+11702,Babylon,NY,New York Eastern,Texts treated as calls
+11703,North Babylon,NY,New York Eastern,Texts treated as calls
+11704,West Babylon,NY,New York Eastern,Texts treated as calls
+11705,Bayport,NY,New York Eastern,Texts treated as calls
+11706,Bay Shore,NY,New York Eastern,Texts treated as calls
+11707,West Babylon,NY,New York Eastern,Texts treated as calls
+11709,Bayville,NY,New York Eastern,Texts treated as calls
+11710,Bellmore,NY,New York Eastern,Texts treated as calls
+11713,Bellport,NY,New York Eastern,Texts treated as calls
+11714,Bethpage,NY,New York Eastern,Texts treated as calls
+11715,Blue Point,NY,New York Eastern,Texts treated as calls
+11716,Bohemia,NY,New York Eastern,Texts treated as calls
+11717,Brentwood,NY,New York Eastern,Texts treated as calls
+11718,Brightwaters,NY,New York Eastern,Texts treated as calls
+11719,Brookhaven,NY,New York Eastern,Texts treated as calls
+11720,Centereach,NY,New York Eastern,Texts treated as calls
+11721,Centerport,NY,New York Eastern,Texts treated as calls
+11722,Central Islip,NY,New York Eastern,Texts treated as calls
+11724,Cold Spring Harbor,NY,New York Eastern,Texts treated as calls
+11725,Commack,NY,New York Eastern,Texts treated as calls
+11726,Copiague,NY,New York Eastern,Texts treated as calls
+11727,Coram,NY,New York Eastern,Texts treated as calls
+11729,Deer Park,NY,New York Eastern,Texts treated as calls
+11730,East Islip,NY,New York Eastern,Texts treated as calls
+11731,East Northport,NY,New York Eastern,Texts treated as calls
+11732,East Norwich,NY,New York Eastern,Texts treated as calls
+11733,East Setauket,NY,New York Eastern,Texts treated as calls
+11735,Farmingdale,NY,New York Eastern,Texts treated as calls
+11737,Farmingdale,NY,New York Eastern,Texts treated as calls
+11738,Farmingville,NY,New York Eastern,Texts treated as calls
+11739,Great River,NY,New York Eastern,Texts treated as calls
+11740,Greenlawn,NY,New York Eastern,Texts treated as calls
+11741,Holbrook,NY,New York Eastern,Texts treated as calls
+11742,Holtsville,NY,New York Eastern,Texts treated as calls
+11743,Huntington,NY,New York Eastern,Texts treated as calls
+11746,Huntington Station,NY,New York Eastern,Texts treated as calls
+11747,Melville,NY,New York Eastern,Texts treated as calls
+11749,Islandia,NY,New York Eastern,Texts treated as calls
+11751,Islip,NY,New York Eastern,Texts treated as calls
+11752,Islip Terrace,NY,New York Eastern,Texts treated as calls
+11753,Jericho,NY,New York Eastern,Texts treated as calls
+11754,Kings Park,NY,New York Eastern,Texts treated as calls
+11755,Lake Grove,NY,New York Eastern,Texts treated as calls
+11756,Levittown,NY,New York Eastern,Texts treated as calls
+11757,Lindenhurst,NY,New York Eastern,Texts treated as calls
+11758,Massapequa,NY,New York Eastern,Texts treated as calls
+11760,Melville,NY,New York Eastern,Texts treated as calls
+11762,Massapequa Park,NY,New York Eastern,Texts treated as calls
+11763,Medford,NY,New York Eastern,Texts treated as calls
+11764,Miller Place,NY,New York Eastern,Texts treated as calls
+11765,Mill Neck,NY,New York Eastern,Texts treated as calls
+11766,Mount Sinai,NY,New York Eastern,Texts treated as calls
+11767,Nesconset,NY,New York Eastern,Texts treated as calls
+11768,Northport,NY,New York Eastern,Texts treated as calls
+11769,Oakdale,NY,New York Eastern,Texts treated as calls
+11770,Ocean Beach,NY,New York Eastern,Texts treated as calls
+11771,Oyster Bay,NY,New York Eastern,Texts treated as calls
+11772,Patchogue,NY,New York Eastern,Texts treated as calls
+11773,Syosset,NY,New York Eastern,Texts treated as calls
+11775,Melville,NY,New York Eastern,Texts treated as calls
+11776,Port Jefferson Station,NY,New York Eastern,Texts treated as calls
+11777,Port Jefferson,NY,New York Eastern,Texts treated as calls
+11778,Rocky Point,NY,New York Eastern,Texts treated as calls
+11779,Ronkonkoma,NY,New York Eastern,Texts treated as calls
+11780,Saint James,NY,New York Eastern,Texts treated as calls
+11782,Sayville,NY,New York Eastern,Texts treated as calls
+11783,Seaford,NY,New York Eastern,Texts treated as calls
+11784,Selden,NY,New York Eastern,Texts treated as calls
+11786,Shoreham,NY,New York Eastern,Texts treated as calls
+11787,Smithtown,NY,New York Eastern,Texts treated as calls
+11788,Hauppauge,NY,New York Eastern,Texts treated as calls
+11789,Sound Beach,NY,New York Eastern,Texts treated as calls
+11790,Stony Brook,NY,New York Eastern,Texts treated as calls
+11791,Syosset,NY,New York Eastern,Texts treated as calls
+11792,Wading River,NY,New York Eastern,Texts treated as calls
+11793,Wantagh,NY,New York Eastern,Texts treated as calls
+11794,Stony Brook,NY,New York Eastern,Texts treated as calls
+11795,West Islip,NY,New York Eastern,Texts treated as calls
+11796,West Sayville,NY,New York Eastern,Texts treated as calls
+11797,Woodbury,NY,New York Eastern,Texts treated as calls
+11798,Wyandanch,NY,New York Eastern,Texts treated as calls
+11801,Hicksville,NY,New York Eastern,Texts treated as calls
+11802,Hicksville,NY,New York Eastern,Texts treated as calls
+11803,Plainview,NY,New York Eastern,Texts treated as calls
+11804,Old Bethpage,NY,New York Eastern,Texts treated as calls
+11815,Hicksville,NY,New York Eastern,Texts treated as calls
+11819,Hicksville,NY,New York Eastern,Texts treated as calls
+11853,Jericho,NY,New York Eastern,Texts treated as calls
+11901,Riverhead,NY,New York Eastern,Texts treated as calls
+11930,Amagansett,NY,New York Eastern,Texts treated as calls
+11931,Aquebogue,NY,New York Eastern,Texts treated as calls
+11932,Bridgehampton,NY,New York Eastern,Texts treated as calls
+11933,Calverton,NY,New York Eastern,Texts treated as calls
+11934,Center Moriches,NY,New York Eastern,Texts treated as calls
+11935,Cutchogue,NY,New York Eastern,Texts treated as calls
+11937,East Hampton,NY,New York Eastern,Texts treated as calls
+11939,East Marion,NY,New York Eastern,Texts treated as calls
+11940,East Moriches,NY,New York Eastern,Texts treated as calls
+11941,Eastport,NY,New York Eastern,Texts treated as calls
+11942,East Quogue,NY,New York Eastern,Texts treated as calls
+11944,Greenport,NY,New York Eastern,Texts treated as calls
+11946,Hampton Bays,NY,New York Eastern,Texts treated as calls
+11947,Jamesport,NY,New York Eastern,Texts treated as calls
+11948,Laurel,NY,New York Eastern,Texts treated as calls
+11949,Manorville,NY,New York Eastern,Texts treated as calls
+11950,Mastic,NY,New York Eastern,Texts treated as calls
+11951,Mastic Beach,NY,New York Eastern,Texts treated as calls
+11952,Mattituck,NY,New York Eastern,Texts treated as calls
+11953,Middle Island,NY,New York Eastern,Texts treated as calls
+11954,Montauk,NY,New York Eastern,Texts treated as calls
+11955,Moriches,NY,New York Eastern,Texts treated as calls
+11956,New Suffolk,NY,New York Eastern,Texts treated as calls
+11957,Orient,NY,New York Eastern,Texts treated as calls
+11958,Peconic,NY,New York Eastern,Texts treated as calls
+11959,Quogue,NY,New York Eastern,Texts treated as calls
+11960,Remsenburg,NY,New York Eastern,Texts treated as calls
+11961,Ridge,NY,New York Eastern,Texts treated as calls
+11962,Sagaponack,NY,New York Eastern,Texts treated as calls
+11963,Sag Harbor,NY,New York Eastern,Texts treated as calls
+11964,Shelter Island,NY,New York Eastern,Texts treated as calls
+11965,Shelter Island Heights,NY,New York Eastern,Texts treated as calls
+11967,Shirley,NY,New York Eastern,Texts treated as calls
+11968,Southampton,NY,New York Eastern,Texts treated as calls
+11969,Southampton,NY,New York Eastern,Texts treated as calls
+11970,South Jamesport,NY,New York Eastern,Texts treated as calls
+11971,Southold,NY,New York Eastern,Texts treated as calls
+11972,Speonk,NY,New York Eastern,Texts treated as calls
+11973,Upton,NY,New York Eastern,Texts treated as calls
+11975,Wainscott,NY,New York Eastern,Texts treated as calls
+11976,Water Mill,NY,New York Eastern,Texts treated as calls
+11977,Westhampton,NY,New York Eastern,Texts treated as calls
+11978,Westhampton Beach,NY,New York Eastern,Texts treated as calls
+11980,Yaphank,NY,New York Eastern,Texts treated as calls
 12007,Alcove,NY,New York Northern,No decision yet
 12008,Alplaus,NY,New York Northern,No decision yet
 12009,Altamont,NY,New York Northern,No decision yet
@@ -23424,7 +23424,7 @@ zip,place,state,district,ruling
 15533,Breezewood,PA,Pennsylvania Western,No decision yet
 15534,Buffalo Mills,PA,Pennsylvania Western,No decision yet
 15535,Clearville,PA,Pennsylvania Western,No decision yet
-15536,Crystal Spring,PA,Pennsylvania Middle,No decision yet
+15536,Crystal Spring,PA,Pennsylvania Middle,Texts not treated as calls
 15537,Everett,PA,Pennsylvania Western,No decision yet
 15538,Fairhope,PA,Pennsylvania Western,No decision yet
 15539,Fishertown,PA,Pennsylvania Western,No decision yet
@@ -23603,8 +23603,8 @@ zip,place,state,district,ruling
 15828,Clarington,PA,Pennsylvania Western,No decision yet
 15829,Corsica,PA,Pennsylvania Western,No decision yet
 15831,Dagus Mines,PA,Pennsylvania Western,No decision yet
-15832,Driftwood,PA,Pennsylvania Middle,No decision yet
-15834,Emporium,PA,Pennsylvania Middle,No decision yet
+15832,Driftwood,PA,Pennsylvania Middle,Texts not treated as calls
+15834,Emporium,PA,Pennsylvania Middle,Texts not treated as calls
 15840,Falls Creek,PA,Pennsylvania Western,No decision yet
 15841,Force,PA,Pennsylvania Western,No decision yet
 15845,Johnsonburg,PA,Pennsylvania Western,No decision yet
@@ -23617,7 +23617,7 @@ zip,place,state,district,ruling
 15856,Rockton,PA,Pennsylvania Western,No decision yet
 15857,Saint Marys,PA,Pennsylvania Western,No decision yet
 15860,Sigel,PA,Pennsylvania Western,No decision yet
-15861,Sinnamahoning,PA,Pennsylvania Middle,No decision yet
+15861,Sinnamahoning,PA,Pennsylvania Middle,Texts not treated as calls
 15863,Stump Creek,PA,Pennsylvania Western,No decision yet
 15864,Summerville,PA,Pennsylvania Western,No decision yet
 15865,Sykesville,PA,Pennsylvania Western,No decision yet
@@ -23914,15 +23914,15 @@ zip,place,state,district,ruling
 16601,Altoona,PA,Pennsylvania Western,No decision yet
 16602,Altoona,PA,Pennsylvania Western,No decision yet
 16603,Altoona,PA,Pennsylvania Western,No decision yet
-16611,Alexandria,PA,Pennsylvania Middle,No decision yet
+16611,Alexandria,PA,Pennsylvania Middle,Texts not treated as calls
 16613,Ashville,PA,Pennsylvania Western,No decision yet
 16616,Beccaria,PA,Pennsylvania Western,No decision yet
 16617,Bellwood,PA,Pennsylvania Western,No decision yet
 16619,Blandburg,PA,Pennsylvania Western,No decision yet
 16620,Brisbin,PA,Pennsylvania Western,No decision yet
-16621,Broad Top,PA,Pennsylvania Middle,No decision yet
-16622,Calvin,PA,Pennsylvania Middle,No decision yet
-16623,Cassville,PA,Pennsylvania Middle,No decision yet
+16621,Broad Top,PA,Pennsylvania Middle,Texts not treated as calls
+16622,Calvin,PA,Pennsylvania Middle,Texts not treated as calls
+16623,Cassville,PA,Pennsylvania Middle,Texts not treated as calls
 16624,Chest Springs,PA,Pennsylvania Western,No decision yet
 16625,Claysburg,PA,Pennsylvania Western,No decision yet
 16627,Coalport,PA,Pennsylvania Western,No decision yet
@@ -23930,28 +23930,28 @@ zip,place,state,district,ruling
 16630,Cresson,PA,Pennsylvania Western,No decision yet
 16631,Curryville,PA,Pennsylvania Western,No decision yet
 16633,Defiance,PA,Pennsylvania Western,No decision yet
-16634,Dudley,PA,Pennsylvania Middle,No decision yet
+16634,Dudley,PA,Pennsylvania Middle,Texts not treated as calls
 16635,Duncansville,PA,Pennsylvania Western,No decision yet
 16636,Dysart,PA,Pennsylvania Western,No decision yet
 16637,East Freedom,PA,Pennsylvania Western,No decision yet
-16638,Entriken,PA,Pennsylvania Middle,No decision yet
+16638,Entriken,PA,Pennsylvania Middle,Texts not treated as calls
 16639,Fallentimber,PA,Pennsylvania Western,No decision yet
 16640,Flinton,PA,Pennsylvania Western,No decision yet
 16641,Gallitzin,PA,Pennsylvania Western,No decision yet
 16644,Glasgow,PA,Pennsylvania Western,No decision yet
 16645,Glen Hope,PA,Pennsylvania Western,No decision yet
 16646,Hastings,PA,Pennsylvania Western,No decision yet
-16647,Hesston,PA,Pennsylvania Middle,No decision yet
+16647,Hesston,PA,Pennsylvania Middle,Texts not treated as calls
 16648,Hollidaysburg,PA,Pennsylvania Western,No decision yet
 16650,Hopewell,PA,Pennsylvania Western,No decision yet
 16651,Houtzdale,PA,Pennsylvania Western,No decision yet
-16652,Huntingdon,PA,Pennsylvania Middle,No decision yet
-16654,Huntingdon,PA,Pennsylvania Middle,No decision yet
+16652,Huntingdon,PA,Pennsylvania Middle,Texts not treated as calls
+16654,Huntingdon,PA,Pennsylvania Middle,Texts not treated as calls
 16655,Imler,PA,Pennsylvania Western,No decision yet
 16656,Irvona,PA,Pennsylvania Western,No decision yet
-16657,James Creek,PA,Pennsylvania Middle,No decision yet
+16657,James Creek,PA,Pennsylvania Middle,Texts not treated as calls
 16659,Loysburg,PA,Pennsylvania Western,No decision yet
-16660,Mc Connellstown,PA,Pennsylvania Middle,No decision yet
+16660,Mc Connellstown,PA,Pennsylvania Middle,Texts not treated as calls
 16661,Madera,PA,Pennsylvania Western,No decision yet
 16662,Martinsburg,PA,Pennsylvania Western,No decision yet
 16663,Morann,PA,Pennsylvania Western,No decision yet
@@ -23960,25 +23960,25 @@ zip,place,state,district,ruling
 16666,Osceola Mills,PA,Pennsylvania Western,No decision yet
 16667,Osterburg,PA,Pennsylvania Western,No decision yet
 16668,Patton,PA,Pennsylvania Western,No decision yet
-16669,Petersburg,PA,Pennsylvania Middle,No decision yet
+16669,Petersburg,PA,Pennsylvania Middle,Texts not treated as calls
 16670,Queen,PA,Pennsylvania Western,No decision yet
 16671,Ramey,PA,Pennsylvania Western,No decision yet
 16672,Riddlesburg,PA,Pennsylvania Western,No decision yet
 16673,Roaring Spring,PA,Pennsylvania Western,No decision yet
-16674,Robertsdale,PA,Pennsylvania Middle,No decision yet
+16674,Robertsdale,PA,Pennsylvania Middle,Texts not treated as calls
 16675,Saint Boniface,PA,Pennsylvania Western,No decision yet
-16677,Sandy Ridge,PA,Pennsylvania Middle,No decision yet
+16677,Sandy Ridge,PA,Pennsylvania Middle,Texts not treated as calls
 16678,Saxton,PA,Pennsylvania Western,No decision yet
 16679,Six Mile Run,PA,Pennsylvania Western,No decision yet
 16680,Smithmill,PA,Pennsylvania Western,No decision yet
 16681,Smokerun,PA,Pennsylvania Western,No decision yet
 16682,Sproul,PA,Pennsylvania Western,No decision yet
-16683,Spruce Creek,PA,Pennsylvania Middle,No decision yet
+16683,Spruce Creek,PA,Pennsylvania Middle,Texts not treated as calls
 16684,Tipton,PA,Pennsylvania Western,No decision yet
-16685,Todd,PA,Pennsylvania Middle,No decision yet
+16685,Todd,PA,Pennsylvania Middle,Texts not treated as calls
 16686,Tyrone,PA,Pennsylvania Western,No decision yet
-16689,Waterfall,PA,Pennsylvania Middle,No decision yet
-16691,Wells Tannery,PA,Pennsylvania Middle,No decision yet
+16689,Waterfall,PA,Pennsylvania Middle,Texts not treated as calls
+16691,Wells Tannery,PA,Pennsylvania Middle,Texts not treated as calls
 16692,Westover,PA,Pennsylvania Western,No decision yet
 16693,Williamsburg,PA,Pennsylvania Western,No decision yet
 16694,Wood,PA,Pennsylvania Western,No decision yet
@@ -23986,7 +23986,7 @@ zip,place,state,district,ruling
 16698,Houtzdale,PA,Pennsylvania Western,No decision yet
 16699,Cresson,PA,Pennsylvania Western,No decision yet
 16701,Bradford,PA,Pennsylvania Western,No decision yet
-16720,Austin,PA,Pennsylvania Middle,No decision yet
+16720,Austin,PA,Pennsylvania Middle,Texts not treated as calls
 16724,Crosby,PA,Pennsylvania Western,No decision yet
 16725,Custer City,PA,Pennsylvania Western,No decision yet
 16726,Cyclone,PA,Pennsylvania Western,No decision yet
@@ -24004,338 +24004,338 @@ zip,place,state,district,ruling
 16743,Port Allegany,PA,Pennsylvania Western,No decision yet
 16744,Rew,PA,Pennsylvania Western,No decision yet
 16745,Rixford,PA,Pennsylvania Western,No decision yet
-16746,Roulette,PA,Pennsylvania Middle,No decision yet
-16748,Shinglehouse,PA,Pennsylvania Middle,No decision yet
+16746,Roulette,PA,Pennsylvania Middle,Texts not treated as calls
+16748,Shinglehouse,PA,Pennsylvania Middle,Texts not treated as calls
 16749,Smethport,PA,Pennsylvania Western,No decision yet
 16750,Turtlepoint,PA,Pennsylvania Western,No decision yet
-16801,State College,PA,Pennsylvania Middle,No decision yet
-16802,University Park,PA,Pennsylvania Middle,No decision yet
-16803,State College,PA,Pennsylvania Middle,No decision yet
-16804,State College,PA,Pennsylvania Middle,No decision yet
-16805,State College,PA,Pennsylvania Middle,No decision yet
-16820,Aaronsburg,PA,Pennsylvania Middle,No decision yet
+16801,State College,PA,Pennsylvania Middle,Texts not treated as calls
+16802,University Park,PA,Pennsylvania Middle,Texts not treated as calls
+16803,State College,PA,Pennsylvania Middle,Texts not treated as calls
+16804,State College,PA,Pennsylvania Middle,Texts not treated as calls
+16805,State College,PA,Pennsylvania Middle,Texts not treated as calls
+16820,Aaronsburg,PA,Pennsylvania Middle,Texts not treated as calls
 16821,Allport,PA,Pennsylvania Western,No decision yet
-16822,Beech Creek,PA,Pennsylvania Middle,No decision yet
-16823,Bellefonte,PA,Pennsylvania Middle,No decision yet
+16822,Beech Creek,PA,Pennsylvania Middle,Texts not treated as calls
+16823,Bellefonte,PA,Pennsylvania Middle,Texts not treated as calls
 16825,Bigler,PA,Pennsylvania Western,No decision yet
-16826,Blanchard,PA,Pennsylvania Middle,No decision yet
-16827,Boalsburg,PA,Pennsylvania Middle,No decision yet
-16828,Centre Hall,PA,Pennsylvania Middle,No decision yet
-16829,Clarence,PA,Pennsylvania Middle,No decision yet
+16826,Blanchard,PA,Pennsylvania Middle,Texts not treated as calls
+16827,Boalsburg,PA,Pennsylvania Middle,Texts not treated as calls
+16828,Centre Hall,PA,Pennsylvania Middle,Texts not treated as calls
+16829,Clarence,PA,Pennsylvania Middle,Texts not treated as calls
 16830,Clearfield,PA,Pennsylvania Western,No decision yet
-16832,Coburn,PA,Pennsylvania Middle,No decision yet
+16832,Coburn,PA,Pennsylvania Middle,Texts not treated as calls
 16833,Curwensville,PA,Pennsylvania Western,No decision yet
 16834,Drifting,PA,Pennsylvania Western,No decision yet
-16835,Fleming,PA,Pennsylvania Middle,No decision yet
+16835,Fleming,PA,Pennsylvania Middle,Texts not treated as calls
 16836,Frenchville,PA,Pennsylvania Western,No decision yet
 16837,Glen Richey,PA,Pennsylvania Western,No decision yet
 16838,Grampian,PA,Pennsylvania Western,No decision yet
 16839,Grassflat,PA,Pennsylvania Western,No decision yet
 16840,Hawk Run,PA,Pennsylvania Western,No decision yet
-16841,Howard,PA,Pennsylvania Middle,No decision yet
+16841,Howard,PA,Pennsylvania Middle,Texts not treated as calls
 16843,Hyde,PA,Pennsylvania Western,No decision yet
-16844,Julian,PA,Pennsylvania Middle,No decision yet
-16845,Karthaus,PA,Pennsylvania Middle,No decision yet
+16844,Julian,PA,Pennsylvania Middle,Texts not treated as calls
+16845,Karthaus,PA,Pennsylvania Middle,Texts not treated as calls
 16847,Kylertown,PA,Pennsylvania Western,No decision yet
-16848,Lamar,PA,Pennsylvania Middle,No decision yet
+16848,Lamar,PA,Pennsylvania Middle,Texts not treated as calls
 16849,Lanse,PA,Pennsylvania Western,No decision yet
 16850,Lecontes Mills,PA,Pennsylvania Western,No decision yet
-16851,Lemont,PA,Pennsylvania Middle,No decision yet
-16852,Madisonburg,PA,Pennsylvania Middle,No decision yet
-16853,Milesburg,PA,Pennsylvania Middle,No decision yet
-16854,Millheim,PA,Pennsylvania Middle,No decision yet
+16851,Lemont,PA,Pennsylvania Middle,Texts not treated as calls
+16852,Madisonburg,PA,Pennsylvania Middle,Texts not treated as calls
+16853,Milesburg,PA,Pennsylvania Middle,Texts not treated as calls
+16854,Millheim,PA,Pennsylvania Middle,Texts not treated as calls
 16855,Mineral Springs,PA,Pennsylvania Western,No decision yet
-16856,Mingoville,PA,Pennsylvania Middle,No decision yet
+16856,Mingoville,PA,Pennsylvania Middle,Texts not treated as calls
 16858,Morrisdale,PA,Pennsylvania Western,No decision yet
-16859,Moshannon,PA,Pennsylvania Middle,No decision yet
+16859,Moshannon,PA,Pennsylvania Middle,Texts not treated as calls
 16860,Munson,PA,Pennsylvania Western,No decision yet
 16861,New Millport,PA,Pennsylvania Western,No decision yet
 16863,Olanta,PA,Pennsylvania Western,No decision yet
-16864,Orviston,PA,Pennsylvania Middle,No decision yet
-16865,Pennsylvania Furnace,PA,Pennsylvania Middle,No decision yet
-16866,Philipsburg,PA,Pennsylvania Middle,No decision yet
-16868,Pine Grove Mills,PA,Pennsylvania Middle,No decision yet
-16870,Port Matilda,PA,Pennsylvania Middle,No decision yet
-16871,Pottersdale,PA,Pennsylvania Middle,No decision yet
-16872,Rebersburg,PA,Pennsylvania Middle,No decision yet
+16864,Orviston,PA,Pennsylvania Middle,Texts not treated as calls
+16865,Pennsylvania Furnace,PA,Pennsylvania Middle,Texts not treated as calls
+16866,Philipsburg,PA,Pennsylvania Middle,Texts not treated as calls
+16868,Pine Grove Mills,PA,Pennsylvania Middle,Texts not treated as calls
+16870,Port Matilda,PA,Pennsylvania Middle,Texts not treated as calls
+16871,Pottersdale,PA,Pennsylvania Middle,Texts not treated as calls
+16872,Rebersburg,PA,Pennsylvania Middle,Texts not treated as calls
 16873,Shawville,PA,Pennsylvania Western,No decision yet
-16874,Snow Shoe,PA,Pennsylvania Middle,No decision yet
-16875,Spring Mills,PA,Pennsylvania Middle,No decision yet
+16874,Snow Shoe,PA,Pennsylvania Middle,Texts not treated as calls
+16875,Spring Mills,PA,Pennsylvania Middle,Texts not treated as calls
 16876,Wallaceton,PA,Pennsylvania Western,No decision yet
-16877,Warriors Mark,PA,Pennsylvania Middle,No decision yet
+16877,Warriors Mark,PA,Pennsylvania Middle,Texts not treated as calls
 16878,West Decatur,PA,Pennsylvania Western,No decision yet
 16879,Winburne,PA,Pennsylvania Western,No decision yet
 16881,Woodland,PA,Pennsylvania Western,No decision yet
-16882,Woodward,PA,Pennsylvania Middle,No decision yet
-16901,Wellsboro,PA,Pennsylvania Middle,No decision yet
-16910,Alba,PA,Pennsylvania Middle,No decision yet
-16911,Arnot,PA,Pennsylvania Middle,No decision yet
-16912,Blossburg,PA,Pennsylvania Middle,No decision yet
-16914,Columbia Cross Roads,PA,Pennsylvania Middle,No decision yet
-16915,Coudersport,PA,Pennsylvania Middle,No decision yet
-16917,Covington,PA,Pennsylvania Middle,No decision yet
-16920,Elkland,PA,Pennsylvania Middle,No decision yet
-16921,Gaines,PA,Pennsylvania Middle,No decision yet
-16922,Galeton,PA,Pennsylvania Middle,No decision yet
-16923,Genesee,PA,Pennsylvania Middle,No decision yet
-16925,Gillett,PA,Pennsylvania Middle,No decision yet
-16926,Granville Summit,PA,Pennsylvania Middle,No decision yet
-16927,Harrison Valley,PA,Pennsylvania Middle,No decision yet
-16928,Knoxville,PA,Pennsylvania Middle,No decision yet
-16929,Lawrenceville,PA,Pennsylvania Middle,No decision yet
-16930,Liberty,PA,Pennsylvania Middle,No decision yet
-16932,Mainesburg,PA,Pennsylvania Middle,No decision yet
-16933,Mansfield,PA,Pennsylvania Middle,No decision yet
-16935,Middlebury Center,PA,Pennsylvania Middle,No decision yet
-16936,Millerton,PA,Pennsylvania Middle,No decision yet
-16937,Mills,PA,Pennsylvania Middle,No decision yet
-16938,Morris,PA,Pennsylvania Middle,No decision yet
-16939,Morris Run,PA,Pennsylvania Middle,No decision yet
-16940,Nelson,PA,Pennsylvania Middle,No decision yet
-16941,Genesee,PA,Pennsylvania Middle,No decision yet
-16942,Osceola,PA,Pennsylvania Middle,No decision yet
-16943,Sabinsville,PA,Pennsylvania Middle,No decision yet
-16945,Sylvania,PA,Pennsylvania Middle,No decision yet
-16946,Tioga,PA,Pennsylvania Middle,No decision yet
-16947,Troy,PA,Pennsylvania Middle,No decision yet
-16948,Ulysses,PA,Pennsylvania Middle,No decision yet
-16950,Westfield,PA,Pennsylvania Middle,No decision yet
-17001,Camp Hill,PA,Pennsylvania Middle,No decision yet
-17002,Allensville,PA,Pennsylvania Middle,No decision yet
-17003,Annville,PA,Pennsylvania Middle,No decision yet
-17004,Belleville,PA,Pennsylvania Middle,No decision yet
-17005,Berrysburg,PA,Pennsylvania Middle,No decision yet
-17006,Blain,PA,Pennsylvania Middle,No decision yet
-17007,Boiling Springs,PA,Pennsylvania Middle,No decision yet
-17009,Burnham,PA,Pennsylvania Middle,No decision yet
-17010,Campbelltown,PA,Pennsylvania Middle,No decision yet
-17011,Camp Hill,PA,Pennsylvania Middle,No decision yet
-17012,Camp Hill,PA,Pennsylvania Middle,No decision yet
-17013,Carlisle,PA,Pennsylvania Middle,No decision yet
-17014,Cocolamus,PA,Pennsylvania Middle,No decision yet
-17015,Carlisle,PA,Pennsylvania Middle,No decision yet
-17016,Cornwall,PA,Pennsylvania Middle,No decision yet
-17017,Dalmatia,PA,Pennsylvania Middle,No decision yet
-17018,Dauphin,PA,Pennsylvania Middle,No decision yet
-17019,Dillsburg,PA,Pennsylvania Middle,No decision yet
-17020,Duncannon,PA,Pennsylvania Middle,No decision yet
-17021,East Waterford,PA,Pennsylvania Middle,No decision yet
+16882,Woodward,PA,Pennsylvania Middle,Texts not treated as calls
+16901,Wellsboro,PA,Pennsylvania Middle,Texts not treated as calls
+16910,Alba,PA,Pennsylvania Middle,Texts not treated as calls
+16911,Arnot,PA,Pennsylvania Middle,Texts not treated as calls
+16912,Blossburg,PA,Pennsylvania Middle,Texts not treated as calls
+16914,Columbia Cross Roads,PA,Pennsylvania Middle,Texts not treated as calls
+16915,Coudersport,PA,Pennsylvania Middle,Texts not treated as calls
+16917,Covington,PA,Pennsylvania Middle,Texts not treated as calls
+16920,Elkland,PA,Pennsylvania Middle,Texts not treated as calls
+16921,Gaines,PA,Pennsylvania Middle,Texts not treated as calls
+16922,Galeton,PA,Pennsylvania Middle,Texts not treated as calls
+16923,Genesee,PA,Pennsylvania Middle,Texts not treated as calls
+16925,Gillett,PA,Pennsylvania Middle,Texts not treated as calls
+16926,Granville Summit,PA,Pennsylvania Middle,Texts not treated as calls
+16927,Harrison Valley,PA,Pennsylvania Middle,Texts not treated as calls
+16928,Knoxville,PA,Pennsylvania Middle,Texts not treated as calls
+16929,Lawrenceville,PA,Pennsylvania Middle,Texts not treated as calls
+16930,Liberty,PA,Pennsylvania Middle,Texts not treated as calls
+16932,Mainesburg,PA,Pennsylvania Middle,Texts not treated as calls
+16933,Mansfield,PA,Pennsylvania Middle,Texts not treated as calls
+16935,Middlebury Center,PA,Pennsylvania Middle,Texts not treated as calls
+16936,Millerton,PA,Pennsylvania Middle,Texts not treated as calls
+16937,Mills,PA,Pennsylvania Middle,Texts not treated as calls
+16938,Morris,PA,Pennsylvania Middle,Texts not treated as calls
+16939,Morris Run,PA,Pennsylvania Middle,Texts not treated as calls
+16940,Nelson,PA,Pennsylvania Middle,Texts not treated as calls
+16941,Genesee,PA,Pennsylvania Middle,Texts not treated as calls
+16942,Osceola,PA,Pennsylvania Middle,Texts not treated as calls
+16943,Sabinsville,PA,Pennsylvania Middle,Texts not treated as calls
+16945,Sylvania,PA,Pennsylvania Middle,Texts not treated as calls
+16946,Tioga,PA,Pennsylvania Middle,Texts not treated as calls
+16947,Troy,PA,Pennsylvania Middle,Texts not treated as calls
+16948,Ulysses,PA,Pennsylvania Middle,Texts not treated as calls
+16950,Westfield,PA,Pennsylvania Middle,Texts not treated as calls
+17001,Camp Hill,PA,Pennsylvania Middle,Texts not treated as calls
+17002,Allensville,PA,Pennsylvania Middle,Texts not treated as calls
+17003,Annville,PA,Pennsylvania Middle,Texts not treated as calls
+17004,Belleville,PA,Pennsylvania Middle,Texts not treated as calls
+17005,Berrysburg,PA,Pennsylvania Middle,Texts not treated as calls
+17006,Blain,PA,Pennsylvania Middle,Texts not treated as calls
+17007,Boiling Springs,PA,Pennsylvania Middle,Texts not treated as calls
+17009,Burnham,PA,Pennsylvania Middle,Texts not treated as calls
+17010,Campbelltown,PA,Pennsylvania Middle,Texts not treated as calls
+17011,Camp Hill,PA,Pennsylvania Middle,Texts not treated as calls
+17012,Camp Hill,PA,Pennsylvania Middle,Texts not treated as calls
+17013,Carlisle,PA,Pennsylvania Middle,Texts not treated as calls
+17014,Cocolamus,PA,Pennsylvania Middle,Texts not treated as calls
+17015,Carlisle,PA,Pennsylvania Middle,Texts not treated as calls
+17016,Cornwall,PA,Pennsylvania Middle,Texts not treated as calls
+17017,Dalmatia,PA,Pennsylvania Middle,Texts not treated as calls
+17018,Dauphin,PA,Pennsylvania Middle,Texts not treated as calls
+17019,Dillsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17020,Duncannon,PA,Pennsylvania Middle,Texts not treated as calls
+17021,East Waterford,PA,Pennsylvania Middle,Texts not treated as calls
 17022,Elizabethtown,PA,Pennsylvania Eastern,Texts treated as calls
-17023,Elizabethville,PA,Pennsylvania Middle,No decision yet
-17024,Elliottsburg,PA,Pennsylvania Middle,No decision yet
-17025,Enola,PA,Pennsylvania Middle,No decision yet
-17026,Fredericksburg,PA,Pennsylvania Middle,No decision yet
-17027,Grantham,PA,Pennsylvania Middle,No decision yet
-17028,Grantville,PA,Pennsylvania Middle,No decision yet
-17029,Granville,PA,Pennsylvania Middle,No decision yet
-17030,Gratz,PA,Pennsylvania Middle,No decision yet
-17032,Halifax,PA,Pennsylvania Middle,No decision yet
-17033,Hershey,PA,Pennsylvania Middle,No decision yet
-17034,Highspire,PA,Pennsylvania Middle,No decision yet
-17035,Honey Grove,PA,Pennsylvania Middle,No decision yet
-17036,Hummelstown,PA,Pennsylvania Middle,No decision yet
-17037,Ickesburg,PA,Pennsylvania Middle,No decision yet
-17038,Jonestown,PA,Pennsylvania Middle,No decision yet
-17039,Kleinfeltersville,PA,Pennsylvania Middle,No decision yet
-17040,Landisburg,PA,Pennsylvania Middle,No decision yet
-17041,Lawn,PA,Pennsylvania Middle,No decision yet
-17042,Lebanon,PA,Pennsylvania Middle,No decision yet
-17043,Lemoyne,PA,Pennsylvania Middle,No decision yet
-17044,Lewistown,PA,Pennsylvania Middle,No decision yet
-17045,Liverpool,PA,Pennsylvania Middle,No decision yet
-17046,Lebanon,PA,Pennsylvania Middle,No decision yet
-17047,Loysville,PA,Pennsylvania Middle,No decision yet
-17048,Lykens,PA,Pennsylvania Middle,No decision yet
-17049,Mc Alisterville,PA,Pennsylvania Middle,No decision yet
-17050,Mechanicsburg,PA,Pennsylvania Middle,No decision yet
-17051,Mc Veytown,PA,Pennsylvania Middle,No decision yet
-17052,Mapleton Depot,PA,Pennsylvania Middle,No decision yet
-17053,Marysville,PA,Pennsylvania Middle,No decision yet
-17054,Mattawana,PA,Pennsylvania Middle,No decision yet
-17055,Mechanicsburg,PA,Pennsylvania Middle,No decision yet
-17056,Mexico,PA,Pennsylvania Middle,No decision yet
-17057,Middletown,PA,Pennsylvania Middle,No decision yet
-17058,Mifflin,PA,Pennsylvania Middle,No decision yet
-17059,Mifflintown,PA,Pennsylvania Middle,No decision yet
-17060,Mill Creek,PA,Pennsylvania Middle,No decision yet
-17061,Millersburg,PA,Pennsylvania Middle,No decision yet
-17062,Millerstown,PA,Pennsylvania Middle,No decision yet
-17063,Milroy,PA,Pennsylvania Middle,No decision yet
-17064,Mount Gretna,PA,Pennsylvania Middle,No decision yet
-17065,Mount Holly Springs,PA,Pennsylvania Middle,No decision yet
-17066,Mount Union,PA,Pennsylvania Middle,No decision yet
-17067,Myerstown,PA,Pennsylvania Middle,No decision yet
-17068,New Bloomfield,PA,Pennsylvania Middle,No decision yet
-17069,New Buffalo,PA,Pennsylvania Middle,No decision yet
-17070,New Cumberland,PA,Pennsylvania Middle,No decision yet
-17071,New Germantown,PA,Pennsylvania Middle,No decision yet
-17072,New Kingstown,PA,Pennsylvania Middle,No decision yet
-17073,Newmanstown,PA,Pennsylvania Middle,No decision yet
-17074,Newport,PA,Pennsylvania Middle,No decision yet
-17075,Newton Hamilton,PA,Pennsylvania Middle,No decision yet
-17076,Oakland Mills,PA,Pennsylvania Middle,No decision yet
-17077,Ono,PA,Pennsylvania Middle,No decision yet
-17078,Palmyra,PA,Pennsylvania Middle,No decision yet
-17080,Pillow,PA,Pennsylvania Middle,No decision yet
-17081,Plainfield,PA,Pennsylvania Middle,No decision yet
-17082,Port Royal,PA,Pennsylvania Middle,No decision yet
-17083,Quentin,PA,Pennsylvania Middle,No decision yet
-17084,Reedsville,PA,Pennsylvania Middle,No decision yet
-17085,Rexmont,PA,Pennsylvania Middle,No decision yet
-17086,Richfield,PA,Pennsylvania Middle,No decision yet
-17087,Richland,PA,Pennsylvania Middle,No decision yet
-17088,Schaefferstown,PA,Pennsylvania Middle,No decision yet
-17089,Camp Hill,PA,Pennsylvania Middle,No decision yet
-17090,Shermans Dale,PA,Pennsylvania Middle,No decision yet
-17093,Summerdale,PA,Pennsylvania Middle,No decision yet
-17094,Thompsontown,PA,Pennsylvania Middle,No decision yet
-17097,Wiconisco,PA,Pennsylvania Middle,No decision yet
-17098,Williamstown,PA,Pennsylvania Middle,No decision yet
-17099,Yeagertown,PA,Pennsylvania Middle,No decision yet
-17101,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17102,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17103,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17104,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17105,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17106,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17107,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17108,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17109,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17110,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17111,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17112,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17113,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17120,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17121,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17122,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17123,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17124,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17125,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17126,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17127,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17128,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17129,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17130,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17140,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17177,Harrisburg,PA,Pennsylvania Middle,No decision yet
-17201,Chambersburg,PA,Pennsylvania Middle,No decision yet
-17202,Chambersburg,PA,Pennsylvania Middle,No decision yet
-17210,Amberson,PA,Pennsylvania Middle,No decision yet
+17023,Elizabethville,PA,Pennsylvania Middle,Texts not treated as calls
+17024,Elliottsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17025,Enola,PA,Pennsylvania Middle,Texts not treated as calls
+17026,Fredericksburg,PA,Pennsylvania Middle,Texts not treated as calls
+17027,Grantham,PA,Pennsylvania Middle,Texts not treated as calls
+17028,Grantville,PA,Pennsylvania Middle,Texts not treated as calls
+17029,Granville,PA,Pennsylvania Middle,Texts not treated as calls
+17030,Gratz,PA,Pennsylvania Middle,Texts not treated as calls
+17032,Halifax,PA,Pennsylvania Middle,Texts not treated as calls
+17033,Hershey,PA,Pennsylvania Middle,Texts not treated as calls
+17034,Highspire,PA,Pennsylvania Middle,Texts not treated as calls
+17035,Honey Grove,PA,Pennsylvania Middle,Texts not treated as calls
+17036,Hummelstown,PA,Pennsylvania Middle,Texts not treated as calls
+17037,Ickesburg,PA,Pennsylvania Middle,Texts not treated as calls
+17038,Jonestown,PA,Pennsylvania Middle,Texts not treated as calls
+17039,Kleinfeltersville,PA,Pennsylvania Middle,Texts not treated as calls
+17040,Landisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17041,Lawn,PA,Pennsylvania Middle,Texts not treated as calls
+17042,Lebanon,PA,Pennsylvania Middle,Texts not treated as calls
+17043,Lemoyne,PA,Pennsylvania Middle,Texts not treated as calls
+17044,Lewistown,PA,Pennsylvania Middle,Texts not treated as calls
+17045,Liverpool,PA,Pennsylvania Middle,Texts not treated as calls
+17046,Lebanon,PA,Pennsylvania Middle,Texts not treated as calls
+17047,Loysville,PA,Pennsylvania Middle,Texts not treated as calls
+17048,Lykens,PA,Pennsylvania Middle,Texts not treated as calls
+17049,Mc Alisterville,PA,Pennsylvania Middle,Texts not treated as calls
+17050,Mechanicsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17051,Mc Veytown,PA,Pennsylvania Middle,Texts not treated as calls
+17052,Mapleton Depot,PA,Pennsylvania Middle,Texts not treated as calls
+17053,Marysville,PA,Pennsylvania Middle,Texts not treated as calls
+17054,Mattawana,PA,Pennsylvania Middle,Texts not treated as calls
+17055,Mechanicsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17056,Mexico,PA,Pennsylvania Middle,Texts not treated as calls
+17057,Middletown,PA,Pennsylvania Middle,Texts not treated as calls
+17058,Mifflin,PA,Pennsylvania Middle,Texts not treated as calls
+17059,Mifflintown,PA,Pennsylvania Middle,Texts not treated as calls
+17060,Mill Creek,PA,Pennsylvania Middle,Texts not treated as calls
+17061,Millersburg,PA,Pennsylvania Middle,Texts not treated as calls
+17062,Millerstown,PA,Pennsylvania Middle,Texts not treated as calls
+17063,Milroy,PA,Pennsylvania Middle,Texts not treated as calls
+17064,Mount Gretna,PA,Pennsylvania Middle,Texts not treated as calls
+17065,Mount Holly Springs,PA,Pennsylvania Middle,Texts not treated as calls
+17066,Mount Union,PA,Pennsylvania Middle,Texts not treated as calls
+17067,Myerstown,PA,Pennsylvania Middle,Texts not treated as calls
+17068,New Bloomfield,PA,Pennsylvania Middle,Texts not treated as calls
+17069,New Buffalo,PA,Pennsylvania Middle,Texts not treated as calls
+17070,New Cumberland,PA,Pennsylvania Middle,Texts not treated as calls
+17071,New Germantown,PA,Pennsylvania Middle,Texts not treated as calls
+17072,New Kingstown,PA,Pennsylvania Middle,Texts not treated as calls
+17073,Newmanstown,PA,Pennsylvania Middle,Texts not treated as calls
+17074,Newport,PA,Pennsylvania Middle,Texts not treated as calls
+17075,Newton Hamilton,PA,Pennsylvania Middle,Texts not treated as calls
+17076,Oakland Mills,PA,Pennsylvania Middle,Texts not treated as calls
+17077,Ono,PA,Pennsylvania Middle,Texts not treated as calls
+17078,Palmyra,PA,Pennsylvania Middle,Texts not treated as calls
+17080,Pillow,PA,Pennsylvania Middle,Texts not treated as calls
+17081,Plainfield,PA,Pennsylvania Middle,Texts not treated as calls
+17082,Port Royal,PA,Pennsylvania Middle,Texts not treated as calls
+17083,Quentin,PA,Pennsylvania Middle,Texts not treated as calls
+17084,Reedsville,PA,Pennsylvania Middle,Texts not treated as calls
+17085,Rexmont,PA,Pennsylvania Middle,Texts not treated as calls
+17086,Richfield,PA,Pennsylvania Middle,Texts not treated as calls
+17087,Richland,PA,Pennsylvania Middle,Texts not treated as calls
+17088,Schaefferstown,PA,Pennsylvania Middle,Texts not treated as calls
+17089,Camp Hill,PA,Pennsylvania Middle,Texts not treated as calls
+17090,Shermans Dale,PA,Pennsylvania Middle,Texts not treated as calls
+17093,Summerdale,PA,Pennsylvania Middle,Texts not treated as calls
+17094,Thompsontown,PA,Pennsylvania Middle,Texts not treated as calls
+17097,Wiconisco,PA,Pennsylvania Middle,Texts not treated as calls
+17098,Williamstown,PA,Pennsylvania Middle,Texts not treated as calls
+17099,Yeagertown,PA,Pennsylvania Middle,Texts not treated as calls
+17101,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17102,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17103,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17104,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17105,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17106,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17107,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17108,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17109,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17110,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17111,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17112,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17113,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17120,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17121,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17122,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17123,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17124,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17125,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17126,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17127,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17128,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17129,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17130,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17140,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17177,Harrisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17201,Chambersburg,PA,Pennsylvania Middle,Texts not treated as calls
+17202,Chambersburg,PA,Pennsylvania Middle,Texts not treated as calls
+17210,Amberson,PA,Pennsylvania Middle,Texts not treated as calls
 17211,Artemas,PA,Pennsylvania Western,No decision yet
-17212,Big Cove Tannery,PA,Pennsylvania Middle,No decision yet
-17213,Blairs Mills,PA,Pennsylvania Middle,No decision yet
-17214,Blue Ridge Summit,PA,Pennsylvania Middle,No decision yet
-17215,Burnt Cabins,PA,Pennsylvania Middle,No decision yet
-17217,Concord,PA,Pennsylvania Middle,No decision yet
-17219,Doylesburg,PA,Pennsylvania Middle,No decision yet
-17220,Dry Run,PA,Pennsylvania Middle,No decision yet
-17221,Fannettsburg,PA,Pennsylvania Middle,No decision yet
-17222,Fayetteville,PA,Pennsylvania Middle,No decision yet
-17223,Fort Littleton,PA,Pennsylvania Middle,No decision yet
-17224,Fort Loudon,PA,Pennsylvania Middle,No decision yet
-17225,Greencastle,PA,Pennsylvania Middle,No decision yet
-17228,Harrisonville,PA,Pennsylvania Middle,No decision yet
-17229,Hustontown,PA,Pennsylvania Middle,No decision yet
-17231,Lemasters,PA,Pennsylvania Middle,No decision yet
-17232,Lurgan,PA,Pennsylvania Middle,No decision yet
-17233,Mc Connellsburg,PA,Pennsylvania Middle,No decision yet
-17235,Marion,PA,Pennsylvania Middle,No decision yet
-17236,Mercersburg,PA,Pennsylvania Middle,No decision yet
-17237,Mont Alto,PA,Pennsylvania Middle,No decision yet
-17238,Needmore,PA,Pennsylvania Middle,No decision yet
-17239,Neelyton,PA,Pennsylvania Middle,No decision yet
-17240,Newburg,PA,Pennsylvania Middle,No decision yet
-17241,Newville,PA,Pennsylvania Middle,No decision yet
-17243,Orbisonia,PA,Pennsylvania Middle,No decision yet
-17244,Orrstown,PA,Pennsylvania Middle,No decision yet
-17246,Pleasant Hall,PA,Pennsylvania Middle,No decision yet
-17247,Quincy,PA,Pennsylvania Middle,No decision yet
-17249,Rockhill Furnace,PA,Pennsylvania Middle,No decision yet
-17250,Rouzerville,PA,Pennsylvania Middle,No decision yet
-17251,Roxbury,PA,Pennsylvania Middle,No decision yet
-17252,Saint Thomas,PA,Pennsylvania Middle,No decision yet
-17253,Saltillo,PA,Pennsylvania Middle,No decision yet
-17254,Scotland,PA,Pennsylvania Middle,No decision yet
-17255,Shade Gap,PA,Pennsylvania Middle,No decision yet
-17256,Shady Grove,PA,Pennsylvania Middle,No decision yet
-17257,Shippensburg,PA,Pennsylvania Middle,No decision yet
-17260,Shirleysburg,PA,Pennsylvania Middle,No decision yet
-17261,South Mountain,PA,Pennsylvania Middle,No decision yet
-17262,Spring Run,PA,Pennsylvania Middle,No decision yet
-17263,State Line,PA,Pennsylvania Middle,No decision yet
-17264,Three Springs,PA,Pennsylvania Middle,No decision yet
-17265,Upperstrasburg,PA,Pennsylvania Middle,No decision yet
-17266,Walnut Bottom,PA,Pennsylvania Middle,No decision yet
-17267,Warfordsburg,PA,Pennsylvania Middle,No decision yet
-17268,Waynesboro,PA,Pennsylvania Middle,No decision yet
-17271,Willow Hill,PA,Pennsylvania Middle,No decision yet
-17272,Zullinger,PA,Pennsylvania Middle,No decision yet
-17301,Abbottstown,PA,Pennsylvania Middle,No decision yet
-17302,Airville,PA,Pennsylvania Middle,No decision yet
-17303,Arendtsville,PA,Pennsylvania Middle,No decision yet
-17304,Aspers,PA,Pennsylvania Middle,No decision yet
-17306,Bendersville,PA,Pennsylvania Middle,No decision yet
-17307,Biglerville,PA,Pennsylvania Middle,No decision yet
-17309,Brogue,PA,Pennsylvania Middle,No decision yet
-17310,Cashtown,PA,Pennsylvania Middle,No decision yet
-17311,Codorus,PA,Pennsylvania Middle,No decision yet
-17312,Craley,PA,Pennsylvania Middle,No decision yet
-17313,Dallastown,PA,Pennsylvania Middle,No decision yet
-17314,Delta,PA,Pennsylvania Middle,No decision yet
-17315,Dover,PA,Pennsylvania Middle,No decision yet
-17316,East Berlin,PA,Pennsylvania Middle,No decision yet
-17317,East Prospect,PA,Pennsylvania Middle,No decision yet
-17318,Emigsville,PA,Pennsylvania Middle,No decision yet
-17319,Etters,PA,Pennsylvania Middle,No decision yet
-17320,Fairfield,PA,Pennsylvania Middle,No decision yet
-17321,Fawn Grove,PA,Pennsylvania Middle,No decision yet
-17322,Felton,PA,Pennsylvania Middle,No decision yet
-17323,Franklintown,PA,Pennsylvania Middle,No decision yet
-17324,Gardners,PA,Pennsylvania Middle,No decision yet
-17325,Gettysburg,PA,Pennsylvania Middle,No decision yet
-17327,Glen Rock,PA,Pennsylvania Middle,No decision yet
-17329,Glenville,PA,Pennsylvania Middle,No decision yet
-17331,Hanover,PA,Pennsylvania Middle,No decision yet
-17332,Hanover,PA,Pennsylvania Middle,No decision yet
-17333,Hanover,PA,Pennsylvania Middle,No decision yet
-17334,Hanover,PA,Pennsylvania Middle,No decision yet
-17335,Hanover,PA,Pennsylvania Middle,No decision yet
-17337,Idaville,PA,Pennsylvania Middle,No decision yet
-17339,Lewisberry,PA,Pennsylvania Middle,No decision yet
-17340,Littlestown,PA,Pennsylvania Middle,No decision yet
-17342,Loganville,PA,Pennsylvania Middle,No decision yet
-17343,Mc Knightstown,PA,Pennsylvania Middle,No decision yet
-17344,Mc Sherrystown,PA,Pennsylvania Middle,No decision yet
-17345,Manchester,PA,Pennsylvania Middle,No decision yet
-17347,Mount Wolf,PA,Pennsylvania Middle,No decision yet
-17349,New Freedom,PA,Pennsylvania Middle,No decision yet
-17350,New Oxford,PA,Pennsylvania Middle,No decision yet
-17352,New Park,PA,Pennsylvania Middle,No decision yet
-17353,Orrtanna,PA,Pennsylvania Middle,No decision yet
-17354,Porters Sideling,PA,Pennsylvania Middle,No decision yet
-17355,Railroad,PA,Pennsylvania Middle,No decision yet
-17356,Red Lion,PA,Pennsylvania Middle,No decision yet
-17358,Rossville,PA,Pennsylvania Middle,No decision yet
-17360,Seven Valleys,PA,Pennsylvania Middle,No decision yet
-17361,Shrewsbury,PA,Pennsylvania Middle,No decision yet
-17362,Spring Grove,PA,Pennsylvania Middle,No decision yet
-17363,Stewartstown,PA,Pennsylvania Middle,No decision yet
-17364,Thomasville,PA,Pennsylvania Middle,No decision yet
-17365,Wellsville,PA,Pennsylvania Middle,No decision yet
-17366,Windsor,PA,Pennsylvania Middle,No decision yet
-17368,Wrightsville,PA,Pennsylvania Middle,No decision yet
-17370,York Haven,PA,Pennsylvania Middle,No decision yet
-17371,York New Salem,PA,Pennsylvania Middle,No decision yet
-17372,York Springs,PA,Pennsylvania Middle,No decision yet
-17375,Peach Glen,PA,Pennsylvania Middle,No decision yet
-17401,York,PA,Pennsylvania Middle,No decision yet
-17402,York,PA,Pennsylvania Middle,No decision yet
-17403,York,PA,Pennsylvania Middle,No decision yet
-17404,York,PA,Pennsylvania Middle,No decision yet
-17405,York,PA,Pennsylvania Middle,No decision yet
-17406,York,PA,Pennsylvania Middle,No decision yet
-17407,York,PA,Pennsylvania Middle,No decision yet
-17408,York,PA,Pennsylvania Middle,No decision yet
+17212,Big Cove Tannery,PA,Pennsylvania Middle,Texts not treated as calls
+17213,Blairs Mills,PA,Pennsylvania Middle,Texts not treated as calls
+17214,Blue Ridge Summit,PA,Pennsylvania Middle,Texts not treated as calls
+17215,Burnt Cabins,PA,Pennsylvania Middle,Texts not treated as calls
+17217,Concord,PA,Pennsylvania Middle,Texts not treated as calls
+17219,Doylesburg,PA,Pennsylvania Middle,Texts not treated as calls
+17220,Dry Run,PA,Pennsylvania Middle,Texts not treated as calls
+17221,Fannettsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17222,Fayetteville,PA,Pennsylvania Middle,Texts not treated as calls
+17223,Fort Littleton,PA,Pennsylvania Middle,Texts not treated as calls
+17224,Fort Loudon,PA,Pennsylvania Middle,Texts not treated as calls
+17225,Greencastle,PA,Pennsylvania Middle,Texts not treated as calls
+17228,Harrisonville,PA,Pennsylvania Middle,Texts not treated as calls
+17229,Hustontown,PA,Pennsylvania Middle,Texts not treated as calls
+17231,Lemasters,PA,Pennsylvania Middle,Texts not treated as calls
+17232,Lurgan,PA,Pennsylvania Middle,Texts not treated as calls
+17233,Mc Connellsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17235,Marion,PA,Pennsylvania Middle,Texts not treated as calls
+17236,Mercersburg,PA,Pennsylvania Middle,Texts not treated as calls
+17237,Mont Alto,PA,Pennsylvania Middle,Texts not treated as calls
+17238,Needmore,PA,Pennsylvania Middle,Texts not treated as calls
+17239,Neelyton,PA,Pennsylvania Middle,Texts not treated as calls
+17240,Newburg,PA,Pennsylvania Middle,Texts not treated as calls
+17241,Newville,PA,Pennsylvania Middle,Texts not treated as calls
+17243,Orbisonia,PA,Pennsylvania Middle,Texts not treated as calls
+17244,Orrstown,PA,Pennsylvania Middle,Texts not treated as calls
+17246,Pleasant Hall,PA,Pennsylvania Middle,Texts not treated as calls
+17247,Quincy,PA,Pennsylvania Middle,Texts not treated as calls
+17249,Rockhill Furnace,PA,Pennsylvania Middle,Texts not treated as calls
+17250,Rouzerville,PA,Pennsylvania Middle,Texts not treated as calls
+17251,Roxbury,PA,Pennsylvania Middle,Texts not treated as calls
+17252,Saint Thomas,PA,Pennsylvania Middle,Texts not treated as calls
+17253,Saltillo,PA,Pennsylvania Middle,Texts not treated as calls
+17254,Scotland,PA,Pennsylvania Middle,Texts not treated as calls
+17255,Shade Gap,PA,Pennsylvania Middle,Texts not treated as calls
+17256,Shady Grove,PA,Pennsylvania Middle,Texts not treated as calls
+17257,Shippensburg,PA,Pennsylvania Middle,Texts not treated as calls
+17260,Shirleysburg,PA,Pennsylvania Middle,Texts not treated as calls
+17261,South Mountain,PA,Pennsylvania Middle,Texts not treated as calls
+17262,Spring Run,PA,Pennsylvania Middle,Texts not treated as calls
+17263,State Line,PA,Pennsylvania Middle,Texts not treated as calls
+17264,Three Springs,PA,Pennsylvania Middle,Texts not treated as calls
+17265,Upperstrasburg,PA,Pennsylvania Middle,Texts not treated as calls
+17266,Walnut Bottom,PA,Pennsylvania Middle,Texts not treated as calls
+17267,Warfordsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17268,Waynesboro,PA,Pennsylvania Middle,Texts not treated as calls
+17271,Willow Hill,PA,Pennsylvania Middle,Texts not treated as calls
+17272,Zullinger,PA,Pennsylvania Middle,Texts not treated as calls
+17301,Abbottstown,PA,Pennsylvania Middle,Texts not treated as calls
+17302,Airville,PA,Pennsylvania Middle,Texts not treated as calls
+17303,Arendtsville,PA,Pennsylvania Middle,Texts not treated as calls
+17304,Aspers,PA,Pennsylvania Middle,Texts not treated as calls
+17306,Bendersville,PA,Pennsylvania Middle,Texts not treated as calls
+17307,Biglerville,PA,Pennsylvania Middle,Texts not treated as calls
+17309,Brogue,PA,Pennsylvania Middle,Texts not treated as calls
+17310,Cashtown,PA,Pennsylvania Middle,Texts not treated as calls
+17311,Codorus,PA,Pennsylvania Middle,Texts not treated as calls
+17312,Craley,PA,Pennsylvania Middle,Texts not treated as calls
+17313,Dallastown,PA,Pennsylvania Middle,Texts not treated as calls
+17314,Delta,PA,Pennsylvania Middle,Texts not treated as calls
+17315,Dover,PA,Pennsylvania Middle,Texts not treated as calls
+17316,East Berlin,PA,Pennsylvania Middle,Texts not treated as calls
+17317,East Prospect,PA,Pennsylvania Middle,Texts not treated as calls
+17318,Emigsville,PA,Pennsylvania Middle,Texts not treated as calls
+17319,Etters,PA,Pennsylvania Middle,Texts not treated as calls
+17320,Fairfield,PA,Pennsylvania Middle,Texts not treated as calls
+17321,Fawn Grove,PA,Pennsylvania Middle,Texts not treated as calls
+17322,Felton,PA,Pennsylvania Middle,Texts not treated as calls
+17323,Franklintown,PA,Pennsylvania Middle,Texts not treated as calls
+17324,Gardners,PA,Pennsylvania Middle,Texts not treated as calls
+17325,Gettysburg,PA,Pennsylvania Middle,Texts not treated as calls
+17327,Glen Rock,PA,Pennsylvania Middle,Texts not treated as calls
+17329,Glenville,PA,Pennsylvania Middle,Texts not treated as calls
+17331,Hanover,PA,Pennsylvania Middle,Texts not treated as calls
+17332,Hanover,PA,Pennsylvania Middle,Texts not treated as calls
+17333,Hanover,PA,Pennsylvania Middle,Texts not treated as calls
+17334,Hanover,PA,Pennsylvania Middle,Texts not treated as calls
+17335,Hanover,PA,Pennsylvania Middle,Texts not treated as calls
+17337,Idaville,PA,Pennsylvania Middle,Texts not treated as calls
+17339,Lewisberry,PA,Pennsylvania Middle,Texts not treated as calls
+17340,Littlestown,PA,Pennsylvania Middle,Texts not treated as calls
+17342,Loganville,PA,Pennsylvania Middle,Texts not treated as calls
+17343,Mc Knightstown,PA,Pennsylvania Middle,Texts not treated as calls
+17344,Mc Sherrystown,PA,Pennsylvania Middle,Texts not treated as calls
+17345,Manchester,PA,Pennsylvania Middle,Texts not treated as calls
+17347,Mount Wolf,PA,Pennsylvania Middle,Texts not treated as calls
+17349,New Freedom,PA,Pennsylvania Middle,Texts not treated as calls
+17350,New Oxford,PA,Pennsylvania Middle,Texts not treated as calls
+17352,New Park,PA,Pennsylvania Middle,Texts not treated as calls
+17353,Orrtanna,PA,Pennsylvania Middle,Texts not treated as calls
+17354,Porters Sideling,PA,Pennsylvania Middle,Texts not treated as calls
+17355,Railroad,PA,Pennsylvania Middle,Texts not treated as calls
+17356,Red Lion,PA,Pennsylvania Middle,Texts not treated as calls
+17358,Rossville,PA,Pennsylvania Middle,Texts not treated as calls
+17360,Seven Valleys,PA,Pennsylvania Middle,Texts not treated as calls
+17361,Shrewsbury,PA,Pennsylvania Middle,Texts not treated as calls
+17362,Spring Grove,PA,Pennsylvania Middle,Texts not treated as calls
+17363,Stewartstown,PA,Pennsylvania Middle,Texts not treated as calls
+17364,Thomasville,PA,Pennsylvania Middle,Texts not treated as calls
+17365,Wellsville,PA,Pennsylvania Middle,Texts not treated as calls
+17366,Windsor,PA,Pennsylvania Middle,Texts not treated as calls
+17368,Wrightsville,PA,Pennsylvania Middle,Texts not treated as calls
+17370,York Haven,PA,Pennsylvania Middle,Texts not treated as calls
+17371,York New Salem,PA,Pennsylvania Middle,Texts not treated as calls
+17372,York Springs,PA,Pennsylvania Middle,Texts not treated as calls
+17375,Peach Glen,PA,Pennsylvania Middle,Texts not treated as calls
+17401,York,PA,Pennsylvania Middle,Texts not treated as calls
+17402,York,PA,Pennsylvania Middle,Texts not treated as calls
+17403,York,PA,Pennsylvania Middle,Texts not treated as calls
+17404,York,PA,Pennsylvania Middle,Texts not treated as calls
+17405,York,PA,Pennsylvania Middle,Texts not treated as calls
+17406,York,PA,Pennsylvania Middle,Texts not treated as calls
+17407,York,PA,Pennsylvania Middle,Texts not treated as calls
+17408,York,PA,Pennsylvania Middle,Texts not treated as calls
 17501,Akron,PA,Pennsylvania Eastern,Texts treated as calls
 17502,Bainbridge,PA,Pennsylvania Eastern,Texts treated as calls
 17503,Bart,PA,Pennsylvania Eastern,Texts treated as calls
@@ -24407,162 +24407,162 @@ zip,place,state,district,ruling
 17611,Lancaster,PA,Pennsylvania Eastern,Texts treated as calls
 17622,Lancaster,PA,Pennsylvania Eastern,Texts treated as calls
 17699,Lancaster,PA,Pennsylvania Eastern,Texts treated as calls
-17701,Williamsport,PA,Pennsylvania Middle,No decision yet
-17702,Williamsport,PA,Pennsylvania Middle,No decision yet
-17703,Williamsport,PA,Pennsylvania Middle,No decision yet
-17705,Williamsport,PA,Pennsylvania Middle,No decision yet
-17720,Antes Fort,PA,Pennsylvania Middle,No decision yet
-17721,Avis,PA,Pennsylvania Middle,No decision yet
-17723,Jersey Shore,PA,Pennsylvania Middle,No decision yet
-17724,Canton,PA,Pennsylvania Middle,No decision yet
-17726,Castanea,PA,Pennsylvania Middle,No decision yet
-17727,Cedar Run,PA,Pennsylvania Middle,No decision yet
-17728,Cogan Station,PA,Pennsylvania Middle,No decision yet
-17729,Cross Fork,PA,Pennsylvania Middle,No decision yet
-17730,Dewart,PA,Pennsylvania Middle,No decision yet
-17731,Eagles Mere,PA,Pennsylvania Middle,No decision yet
-17735,Grover,PA,Pennsylvania Middle,No decision yet
-17737,Hughesville,PA,Pennsylvania Middle,No decision yet
-17739,Jersey Mills,PA,Pennsylvania Middle,No decision yet
-17740,Jersey Shore,PA,Pennsylvania Middle,No decision yet
-17742,Lairdsville,PA,Pennsylvania Middle,No decision yet
-17744,Linden,PA,Pennsylvania Middle,No decision yet
-17745,Lock Haven,PA,Pennsylvania Middle,No decision yet
-17747,Loganton,PA,Pennsylvania Middle,No decision yet
-17748,Mc Elhattan,PA,Pennsylvania Middle,No decision yet
-17749,Mc Ewensville,PA,Pennsylvania Middle,No decision yet
-17750,Mackeyville,PA,Pennsylvania Middle,No decision yet
-17751,Mill Hall,PA,Pennsylvania Middle,No decision yet
-17752,Montgomery,PA,Pennsylvania Middle,No decision yet
-17754,Montoursville,PA,Pennsylvania Middle,No decision yet
-17756,Muncy,PA,Pennsylvania Middle,No decision yet
-17758,Muncy Valley,PA,Pennsylvania Middle,No decision yet
-17760,North Bend,PA,Pennsylvania Middle,No decision yet
-17762,Picture Rocks,PA,Pennsylvania Middle,No decision yet
-17763,Ralston,PA,Pennsylvania Middle,No decision yet
-17764,Renovo,PA,Pennsylvania Middle,No decision yet
-17765,Roaring Branch,PA,Pennsylvania Middle,No decision yet
-17768,Shunk,PA,Pennsylvania Middle,No decision yet
-17769,Slate Run,PA,Pennsylvania Middle,No decision yet
-17771,Trout Run,PA,Pennsylvania Middle,No decision yet
-17772,Turbotville,PA,Pennsylvania Middle,No decision yet
-17774,Unityville,PA,Pennsylvania Middle,No decision yet
-17776,Waterville,PA,Pennsylvania Middle,No decision yet
-17777,Watsontown,PA,Pennsylvania Middle,No decision yet
-17778,Westport,PA,Pennsylvania Middle,No decision yet
-17779,Woolrich,PA,Pennsylvania Middle,No decision yet
-17801,Sunbury,PA,Pennsylvania Middle,No decision yet
-17810,Allenwood,PA,Pennsylvania Middle,No decision yet
-17812,Beaver Springs,PA,Pennsylvania Middle,No decision yet
-17813,Beavertown,PA,Pennsylvania Middle,No decision yet
-17814,Benton,PA,Pennsylvania Middle,No decision yet
-17815,Bloomsburg,PA,Pennsylvania Middle,No decision yet
-17820,Catawissa,PA,Pennsylvania Middle,No decision yet
-17821,Danville,PA,Pennsylvania Middle,No decision yet
-17822,Danville,PA,Pennsylvania Middle,No decision yet
-17823,Dornsife,PA,Pennsylvania Middle,No decision yet
-17824,Elysburg,PA,Pennsylvania Middle,No decision yet
-17827,Freeburg,PA,Pennsylvania Middle,No decision yet
-17829,Hartleton,PA,Pennsylvania Middle,No decision yet
-17830,Herndon,PA,Pennsylvania Middle,No decision yet
-17831,Hummels Wharf,PA,Pennsylvania Middle,No decision yet
-17832,Marion Heights,PA,Pennsylvania Middle,No decision yet
-17833,Kreamer,PA,Pennsylvania Middle,No decision yet
-17834,Kulpmont,PA,Pennsylvania Middle,No decision yet
-17835,Laurelton,PA,Pennsylvania Middle,No decision yet
-17836,Leck Kill,PA,Pennsylvania Middle,No decision yet
-17837,Lewisburg,PA,Pennsylvania Middle,No decision yet
-17840,Locust Gap,PA,Pennsylvania Middle,No decision yet
-17841,Mc Clure,PA,Pennsylvania Middle,No decision yet
-17842,Middleburg,PA,Pennsylvania Middle,No decision yet
-17843,Beaver Springs,PA,Pennsylvania Middle,No decision yet
-17844,Mifflinburg,PA,Pennsylvania Middle,No decision yet
-17845,Millmont,PA,Pennsylvania Middle,No decision yet
-17846,Millville,PA,Pennsylvania Middle,No decision yet
-17847,Milton,PA,Pennsylvania Middle,No decision yet
-17850,Montandon,PA,Pennsylvania Middle,No decision yet
-17851,Mount Carmel,PA,Pennsylvania Middle,No decision yet
-17853,Mount Pleasant Mills,PA,Pennsylvania Middle,No decision yet
-17855,New Berlin,PA,Pennsylvania Middle,No decision yet
-17856,New Columbia,PA,Pennsylvania Middle,No decision yet
-17857,Northumberland,PA,Pennsylvania Middle,No decision yet
-17858,Numidia,PA,Pennsylvania Middle,No decision yet
-17859,Orangeville,PA,Pennsylvania Middle,No decision yet
-17860,Paxinos,PA,Pennsylvania Middle,No decision yet
-17861,Paxtonville,PA,Pennsylvania Middle,No decision yet
-17862,Penns Creek,PA,Pennsylvania Middle,No decision yet
-17864,Port Trevorton,PA,Pennsylvania Middle,No decision yet
-17865,Potts Grove,PA,Pennsylvania Middle,No decision yet
-17866,Coal Township,PA,Pennsylvania Middle,No decision yet
-17867,Rebuck,PA,Pennsylvania Middle,No decision yet
-17868,Riverside,PA,Pennsylvania Middle,No decision yet
-17870,Selinsgrove,PA,Pennsylvania Middle,No decision yet
-17872,Shamokin,PA,Pennsylvania Middle,No decision yet
-17876,Shamokin Dam,PA,Pennsylvania Middle,No decision yet
-17877,Snydertown,PA,Pennsylvania Middle,No decision yet
-17878,Stillwater,PA,Pennsylvania Middle,No decision yet
-17880,Swengel,PA,Pennsylvania Middle,No decision yet
-17881,Trevorton,PA,Pennsylvania Middle,No decision yet
-17882,Troxelville,PA,Pennsylvania Middle,No decision yet
-17883,Vicksburg,PA,Pennsylvania Middle,No decision yet
-17884,Washingtonville,PA,Pennsylvania Middle,No decision yet
-17885,Weikert,PA,Pennsylvania Middle,No decision yet
-17886,West Milton,PA,Pennsylvania Middle,No decision yet
-17887,White Deer,PA,Pennsylvania Middle,No decision yet
-17888,Wilburton,PA,Pennsylvania Middle,No decision yet
-17889,Winfield,PA,Pennsylvania Middle,No decision yet
-17901,Pottsville,PA,Pennsylvania Middle,No decision yet
-17920,Aristes,PA,Pennsylvania Middle,No decision yet
-17921,Ashland,PA,Pennsylvania Middle,No decision yet
-17922,Auburn,PA,Pennsylvania Middle,No decision yet
-17923,Branchdale,PA,Pennsylvania Middle,No decision yet
-17925,Brockton,PA,Pennsylvania Middle,No decision yet
-17929,Cressona,PA,Pennsylvania Middle,No decision yet
-17930,Cumbola,PA,Pennsylvania Middle,No decision yet
-17931,Frackville,PA,Pennsylvania Middle,No decision yet
-17932,Frackville,PA,Pennsylvania Middle,No decision yet
-17933,Friedensburg,PA,Pennsylvania Middle,No decision yet
-17934,Gilberton,PA,Pennsylvania Middle,No decision yet
-17935,Girardville,PA,Pennsylvania Middle,No decision yet
-17936,Gordon,PA,Pennsylvania Middle,No decision yet
-17938,Hegins,PA,Pennsylvania Middle,No decision yet
-17941,Klingerstown,PA,Pennsylvania Middle,No decision yet
-17943,Lavelle,PA,Pennsylvania Middle,No decision yet
-17944,Llewellyn,PA,Pennsylvania Middle,No decision yet
-17945,Locustdale,PA,Pennsylvania Middle,No decision yet
-17946,Lost Creek,PA,Pennsylvania Middle,No decision yet
-17948,Mahanoy City,PA,Pennsylvania Middle,No decision yet
-17949,Mahanoy Plane,PA,Pennsylvania Middle,No decision yet
-17951,Mar Lin,PA,Pennsylvania Middle,No decision yet
-17952,Mary D,PA,Pennsylvania Middle,No decision yet
-17953,Middleport,PA,Pennsylvania Middle,No decision yet
-17954,Minersville,PA,Pennsylvania Middle,No decision yet
-17957,Muir,PA,Pennsylvania Middle,No decision yet
-17959,New Philadelphia,PA,Pennsylvania Middle,No decision yet
-17960,New Ringgold,PA,Pennsylvania Middle,No decision yet
-17961,Orwigsburg,PA,Pennsylvania Middle,No decision yet
-17963,Pine Grove,PA,Pennsylvania Middle,No decision yet
-17964,Pitman,PA,Pennsylvania Middle,No decision yet
-17965,Port Carbon,PA,Pennsylvania Middle,No decision yet
-17966,Ravine,PA,Pennsylvania Middle,No decision yet
-17967,Ringtown,PA,Pennsylvania Middle,No decision yet
-17968,Sacramento,PA,Pennsylvania Middle,No decision yet
-17970,Saint Clair,PA,Pennsylvania Middle,No decision yet
-17972,Schuylkill Haven,PA,Pennsylvania Middle,No decision yet
-17974,Seltzer,PA,Pennsylvania Middle,No decision yet
-17976,Shenandoah,PA,Pennsylvania Middle,No decision yet
-17978,Spring Glen,PA,Pennsylvania Middle,No decision yet
-17979,Summit Station,PA,Pennsylvania Middle,No decision yet
-17980,Tower City,PA,Pennsylvania Middle,No decision yet
-17981,Tremont,PA,Pennsylvania Middle,No decision yet
-17982,Tuscarora,PA,Pennsylvania Middle,No decision yet
-17983,Valley View,PA,Pennsylvania Middle,No decision yet
-17985,Zion Grove,PA,Pennsylvania Middle,No decision yet
+17701,Williamsport,PA,Pennsylvania Middle,Texts not treated as calls
+17702,Williamsport,PA,Pennsylvania Middle,Texts not treated as calls
+17703,Williamsport,PA,Pennsylvania Middle,Texts not treated as calls
+17705,Williamsport,PA,Pennsylvania Middle,Texts not treated as calls
+17720,Antes Fort,PA,Pennsylvania Middle,Texts not treated as calls
+17721,Avis,PA,Pennsylvania Middle,Texts not treated as calls
+17723,Jersey Shore,PA,Pennsylvania Middle,Texts not treated as calls
+17724,Canton,PA,Pennsylvania Middle,Texts not treated as calls
+17726,Castanea,PA,Pennsylvania Middle,Texts not treated as calls
+17727,Cedar Run,PA,Pennsylvania Middle,Texts not treated as calls
+17728,Cogan Station,PA,Pennsylvania Middle,Texts not treated as calls
+17729,Cross Fork,PA,Pennsylvania Middle,Texts not treated as calls
+17730,Dewart,PA,Pennsylvania Middle,Texts not treated as calls
+17731,Eagles Mere,PA,Pennsylvania Middle,Texts not treated as calls
+17735,Grover,PA,Pennsylvania Middle,Texts not treated as calls
+17737,Hughesville,PA,Pennsylvania Middle,Texts not treated as calls
+17739,Jersey Mills,PA,Pennsylvania Middle,Texts not treated as calls
+17740,Jersey Shore,PA,Pennsylvania Middle,Texts not treated as calls
+17742,Lairdsville,PA,Pennsylvania Middle,Texts not treated as calls
+17744,Linden,PA,Pennsylvania Middle,Texts not treated as calls
+17745,Lock Haven,PA,Pennsylvania Middle,Texts not treated as calls
+17747,Loganton,PA,Pennsylvania Middle,Texts not treated as calls
+17748,Mc Elhattan,PA,Pennsylvania Middle,Texts not treated as calls
+17749,Mc Ewensville,PA,Pennsylvania Middle,Texts not treated as calls
+17750,Mackeyville,PA,Pennsylvania Middle,Texts not treated as calls
+17751,Mill Hall,PA,Pennsylvania Middle,Texts not treated as calls
+17752,Montgomery,PA,Pennsylvania Middle,Texts not treated as calls
+17754,Montoursville,PA,Pennsylvania Middle,Texts not treated as calls
+17756,Muncy,PA,Pennsylvania Middle,Texts not treated as calls
+17758,Muncy Valley,PA,Pennsylvania Middle,Texts not treated as calls
+17760,North Bend,PA,Pennsylvania Middle,Texts not treated as calls
+17762,Picture Rocks,PA,Pennsylvania Middle,Texts not treated as calls
+17763,Ralston,PA,Pennsylvania Middle,Texts not treated as calls
+17764,Renovo,PA,Pennsylvania Middle,Texts not treated as calls
+17765,Roaring Branch,PA,Pennsylvania Middle,Texts not treated as calls
+17768,Shunk,PA,Pennsylvania Middle,Texts not treated as calls
+17769,Slate Run,PA,Pennsylvania Middle,Texts not treated as calls
+17771,Trout Run,PA,Pennsylvania Middle,Texts not treated as calls
+17772,Turbotville,PA,Pennsylvania Middle,Texts not treated as calls
+17774,Unityville,PA,Pennsylvania Middle,Texts not treated as calls
+17776,Waterville,PA,Pennsylvania Middle,Texts not treated as calls
+17777,Watsontown,PA,Pennsylvania Middle,Texts not treated as calls
+17778,Westport,PA,Pennsylvania Middle,Texts not treated as calls
+17779,Woolrich,PA,Pennsylvania Middle,Texts not treated as calls
+17801,Sunbury,PA,Pennsylvania Middle,Texts not treated as calls
+17810,Allenwood,PA,Pennsylvania Middle,Texts not treated as calls
+17812,Beaver Springs,PA,Pennsylvania Middle,Texts not treated as calls
+17813,Beavertown,PA,Pennsylvania Middle,Texts not treated as calls
+17814,Benton,PA,Pennsylvania Middle,Texts not treated as calls
+17815,Bloomsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17820,Catawissa,PA,Pennsylvania Middle,Texts not treated as calls
+17821,Danville,PA,Pennsylvania Middle,Texts not treated as calls
+17822,Danville,PA,Pennsylvania Middle,Texts not treated as calls
+17823,Dornsife,PA,Pennsylvania Middle,Texts not treated as calls
+17824,Elysburg,PA,Pennsylvania Middle,Texts not treated as calls
+17827,Freeburg,PA,Pennsylvania Middle,Texts not treated as calls
+17829,Hartleton,PA,Pennsylvania Middle,Texts not treated as calls
+17830,Herndon,PA,Pennsylvania Middle,Texts not treated as calls
+17831,Hummels Wharf,PA,Pennsylvania Middle,Texts not treated as calls
+17832,Marion Heights,PA,Pennsylvania Middle,Texts not treated as calls
+17833,Kreamer,PA,Pennsylvania Middle,Texts not treated as calls
+17834,Kulpmont,PA,Pennsylvania Middle,Texts not treated as calls
+17835,Laurelton,PA,Pennsylvania Middle,Texts not treated as calls
+17836,Leck Kill,PA,Pennsylvania Middle,Texts not treated as calls
+17837,Lewisburg,PA,Pennsylvania Middle,Texts not treated as calls
+17840,Locust Gap,PA,Pennsylvania Middle,Texts not treated as calls
+17841,Mc Clure,PA,Pennsylvania Middle,Texts not treated as calls
+17842,Middleburg,PA,Pennsylvania Middle,Texts not treated as calls
+17843,Beaver Springs,PA,Pennsylvania Middle,Texts not treated as calls
+17844,Mifflinburg,PA,Pennsylvania Middle,Texts not treated as calls
+17845,Millmont,PA,Pennsylvania Middle,Texts not treated as calls
+17846,Millville,PA,Pennsylvania Middle,Texts not treated as calls
+17847,Milton,PA,Pennsylvania Middle,Texts not treated as calls
+17850,Montandon,PA,Pennsylvania Middle,Texts not treated as calls
+17851,Mount Carmel,PA,Pennsylvania Middle,Texts not treated as calls
+17853,Mount Pleasant Mills,PA,Pennsylvania Middle,Texts not treated as calls
+17855,New Berlin,PA,Pennsylvania Middle,Texts not treated as calls
+17856,New Columbia,PA,Pennsylvania Middle,Texts not treated as calls
+17857,Northumberland,PA,Pennsylvania Middle,Texts not treated as calls
+17858,Numidia,PA,Pennsylvania Middle,Texts not treated as calls
+17859,Orangeville,PA,Pennsylvania Middle,Texts not treated as calls
+17860,Paxinos,PA,Pennsylvania Middle,Texts not treated as calls
+17861,Paxtonville,PA,Pennsylvania Middle,Texts not treated as calls
+17862,Penns Creek,PA,Pennsylvania Middle,Texts not treated as calls
+17864,Port Trevorton,PA,Pennsylvania Middle,Texts not treated as calls
+17865,Potts Grove,PA,Pennsylvania Middle,Texts not treated as calls
+17866,Coal Township,PA,Pennsylvania Middle,Texts not treated as calls
+17867,Rebuck,PA,Pennsylvania Middle,Texts not treated as calls
+17868,Riverside,PA,Pennsylvania Middle,Texts not treated as calls
+17870,Selinsgrove,PA,Pennsylvania Middle,Texts not treated as calls
+17872,Shamokin,PA,Pennsylvania Middle,Texts not treated as calls
+17876,Shamokin Dam,PA,Pennsylvania Middle,Texts not treated as calls
+17877,Snydertown,PA,Pennsylvania Middle,Texts not treated as calls
+17878,Stillwater,PA,Pennsylvania Middle,Texts not treated as calls
+17880,Swengel,PA,Pennsylvania Middle,Texts not treated as calls
+17881,Trevorton,PA,Pennsylvania Middle,Texts not treated as calls
+17882,Troxelville,PA,Pennsylvania Middle,Texts not treated as calls
+17883,Vicksburg,PA,Pennsylvania Middle,Texts not treated as calls
+17884,Washingtonville,PA,Pennsylvania Middle,Texts not treated as calls
+17885,Weikert,PA,Pennsylvania Middle,Texts not treated as calls
+17886,West Milton,PA,Pennsylvania Middle,Texts not treated as calls
+17887,White Deer,PA,Pennsylvania Middle,Texts not treated as calls
+17888,Wilburton,PA,Pennsylvania Middle,Texts not treated as calls
+17889,Winfield,PA,Pennsylvania Middle,Texts not treated as calls
+17901,Pottsville,PA,Pennsylvania Middle,Texts not treated as calls
+17920,Aristes,PA,Pennsylvania Middle,Texts not treated as calls
+17921,Ashland,PA,Pennsylvania Middle,Texts not treated as calls
+17922,Auburn,PA,Pennsylvania Middle,Texts not treated as calls
+17923,Branchdale,PA,Pennsylvania Middle,Texts not treated as calls
+17925,Brockton,PA,Pennsylvania Middle,Texts not treated as calls
+17929,Cressona,PA,Pennsylvania Middle,Texts not treated as calls
+17930,Cumbola,PA,Pennsylvania Middle,Texts not treated as calls
+17931,Frackville,PA,Pennsylvania Middle,Texts not treated as calls
+17932,Frackville,PA,Pennsylvania Middle,Texts not treated as calls
+17933,Friedensburg,PA,Pennsylvania Middle,Texts not treated as calls
+17934,Gilberton,PA,Pennsylvania Middle,Texts not treated as calls
+17935,Girardville,PA,Pennsylvania Middle,Texts not treated as calls
+17936,Gordon,PA,Pennsylvania Middle,Texts not treated as calls
+17938,Hegins,PA,Pennsylvania Middle,Texts not treated as calls
+17941,Klingerstown,PA,Pennsylvania Middle,Texts not treated as calls
+17943,Lavelle,PA,Pennsylvania Middle,Texts not treated as calls
+17944,Llewellyn,PA,Pennsylvania Middle,Texts not treated as calls
+17945,Locustdale,PA,Pennsylvania Middle,Texts not treated as calls
+17946,Lost Creek,PA,Pennsylvania Middle,Texts not treated as calls
+17948,Mahanoy City,PA,Pennsylvania Middle,Texts not treated as calls
+17949,Mahanoy Plane,PA,Pennsylvania Middle,Texts not treated as calls
+17951,Mar Lin,PA,Pennsylvania Middle,Texts not treated as calls
+17952,Mary D,PA,Pennsylvania Middle,Texts not treated as calls
+17953,Middleport,PA,Pennsylvania Middle,Texts not treated as calls
+17954,Minersville,PA,Pennsylvania Middle,Texts not treated as calls
+17957,Muir,PA,Pennsylvania Middle,Texts not treated as calls
+17959,New Philadelphia,PA,Pennsylvania Middle,Texts not treated as calls
+17960,New Ringgold,PA,Pennsylvania Middle,Texts not treated as calls
+17961,Orwigsburg,PA,Pennsylvania Middle,Texts not treated as calls
+17963,Pine Grove,PA,Pennsylvania Middle,Texts not treated as calls
+17964,Pitman,PA,Pennsylvania Middle,Texts not treated as calls
+17965,Port Carbon,PA,Pennsylvania Middle,Texts not treated as calls
+17966,Ravine,PA,Pennsylvania Middle,Texts not treated as calls
+17967,Ringtown,PA,Pennsylvania Middle,Texts not treated as calls
+17968,Sacramento,PA,Pennsylvania Middle,Texts not treated as calls
+17970,Saint Clair,PA,Pennsylvania Middle,Texts not treated as calls
+17972,Schuylkill Haven,PA,Pennsylvania Middle,Texts not treated as calls
+17974,Seltzer,PA,Pennsylvania Middle,Texts not treated as calls
+17976,Shenandoah,PA,Pennsylvania Middle,Texts not treated as calls
+17978,Spring Glen,PA,Pennsylvania Middle,Texts not treated as calls
+17979,Summit Station,PA,Pennsylvania Middle,Texts not treated as calls
+17980,Tower City,PA,Pennsylvania Middle,Texts not treated as calls
+17981,Tremont,PA,Pennsylvania Middle,Texts not treated as calls
+17982,Tuscarora,PA,Pennsylvania Middle,Texts not treated as calls
+17983,Valley View,PA,Pennsylvania Middle,Texts not treated as calls
+17985,Zion Grove,PA,Pennsylvania Middle,Texts not treated as calls
 18001,Lehigh Valley,PA,Pennsylvania Eastern,Texts treated as calls
 18002,Lehigh Valley,PA,Pennsylvania Eastern,Texts treated as calls
 18003,Lehigh Valley,PA,Pennsylvania Eastern,Texts treated as calls
 18011,Alburtis,PA,Pennsylvania Eastern,Texts treated as calls
-18012,Aquashicola,PA,Pennsylvania Middle,No decision yet
+18012,Aquashicola,PA,Pennsylvania Middle,Texts not treated as calls
 18013,Bangor,PA,Pennsylvania Eastern,Texts treated as calls
 18014,Bath,PA,Pennsylvania Eastern,Texts treated as calls
 18015,Bethlehem,PA,Pennsylvania Eastern,Texts treated as calls
@@ -24571,7 +24571,7 @@ zip,place,state,district,ruling
 18018,Bethlehem,PA,Pennsylvania Eastern,Texts treated as calls
 18020,Bethlehem,PA,Pennsylvania Eastern,Texts treated as calls
 18025,Bethlehem,PA,Pennsylvania Eastern,Texts treated as calls
-18030,Bowmanstown,PA,Pennsylvania Middle,No decision yet
+18030,Bowmanstown,PA,Pennsylvania Middle,Texts not treated as calls
 18031,Breinigsville,PA,Pennsylvania Eastern,Texts treated as calls
 18032,Catasauqua,PA,Pennsylvania Eastern,Texts treated as calls
 18034,Center Valley,PA,Pennsylvania Eastern,Texts treated as calls
@@ -24594,7 +24594,7 @@ zip,place,state,district,ruling
 18054,Green Lane,PA,Pennsylvania Eastern,Texts treated as calls
 18055,Hellertown,PA,Pennsylvania Eastern,Texts treated as calls
 18056,Hereford,PA,Pennsylvania Eastern,Texts treated as calls
-18058,Kunkletown,PA,Pennsylvania Middle,No decision yet
+18058,Kunkletown,PA,Pennsylvania Middle,Texts not treated as calls
 18059,Laurys Station,PA,Pennsylvania Eastern,Texts treated as calls
 18060,Limeport,PA,Pennsylvania Eastern,Texts treated as calls
 18062,Macungie,PA,Pennsylvania Eastern,Texts treated as calls
@@ -24606,7 +24606,7 @@ zip,place,state,district,ruling
 18068,Old Zionsville,PA,Pennsylvania Eastern,Texts treated as calls
 18069,Orefield,PA,Pennsylvania Eastern,Texts treated as calls
 18070,Palm,PA,Pennsylvania Eastern,Texts treated as calls
-18071,Palmerton,PA,Pennsylvania Middle,No decision yet
+18071,Palmerton,PA,Pennsylvania Middle,Texts not treated as calls
 18072,Pen Argyl,PA,Pennsylvania Eastern,Texts treated as calls
 18073,Pennsburg,PA,Pennsylvania Eastern,Texts treated as calls
 18074,Perkiomenville,PA,Pennsylvania Eastern,Texts treated as calls
@@ -24634,253 +24634,253 @@ zip,place,state,district,ruling
 18106,Allentown,PA,Pennsylvania Eastern,Texts treated as calls
 18109,Allentown,PA,Pennsylvania Eastern,Texts treated as calls
 18195,Allentown,PA,Pennsylvania Eastern,Texts treated as calls
-18201,Hazleton,PA,Pennsylvania Middle,No decision yet
-18202,Hazleton,PA,Pennsylvania Middle,No decision yet
-18210,Albrightsville,PA,Pennsylvania Middle,No decision yet
-18211,Andreas,PA,Pennsylvania Middle,No decision yet
-18212,Ashfield,PA,Pennsylvania Middle,No decision yet
-18214,Barnesville,PA,Pennsylvania Middle,No decision yet
-18216,Beaver Meadows,PA,Pennsylvania Middle,No decision yet
-18218,Coaldale,PA,Pennsylvania Middle,No decision yet
-18219,Conyngham,PA,Pennsylvania Middle,No decision yet
-18220,Delano,PA,Pennsylvania Middle,No decision yet
-18221,Drifton,PA,Pennsylvania Middle,No decision yet
-18222,Drums,PA,Pennsylvania Middle,No decision yet
-18223,Ebervale,PA,Pennsylvania Middle,No decision yet
-18224,Freeland,PA,Pennsylvania Middle,No decision yet
-18225,Harleigh,PA,Pennsylvania Middle,No decision yet
-18229,Jim Thorpe,PA,Pennsylvania Middle,No decision yet
-18230,Junedale,PA,Pennsylvania Middle,No decision yet
-18231,Kelayres,PA,Pennsylvania Middle,No decision yet
-18232,Lansford,PA,Pennsylvania Middle,No decision yet
-18234,Lattimer Mines,PA,Pennsylvania Middle,No decision yet
-18235,Lehighton,PA,Pennsylvania Middle,No decision yet
-18237,Mcadoo,PA,Pennsylvania Middle,No decision yet
-18239,Milnesville,PA,Pennsylvania Middle,No decision yet
-18240,Nesquehoning,PA,Pennsylvania Middle,No decision yet
-18241,Nuremberg,PA,Pennsylvania Middle,No decision yet
-18242,Oneida,PA,Pennsylvania Middle,No decision yet
-18244,Parryville,PA,Pennsylvania Middle,No decision yet
-18245,Quakake,PA,Pennsylvania Middle,No decision yet
-18246,Rock Glen,PA,Pennsylvania Middle,No decision yet
-18247,Saint Johns,PA,Pennsylvania Middle,No decision yet
-18248,Sheppton,PA,Pennsylvania Middle,No decision yet
-18249,Sugarloaf,PA,Pennsylvania Middle,No decision yet
-18250,Summit Hill,PA,Pennsylvania Middle,No decision yet
-18251,Sybertsville,PA,Pennsylvania Middle,No decision yet
-18252,Tamaqua,PA,Pennsylvania Middle,No decision yet
-18254,Tresckow,PA,Pennsylvania Middle,No decision yet
-18255,Weatherly,PA,Pennsylvania Middle,No decision yet
-18256,Weston,PA,Pennsylvania Middle,No decision yet
-18301,East Stroudsburg,PA,Pennsylvania Middle,No decision yet
-18302,East Stroudsburg,PA,Pennsylvania Middle,No decision yet
-18320,Analomink,PA,Pennsylvania Middle,No decision yet
-18321,Bartonsville,PA,Pennsylvania Middle,No decision yet
-18322,Brodheadsville,PA,Pennsylvania Middle,No decision yet
-18323,Buck Hill Falls,PA,Pennsylvania Middle,No decision yet
-18324,Bushkill,PA,Pennsylvania Middle,No decision yet
-18325,Canadensis,PA,Pennsylvania Middle,No decision yet
-18326,Cresco,PA,Pennsylvania Middle,No decision yet
-18327,Delaware Water Gap,PA,Pennsylvania Middle,No decision yet
-18328,Dingmans Ferry,PA,Pennsylvania Middle,No decision yet
-18330,Effort,PA,Pennsylvania Middle,No decision yet
-18331,Gilbert,PA,Pennsylvania Middle,No decision yet
-18332,Henryville,PA,Pennsylvania Middle,No decision yet
-18333,Kresgeville,PA,Pennsylvania Middle,No decision yet
-18334,Long Pond,PA,Pennsylvania Middle,No decision yet
-18335,Marshalls Creek,PA,Pennsylvania Middle,No decision yet
-18336,Matamoras,PA,Pennsylvania Middle,No decision yet
-18337,Milford,PA,Pennsylvania Middle,No decision yet
-18340,Millrift,PA,Pennsylvania Middle,No decision yet
-18341,Minisink Hills,PA,Pennsylvania Middle,No decision yet
-18342,Mountainhome,PA,Pennsylvania Middle,No decision yet
+18201,Hazleton,PA,Pennsylvania Middle,Texts not treated as calls
+18202,Hazleton,PA,Pennsylvania Middle,Texts not treated as calls
+18210,Albrightsville,PA,Pennsylvania Middle,Texts not treated as calls
+18211,Andreas,PA,Pennsylvania Middle,Texts not treated as calls
+18212,Ashfield,PA,Pennsylvania Middle,Texts not treated as calls
+18214,Barnesville,PA,Pennsylvania Middle,Texts not treated as calls
+18216,Beaver Meadows,PA,Pennsylvania Middle,Texts not treated as calls
+18218,Coaldale,PA,Pennsylvania Middle,Texts not treated as calls
+18219,Conyngham,PA,Pennsylvania Middle,Texts not treated as calls
+18220,Delano,PA,Pennsylvania Middle,Texts not treated as calls
+18221,Drifton,PA,Pennsylvania Middle,Texts not treated as calls
+18222,Drums,PA,Pennsylvania Middle,Texts not treated as calls
+18223,Ebervale,PA,Pennsylvania Middle,Texts not treated as calls
+18224,Freeland,PA,Pennsylvania Middle,Texts not treated as calls
+18225,Harleigh,PA,Pennsylvania Middle,Texts not treated as calls
+18229,Jim Thorpe,PA,Pennsylvania Middle,Texts not treated as calls
+18230,Junedale,PA,Pennsylvania Middle,Texts not treated as calls
+18231,Kelayres,PA,Pennsylvania Middle,Texts not treated as calls
+18232,Lansford,PA,Pennsylvania Middle,Texts not treated as calls
+18234,Lattimer Mines,PA,Pennsylvania Middle,Texts not treated as calls
+18235,Lehighton,PA,Pennsylvania Middle,Texts not treated as calls
+18237,Mcadoo,PA,Pennsylvania Middle,Texts not treated as calls
+18239,Milnesville,PA,Pennsylvania Middle,Texts not treated as calls
+18240,Nesquehoning,PA,Pennsylvania Middle,Texts not treated as calls
+18241,Nuremberg,PA,Pennsylvania Middle,Texts not treated as calls
+18242,Oneida,PA,Pennsylvania Middle,Texts not treated as calls
+18244,Parryville,PA,Pennsylvania Middle,Texts not treated as calls
+18245,Quakake,PA,Pennsylvania Middle,Texts not treated as calls
+18246,Rock Glen,PA,Pennsylvania Middle,Texts not treated as calls
+18247,Saint Johns,PA,Pennsylvania Middle,Texts not treated as calls
+18248,Sheppton,PA,Pennsylvania Middle,Texts not treated as calls
+18249,Sugarloaf,PA,Pennsylvania Middle,Texts not treated as calls
+18250,Summit Hill,PA,Pennsylvania Middle,Texts not treated as calls
+18251,Sybertsville,PA,Pennsylvania Middle,Texts not treated as calls
+18252,Tamaqua,PA,Pennsylvania Middle,Texts not treated as calls
+18254,Tresckow,PA,Pennsylvania Middle,Texts not treated as calls
+18255,Weatherly,PA,Pennsylvania Middle,Texts not treated as calls
+18256,Weston,PA,Pennsylvania Middle,Texts not treated as calls
+18301,East Stroudsburg,PA,Pennsylvania Middle,Texts not treated as calls
+18302,East Stroudsburg,PA,Pennsylvania Middle,Texts not treated as calls
+18320,Analomink,PA,Pennsylvania Middle,Texts not treated as calls
+18321,Bartonsville,PA,Pennsylvania Middle,Texts not treated as calls
+18322,Brodheadsville,PA,Pennsylvania Middle,Texts not treated as calls
+18323,Buck Hill Falls,PA,Pennsylvania Middle,Texts not treated as calls
+18324,Bushkill,PA,Pennsylvania Middle,Texts not treated as calls
+18325,Canadensis,PA,Pennsylvania Middle,Texts not treated as calls
+18326,Cresco,PA,Pennsylvania Middle,Texts not treated as calls
+18327,Delaware Water Gap,PA,Pennsylvania Middle,Texts not treated as calls
+18328,Dingmans Ferry,PA,Pennsylvania Middle,Texts not treated as calls
+18330,Effort,PA,Pennsylvania Middle,Texts not treated as calls
+18331,Gilbert,PA,Pennsylvania Middle,Texts not treated as calls
+18332,Henryville,PA,Pennsylvania Middle,Texts not treated as calls
+18333,Kresgeville,PA,Pennsylvania Middle,Texts not treated as calls
+18334,Long Pond,PA,Pennsylvania Middle,Texts not treated as calls
+18335,Marshalls Creek,PA,Pennsylvania Middle,Texts not treated as calls
+18336,Matamoras,PA,Pennsylvania Middle,Texts not treated as calls
+18337,Milford,PA,Pennsylvania Middle,Texts not treated as calls
+18340,Millrift,PA,Pennsylvania Middle,Texts not treated as calls
+18341,Minisink Hills,PA,Pennsylvania Middle,Texts not treated as calls
+18342,Mountainhome,PA,Pennsylvania Middle,Texts not treated as calls
 18343,Mount Bethel,PA,Pennsylvania Eastern,Texts treated as calls
-18344,Mount Pocono,PA,Pennsylvania Middle,No decision yet
-18346,Pocono Summit,PA,Pennsylvania Middle,No decision yet
-18347,Pocono Lake,PA,Pennsylvania Middle,No decision yet
-18348,Pocono Lake Preserve,PA,Pennsylvania Middle,No decision yet
-18349,Pocono Manor,PA,Pennsylvania Middle,No decision yet
-18350,Pocono Pines,PA,Pennsylvania Middle,No decision yet
+18344,Mount Pocono,PA,Pennsylvania Middle,Texts not treated as calls
+18346,Pocono Summit,PA,Pennsylvania Middle,Texts not treated as calls
+18347,Pocono Lake,PA,Pennsylvania Middle,Texts not treated as calls
+18348,Pocono Lake Preserve,PA,Pennsylvania Middle,Texts not treated as calls
+18349,Pocono Manor,PA,Pennsylvania Middle,Texts not treated as calls
+18350,Pocono Pines,PA,Pennsylvania Middle,Texts not treated as calls
 18351,Portland,PA,Pennsylvania Eastern,Texts treated as calls
-18352,Reeders,PA,Pennsylvania Middle,No decision yet
-18353,Saylorsburg,PA,Pennsylvania Middle,No decision yet
-18354,Sciota,PA,Pennsylvania Middle,No decision yet
-18355,Scotrun,PA,Pennsylvania Middle,No decision yet
-18356,Shawnee On Delaware,PA,Pennsylvania Middle,No decision yet
-18357,Skytop,PA,Pennsylvania Middle,No decision yet
-18360,Stroudsburg,PA,Pennsylvania Middle,No decision yet
-18370,Swiftwater,PA,Pennsylvania Middle,No decision yet
-18371,Tamiment,PA,Pennsylvania Middle,No decision yet
-18372,Tannersville,PA,Pennsylvania Middle,No decision yet
-18403,Archbald,PA,Pennsylvania Middle,No decision yet
-18405,Beach Lake,PA,Pennsylvania Middle,No decision yet
-18407,Carbondale,PA,Pennsylvania Middle,No decision yet
-18410,Chinchilla,PA,Pennsylvania Middle,No decision yet
-18411,Clarks Summit,PA,Pennsylvania Middle,No decision yet
-18413,Clifford,PA,Pennsylvania Middle,No decision yet
-18414,Dalton,PA,Pennsylvania Middle,No decision yet
-18415,Damascus,PA,Pennsylvania Middle,No decision yet
-18416,Elmhurst,PA,Pennsylvania Middle,No decision yet
-18417,Equinunk,PA,Pennsylvania Middle,No decision yet
-18419,Factoryville,PA,Pennsylvania Middle,No decision yet
-18420,Fleetville,PA,Pennsylvania Middle,No decision yet
-18421,Forest City,PA,Pennsylvania Middle,No decision yet
-18424,Gouldsboro,PA,Pennsylvania Middle,No decision yet
-18425,Greeley,PA,Pennsylvania Middle,No decision yet
-18426,Greentown,PA,Pennsylvania Middle,No decision yet
-18427,Hamlin,PA,Pennsylvania Middle,No decision yet
-18428,Hawley,PA,Pennsylvania Middle,No decision yet
-18430,Herrick Center,PA,Pennsylvania Middle,No decision yet
-18431,Honesdale,PA,Pennsylvania Middle,No decision yet
-18433,Jermyn,PA,Pennsylvania Middle,No decision yet
-18434,Jessup,PA,Pennsylvania Middle,No decision yet
-18435,Lackawaxen,PA,Pennsylvania Middle,No decision yet
-18436,Lake Ariel,PA,Pennsylvania Middle,No decision yet
-18437,Lake Como,PA,Pennsylvania Middle,No decision yet
-18438,Lakeville,PA,Pennsylvania Middle,No decision yet
-18439,Lakewood,PA,Pennsylvania Middle,No decision yet
-18440,La Plume,PA,Pennsylvania Middle,No decision yet
-18441,Lenoxville,PA,Pennsylvania Middle,No decision yet
-18443,Milanville,PA,Pennsylvania Middle,No decision yet
-18444,Moscow,PA,Pennsylvania Middle,No decision yet
-18445,Newfoundland,PA,Pennsylvania Middle,No decision yet
-18446,Nicholson,PA,Pennsylvania Middle,No decision yet
-18447,Olyphant,PA,Pennsylvania Middle,No decision yet
-18448,Olyphant,PA,Pennsylvania Middle,No decision yet
-18449,Orson,PA,Pennsylvania Middle,No decision yet
-18451,Paupack,PA,Pennsylvania Middle,No decision yet
-18452,Peckville,PA,Pennsylvania Middle,No decision yet
-18453,Pleasant Mount,PA,Pennsylvania Middle,No decision yet
-18454,Poyntelle,PA,Pennsylvania Middle,No decision yet
-18455,Preston Park,PA,Pennsylvania Middle,No decision yet
-18456,Prompton,PA,Pennsylvania Middle,No decision yet
-18457,Rowland,PA,Pennsylvania Middle,No decision yet
-18458,Shohola,PA,Pennsylvania Middle,No decision yet
-18459,South Canaan,PA,Pennsylvania Middle,No decision yet
-18460,South Sterling,PA,Pennsylvania Middle,No decision yet
-18461,Starlight,PA,Pennsylvania Middle,No decision yet
-18462,Starrucca,PA,Pennsylvania Middle,No decision yet
-18463,Sterling,PA,Pennsylvania Middle,No decision yet
-18464,Tafton,PA,Pennsylvania Middle,No decision yet
-18465,Thompson,PA,Pennsylvania Middle,No decision yet
-18466,Tobyhanna,PA,Pennsylvania Middle,No decision yet
-18469,Tyler Hill,PA,Pennsylvania Middle,No decision yet
-18470,Union Dale,PA,Pennsylvania Middle,No decision yet
-18471,Waverly,PA,Pennsylvania Middle,No decision yet
-18472,Waymart,PA,Pennsylvania Middle,No decision yet
-18473,White Mills,PA,Pennsylvania Middle,No decision yet
-18501,Scranton,PA,Pennsylvania Middle,No decision yet
-18502,Scranton,PA,Pennsylvania Middle,No decision yet
-18503,Scranton,PA,Pennsylvania Middle,No decision yet
-18504,Scranton,PA,Pennsylvania Middle,No decision yet
-18505,Scranton,PA,Pennsylvania Middle,No decision yet
-18507,Moosic,PA,Pennsylvania Middle,No decision yet
-18508,Scranton,PA,Pennsylvania Middle,No decision yet
-18509,Scranton,PA,Pennsylvania Middle,No decision yet
-18510,Scranton,PA,Pennsylvania Middle,No decision yet
-18512,Scranton,PA,Pennsylvania Middle,No decision yet
-18515,Scranton,PA,Pennsylvania Middle,No decision yet
-18517,Taylor,PA,Pennsylvania Middle,No decision yet
-18518,Old Forge,PA,Pennsylvania Middle,No decision yet
-18519,Scranton,PA,Pennsylvania Middle,No decision yet
-18540,Scranton,PA,Pennsylvania Middle,No decision yet
-18577,Scranton,PA,Pennsylvania Middle,No decision yet
-18601,Beach Haven,PA,Pennsylvania Middle,No decision yet
-18602,Bear Creek,PA,Pennsylvania Middle,No decision yet
-18603,Berwick,PA,Pennsylvania Middle,No decision yet
-18610,Blakeslee,PA,Pennsylvania Middle,No decision yet
-18611,Cambra,PA,Pennsylvania Middle,No decision yet
-18612,Dallas,PA,Pennsylvania Middle,No decision yet
-18614,Dushore,PA,Pennsylvania Middle,No decision yet
-18615,Falls,PA,Pennsylvania Middle,No decision yet
-18616,Forksville,PA,Pennsylvania Middle,No decision yet
-18617,Glen Lyon,PA,Pennsylvania Middle,No decision yet
-18618,Harveys Lake,PA,Pennsylvania Middle,No decision yet
-18619,Hillsgrove,PA,Pennsylvania Middle,No decision yet
-18621,Hunlock Creek,PA,Pennsylvania Middle,No decision yet
-18622,Huntington Mills,PA,Pennsylvania Middle,No decision yet
-18623,Laceyville,PA,Pennsylvania Middle,No decision yet
-18624,Lake Harmony,PA,Pennsylvania Middle,No decision yet
-18625,Lake Winola,PA,Pennsylvania Middle,No decision yet
-18626,Laporte,PA,Pennsylvania Middle,No decision yet
-18627,Lehman,PA,Pennsylvania Middle,No decision yet
-18628,Lopez,PA,Pennsylvania Middle,No decision yet
-18629,Mehoopany,PA,Pennsylvania Middle,No decision yet
-18630,Meshoppen,PA,Pennsylvania Middle,No decision yet
-18631,Mifflinville,PA,Pennsylvania Middle,No decision yet
-18632,Mildred,PA,Pennsylvania Middle,No decision yet
-18634,Nanticoke,PA,Pennsylvania Middle,No decision yet
-18635,Nescopeck,PA,Pennsylvania Middle,No decision yet
-18636,Noxen,PA,Pennsylvania Middle,No decision yet
-18640,Pittston,PA,Pennsylvania Middle,No decision yet
-18641,Pittston,PA,Pennsylvania Middle,No decision yet
-18642,Duryea,PA,Pennsylvania Middle,No decision yet
-18643,Pittston,PA,Pennsylvania Middle,No decision yet
-18644,Wyoming,PA,Pennsylvania Middle,No decision yet
-18651,Plymouth,PA,Pennsylvania Middle,No decision yet
-18653,Ransom,PA,Pennsylvania Middle,No decision yet
-18654,Shawanese,PA,Pennsylvania Middle,No decision yet
-18655,Shickshinny,PA,Pennsylvania Middle,No decision yet
-18656,Sweet Valley,PA,Pennsylvania Middle,No decision yet
-18657,Tunkhannock,PA,Pennsylvania Middle,No decision yet
-18660,Wapwallopen,PA,Pennsylvania Middle,No decision yet
-18661,White Haven,PA,Pennsylvania Middle,No decision yet
-18690,Dallas,PA,Pennsylvania Middle,No decision yet
-18701,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18702,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18703,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18704,Kingston,PA,Pennsylvania Middle,No decision yet
-18705,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18706,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18707,Mountain Top,PA,Pennsylvania Middle,No decision yet
-18708,Shavertown,PA,Pennsylvania Middle,No decision yet
-18709,Luzerne,PA,Pennsylvania Middle,No decision yet
-18710,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18711,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18762,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18764,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18765,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18766,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18767,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18769,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18773,Wilkes Barre,PA,Pennsylvania Middle,No decision yet
-18801,Montrose,PA,Pennsylvania Middle,No decision yet
-18810,Athens,PA,Pennsylvania Middle,No decision yet
-18812,Brackney,PA,Pennsylvania Middle,No decision yet
-18813,Brooklyn,PA,Pennsylvania Middle,No decision yet
-18814,Burlington,PA,Pennsylvania Middle,No decision yet
-18815,Camptown,PA,Pennsylvania Middle,No decision yet
-18816,Dimock,PA,Pennsylvania Middle,No decision yet
-18817,East Smithfield,PA,Pennsylvania Middle,No decision yet
-18818,Friendsville,PA,Pennsylvania Middle,No decision yet
-18820,Gibson,PA,Pennsylvania Middle,No decision yet
-18821,Great Bend,PA,Pennsylvania Middle,No decision yet
-18822,Hallstead,PA,Pennsylvania Middle,No decision yet
-18823,Harford,PA,Pennsylvania Middle,No decision yet
-18824,Hop Bottom,PA,Pennsylvania Middle,No decision yet
-18825,Jackson,PA,Pennsylvania Middle,No decision yet
-18826,Kingsley,PA,Pennsylvania Middle,No decision yet
-18827,Lanesboro,PA,Pennsylvania Middle,No decision yet
-18828,Lawton,PA,Pennsylvania Middle,No decision yet
-18829,Le Raysville,PA,Pennsylvania Middle,No decision yet
-18830,Little Meadows,PA,Pennsylvania Middle,No decision yet
-18831,Milan,PA,Pennsylvania Middle,No decision yet
-18832,Monroeton,PA,Pennsylvania Middle,No decision yet
-18833,New Albany,PA,Pennsylvania Middle,No decision yet
-18834,New Milford,PA,Pennsylvania Middle,No decision yet
-18837,Rome,PA,Pennsylvania Middle,No decision yet
-18840,Sayre,PA,Pennsylvania Middle,No decision yet
-18842,South Gibson,PA,Pennsylvania Middle,No decision yet
-18843,South Montrose,PA,Pennsylvania Middle,No decision yet
-18844,Springville,PA,Pennsylvania Middle,No decision yet
-18845,Stevensville,PA,Pennsylvania Middle,No decision yet
-18846,Sugar Run,PA,Pennsylvania Middle,No decision yet
-18847,Susquehanna,PA,Pennsylvania Middle,No decision yet
-18848,Towanda,PA,Pennsylvania Middle,No decision yet
-18850,Ulster,PA,Pennsylvania Middle,No decision yet
-18851,Warren Center,PA,Pennsylvania Middle,No decision yet
-18853,Wyalusing,PA,Pennsylvania Middle,No decision yet
-18854,Wysox,PA,Pennsylvania Middle,No decision yet
+18352,Reeders,PA,Pennsylvania Middle,Texts not treated as calls
+18353,Saylorsburg,PA,Pennsylvania Middle,Texts not treated as calls
+18354,Sciota,PA,Pennsylvania Middle,Texts not treated as calls
+18355,Scotrun,PA,Pennsylvania Middle,Texts not treated as calls
+18356,Shawnee On Delaware,PA,Pennsylvania Middle,Texts not treated as calls
+18357,Skytop,PA,Pennsylvania Middle,Texts not treated as calls
+18360,Stroudsburg,PA,Pennsylvania Middle,Texts not treated as calls
+18370,Swiftwater,PA,Pennsylvania Middle,Texts not treated as calls
+18371,Tamiment,PA,Pennsylvania Middle,Texts not treated as calls
+18372,Tannersville,PA,Pennsylvania Middle,Texts not treated as calls
+18403,Archbald,PA,Pennsylvania Middle,Texts not treated as calls
+18405,Beach Lake,PA,Pennsylvania Middle,Texts not treated as calls
+18407,Carbondale,PA,Pennsylvania Middle,Texts not treated as calls
+18410,Chinchilla,PA,Pennsylvania Middle,Texts not treated as calls
+18411,Clarks Summit,PA,Pennsylvania Middle,Texts not treated as calls
+18413,Clifford,PA,Pennsylvania Middle,Texts not treated as calls
+18414,Dalton,PA,Pennsylvania Middle,Texts not treated as calls
+18415,Damascus,PA,Pennsylvania Middle,Texts not treated as calls
+18416,Elmhurst,PA,Pennsylvania Middle,Texts not treated as calls
+18417,Equinunk,PA,Pennsylvania Middle,Texts not treated as calls
+18419,Factoryville,PA,Pennsylvania Middle,Texts not treated as calls
+18420,Fleetville,PA,Pennsylvania Middle,Texts not treated as calls
+18421,Forest City,PA,Pennsylvania Middle,Texts not treated as calls
+18424,Gouldsboro,PA,Pennsylvania Middle,Texts not treated as calls
+18425,Greeley,PA,Pennsylvania Middle,Texts not treated as calls
+18426,Greentown,PA,Pennsylvania Middle,Texts not treated as calls
+18427,Hamlin,PA,Pennsylvania Middle,Texts not treated as calls
+18428,Hawley,PA,Pennsylvania Middle,Texts not treated as calls
+18430,Herrick Center,PA,Pennsylvania Middle,Texts not treated as calls
+18431,Honesdale,PA,Pennsylvania Middle,Texts not treated as calls
+18433,Jermyn,PA,Pennsylvania Middle,Texts not treated as calls
+18434,Jessup,PA,Pennsylvania Middle,Texts not treated as calls
+18435,Lackawaxen,PA,Pennsylvania Middle,Texts not treated as calls
+18436,Lake Ariel,PA,Pennsylvania Middle,Texts not treated as calls
+18437,Lake Como,PA,Pennsylvania Middle,Texts not treated as calls
+18438,Lakeville,PA,Pennsylvania Middle,Texts not treated as calls
+18439,Lakewood,PA,Pennsylvania Middle,Texts not treated as calls
+18440,La Plume,PA,Pennsylvania Middle,Texts not treated as calls
+18441,Lenoxville,PA,Pennsylvania Middle,Texts not treated as calls
+18443,Milanville,PA,Pennsylvania Middle,Texts not treated as calls
+18444,Moscow,PA,Pennsylvania Middle,Texts not treated as calls
+18445,Newfoundland,PA,Pennsylvania Middle,Texts not treated as calls
+18446,Nicholson,PA,Pennsylvania Middle,Texts not treated as calls
+18447,Olyphant,PA,Pennsylvania Middle,Texts not treated as calls
+18448,Olyphant,PA,Pennsylvania Middle,Texts not treated as calls
+18449,Orson,PA,Pennsylvania Middle,Texts not treated as calls
+18451,Paupack,PA,Pennsylvania Middle,Texts not treated as calls
+18452,Peckville,PA,Pennsylvania Middle,Texts not treated as calls
+18453,Pleasant Mount,PA,Pennsylvania Middle,Texts not treated as calls
+18454,Poyntelle,PA,Pennsylvania Middle,Texts not treated as calls
+18455,Preston Park,PA,Pennsylvania Middle,Texts not treated as calls
+18456,Prompton,PA,Pennsylvania Middle,Texts not treated as calls
+18457,Rowland,PA,Pennsylvania Middle,Texts not treated as calls
+18458,Shohola,PA,Pennsylvania Middle,Texts not treated as calls
+18459,South Canaan,PA,Pennsylvania Middle,Texts not treated as calls
+18460,South Sterling,PA,Pennsylvania Middle,Texts not treated as calls
+18461,Starlight,PA,Pennsylvania Middle,Texts not treated as calls
+18462,Starrucca,PA,Pennsylvania Middle,Texts not treated as calls
+18463,Sterling,PA,Pennsylvania Middle,Texts not treated as calls
+18464,Tafton,PA,Pennsylvania Middle,Texts not treated as calls
+18465,Thompson,PA,Pennsylvania Middle,Texts not treated as calls
+18466,Tobyhanna,PA,Pennsylvania Middle,Texts not treated as calls
+18469,Tyler Hill,PA,Pennsylvania Middle,Texts not treated as calls
+18470,Union Dale,PA,Pennsylvania Middle,Texts not treated as calls
+18471,Waverly,PA,Pennsylvania Middle,Texts not treated as calls
+18472,Waymart,PA,Pennsylvania Middle,Texts not treated as calls
+18473,White Mills,PA,Pennsylvania Middle,Texts not treated as calls
+18501,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18502,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18503,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18504,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18505,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18507,Moosic,PA,Pennsylvania Middle,Texts not treated as calls
+18508,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18509,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18510,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18512,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18515,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18517,Taylor,PA,Pennsylvania Middle,Texts not treated as calls
+18518,Old Forge,PA,Pennsylvania Middle,Texts not treated as calls
+18519,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18540,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18577,Scranton,PA,Pennsylvania Middle,Texts not treated as calls
+18601,Beach Haven,PA,Pennsylvania Middle,Texts not treated as calls
+18602,Bear Creek,PA,Pennsylvania Middle,Texts not treated as calls
+18603,Berwick,PA,Pennsylvania Middle,Texts not treated as calls
+18610,Blakeslee,PA,Pennsylvania Middle,Texts not treated as calls
+18611,Cambra,PA,Pennsylvania Middle,Texts not treated as calls
+18612,Dallas,PA,Pennsylvania Middle,Texts not treated as calls
+18614,Dushore,PA,Pennsylvania Middle,Texts not treated as calls
+18615,Falls,PA,Pennsylvania Middle,Texts not treated as calls
+18616,Forksville,PA,Pennsylvania Middle,Texts not treated as calls
+18617,Glen Lyon,PA,Pennsylvania Middle,Texts not treated as calls
+18618,Harveys Lake,PA,Pennsylvania Middle,Texts not treated as calls
+18619,Hillsgrove,PA,Pennsylvania Middle,Texts not treated as calls
+18621,Hunlock Creek,PA,Pennsylvania Middle,Texts not treated as calls
+18622,Huntington Mills,PA,Pennsylvania Middle,Texts not treated as calls
+18623,Laceyville,PA,Pennsylvania Middle,Texts not treated as calls
+18624,Lake Harmony,PA,Pennsylvania Middle,Texts not treated as calls
+18625,Lake Winola,PA,Pennsylvania Middle,Texts not treated as calls
+18626,Laporte,PA,Pennsylvania Middle,Texts not treated as calls
+18627,Lehman,PA,Pennsylvania Middle,Texts not treated as calls
+18628,Lopez,PA,Pennsylvania Middle,Texts not treated as calls
+18629,Mehoopany,PA,Pennsylvania Middle,Texts not treated as calls
+18630,Meshoppen,PA,Pennsylvania Middle,Texts not treated as calls
+18631,Mifflinville,PA,Pennsylvania Middle,Texts not treated as calls
+18632,Mildred,PA,Pennsylvania Middle,Texts not treated as calls
+18634,Nanticoke,PA,Pennsylvania Middle,Texts not treated as calls
+18635,Nescopeck,PA,Pennsylvania Middle,Texts not treated as calls
+18636,Noxen,PA,Pennsylvania Middle,Texts not treated as calls
+18640,Pittston,PA,Pennsylvania Middle,Texts not treated as calls
+18641,Pittston,PA,Pennsylvania Middle,Texts not treated as calls
+18642,Duryea,PA,Pennsylvania Middle,Texts not treated as calls
+18643,Pittston,PA,Pennsylvania Middle,Texts not treated as calls
+18644,Wyoming,PA,Pennsylvania Middle,Texts not treated as calls
+18651,Plymouth,PA,Pennsylvania Middle,Texts not treated as calls
+18653,Ransom,PA,Pennsylvania Middle,Texts not treated as calls
+18654,Shawanese,PA,Pennsylvania Middle,Texts not treated as calls
+18655,Shickshinny,PA,Pennsylvania Middle,Texts not treated as calls
+18656,Sweet Valley,PA,Pennsylvania Middle,Texts not treated as calls
+18657,Tunkhannock,PA,Pennsylvania Middle,Texts not treated as calls
+18660,Wapwallopen,PA,Pennsylvania Middle,Texts not treated as calls
+18661,White Haven,PA,Pennsylvania Middle,Texts not treated as calls
+18690,Dallas,PA,Pennsylvania Middle,Texts not treated as calls
+18701,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18702,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18703,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18704,Kingston,PA,Pennsylvania Middle,Texts not treated as calls
+18705,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18706,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18707,Mountain Top,PA,Pennsylvania Middle,Texts not treated as calls
+18708,Shavertown,PA,Pennsylvania Middle,Texts not treated as calls
+18709,Luzerne,PA,Pennsylvania Middle,Texts not treated as calls
+18710,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18711,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18762,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18764,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18765,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18766,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18767,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18769,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18773,Wilkes Barre,PA,Pennsylvania Middle,Texts not treated as calls
+18801,Montrose,PA,Pennsylvania Middle,Texts not treated as calls
+18810,Athens,PA,Pennsylvania Middle,Texts not treated as calls
+18812,Brackney,PA,Pennsylvania Middle,Texts not treated as calls
+18813,Brooklyn,PA,Pennsylvania Middle,Texts not treated as calls
+18814,Burlington,PA,Pennsylvania Middle,Texts not treated as calls
+18815,Camptown,PA,Pennsylvania Middle,Texts not treated as calls
+18816,Dimock,PA,Pennsylvania Middle,Texts not treated as calls
+18817,East Smithfield,PA,Pennsylvania Middle,Texts not treated as calls
+18818,Friendsville,PA,Pennsylvania Middle,Texts not treated as calls
+18820,Gibson,PA,Pennsylvania Middle,Texts not treated as calls
+18821,Great Bend,PA,Pennsylvania Middle,Texts not treated as calls
+18822,Hallstead,PA,Pennsylvania Middle,Texts not treated as calls
+18823,Harford,PA,Pennsylvania Middle,Texts not treated as calls
+18824,Hop Bottom,PA,Pennsylvania Middle,Texts not treated as calls
+18825,Jackson,PA,Pennsylvania Middle,Texts not treated as calls
+18826,Kingsley,PA,Pennsylvania Middle,Texts not treated as calls
+18827,Lanesboro,PA,Pennsylvania Middle,Texts not treated as calls
+18828,Lawton,PA,Pennsylvania Middle,Texts not treated as calls
+18829,Le Raysville,PA,Pennsylvania Middle,Texts not treated as calls
+18830,Little Meadows,PA,Pennsylvania Middle,Texts not treated as calls
+18831,Milan,PA,Pennsylvania Middle,Texts not treated as calls
+18832,Monroeton,PA,Pennsylvania Middle,Texts not treated as calls
+18833,New Albany,PA,Pennsylvania Middle,Texts not treated as calls
+18834,New Milford,PA,Pennsylvania Middle,Texts not treated as calls
+18837,Rome,PA,Pennsylvania Middle,Texts not treated as calls
+18840,Sayre,PA,Pennsylvania Middle,Texts not treated as calls
+18842,South Gibson,PA,Pennsylvania Middle,Texts not treated as calls
+18843,South Montrose,PA,Pennsylvania Middle,Texts not treated as calls
+18844,Springville,PA,Pennsylvania Middle,Texts not treated as calls
+18845,Stevensville,PA,Pennsylvania Middle,Texts not treated as calls
+18846,Sugar Run,PA,Pennsylvania Middle,Texts not treated as calls
+18847,Susquehanna,PA,Pennsylvania Middle,Texts not treated as calls
+18848,Towanda,PA,Pennsylvania Middle,Texts not treated as calls
+18850,Ulster,PA,Pennsylvania Middle,Texts not treated as calls
+18851,Warren Center,PA,Pennsylvania Middle,Texts not treated as calls
+18853,Wyalusing,PA,Pennsylvania Middle,Texts not treated as calls
+18854,Wysox,PA,Pennsylvania Middle,Texts not treated as calls
 18901,Doylestown,PA,Pennsylvania Eastern,Texts treated as calls
 18902,Doylestown,PA,Pennsylvania Eastern,Texts treated as calls
 18910,Bedminster,PA,Pennsylvania Eastern,Texts treated as calls
@@ -25254,7 +25254,7 @@ zip,place,state,district,ruling
 19545,New Berlinville,PA,Pennsylvania Eastern,Texts treated as calls
 19547,Oley,PA,Pennsylvania Eastern,Texts treated as calls
 19548,Pine Forge,PA,Pennsylvania Eastern,Texts treated as calls
-19549,Port Clinton,PA,Pennsylvania Middle,No decision yet
+19549,Port Clinton,PA,Pennsylvania Middle,Texts not treated as calls
 19550,Rehrersburg,PA,Pennsylvania Eastern,Texts treated as calls
 19551,Robesonia,PA,Pennsylvania Eastern,Texts treated as calls
 19554,Shartlesville,PA,Pennsylvania Eastern,Texts treated as calls
